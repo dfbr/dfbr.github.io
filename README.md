@@ -1,5 +1,6 @@
-# norwegianWords
+# Norwegian Words
 Norwegian words (and other resources) that I should be learning
+Jeg er norsk lærer og for å hjelpe meg, setter jeg inn ord (og andre resurser) til listen. Ord kommer fra ordlist.csv 
 
 ## Nouns
 
@@ -16,3 +17,7 @@ Norwegian words (and other resources) that I should be learning
 ## Pronouns
 
 ## Conjunctions
+
+## Linker
+
+## Andre resurser
