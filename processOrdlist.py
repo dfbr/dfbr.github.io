@@ -38,7 +38,8 @@ with open(wordListFile,newline='') as csvfile:
                                                'norsk': line['norsk']})
         elif line['kategorie'] == 'link':
             myWords[line['kategorie']].append({'link': line['norsk'],
-                                               'title': line['engelsk']})
+                                               'title': line['engelsk'],
+                                               'description': line['gender']})
         elif line['kategorie'] == 'other':
             myWords[line['kategorie']].append({'other': line['norsk']})
         # print("{}  {}  {}".format(line['kategorie'],line['norsk'],line['engelsk']))
@@ -62,7 +63,7 @@ outputFile.close()
 linkText = ""
 # first nouns...
 for i in myWords['link']:
-    nounText += "| [{}]({}) | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
+    nounText += "| [{}]({}) | {} |\n".format(i['link'],i['title'],i['description'])
 
 file = open ('headers/linksHeader.md',mode='r')
 content = file.read()
