@@ -5,5 +5,3 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | Norwegian | English | Gender |
 | --- | --- | --- |
 <wordsGoHere>
-
-[home](index.html)

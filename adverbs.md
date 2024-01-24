@@ -5,5 +5,3 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 | Norwegian | English |
 | --- | --- |
 
-
-[home](index.html)

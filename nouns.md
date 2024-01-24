@@ -25,5 +25,3 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | [mange](https://www.ordnett.no/search?language=no&phrase=mange) | many |  |
 | [noen](https://www.ordnett.no/search?language=no&phrase=noen) | some |  |
 
-
-[home](index.html)

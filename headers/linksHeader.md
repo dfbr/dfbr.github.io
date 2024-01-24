@@ -3,5 +3,3 @@
 | Link | Description |
 | --- | --- |
 <wordsGoHere>
-
-[home](index.html)

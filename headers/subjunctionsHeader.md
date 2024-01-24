@@ -6,4 +6,3 @@ Subjunctions introduce subordinate clauses
 | --- | --- |
 <wordsGoHere>
 
-[home](index.html)

@@ -5,5 +5,3 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | Norwegian | English |
 | --- | --- |
 <wordsGoHere>
-
-[home](index.html)

@@ -29,4 +29,3 @@ Subjunctions introduce subordinate clauses
 | [som](https://www.ordnett.no/search?language=no&phrase=som) | who/whom/which/that |
 
 
-[home](index.html)
