@@ -70,7 +70,7 @@ similarCategories = [
 
 for i in similarCategories:
     wordText = ""
-    for j in myWords['noun']:
+    for j in myWords[i]:
         wordText += "| [{}]({}) | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk']),j['engelsk'])
 
     headerFilename = 'headers/' + i + 'sHeader.md'
