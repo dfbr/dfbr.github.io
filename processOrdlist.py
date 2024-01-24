@@ -7,34 +7,36 @@ import markdown
 wordListFile = 'ordlist.csv'
 
 # here are the categories that I've defined
-categories = [
-    'noun',
+nonGenderedCategories = [
     'verb',
     'adjective',
     'adverb',
     'preposition',
-    'determiner',
     'pronoun',
-    'conjunction',
-    'subjunction',
+    'conjunction'
+]
+genderedCategories = [
+    'noun',
+    'determiner'
+]
+otherCategories = [
     'link'
 ]
+categories = nonGenderedCategories + genderedCategories + otherCategories
 
 # creat an empty dictionary. This will contain a dictionary for each category that will have the list of things from the csv file
 myWords = {}
 for i in categories:
     myWords[i] = []
 
-
-
 with open(wordListFile,newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for line in reader:
-        if line['kategorie'] == 'noun':
+        if line['kategorie'] in genderedCategories:
             myWords[line['kategorie']].append({'engelsk': line['engelsk'],
                                                'norsk': line['norsk'],
                                                'gender': line['gender']})
-        elif line['kategorie'] in ['verb','adjective','adverb','perposition','determiner','pronoun','conjunction']:
+        elif line['kategorie'] in nonGenderedCategories:
             myWords[line['kategorie']].append({'engelsk': line['engelsk'],
                                                'norsk': line['norsk']})
         elif line['kategorie'] == 'link':
@@ -47,18 +49,20 @@ with open(wordListFile,newline='') as csvfile:
 
 # now write a file for each type of word/thing...
 
-nounText = ""
-# first nouns...
-for i in myWords['noun']:
-    nounText += "| [{}]({}) | {} | {} |\n".format(i['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(i['norsk']),i['engelsk'],i['gender'])
+for i in genderedCategories:
+    nounText = ""
+    # first nouns...
+    for j in myWords[i]:
+        nounText += "| [{}]({}) | {} | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk']),j['engelsk'],j['gender'])
 
-file = open ('headers/nounsHeader.md',mode='r')
-content = file.read()
-file.close()
-content = content.replace("<wordsGoHere>",nounText)
-outputFile = open('nouns.md','w')
-outputFile.write(content)
-outputFile.close()
+    file = open ('headers/nounsHeader.md',mode='r')
+    content = file.read()
+    file.close()
+    content = content.replace("<wordsGoHere>",nounText)
+    outputFile = open('nouns.md','w')
+    outputFile.write(content)
+    # print("Updated: {}".format('headers/nounsHeader.md'))
+    outputFile.close()
 
 # now links
 linkText = ""
@@ -72,19 +76,11 @@ file.close()
 content = content.replace("<wordsGoHere>",linkText)
 outputFile = open('links.md','w')
 outputFile.write(content)
+# print("Updated: {}".format('headers/linksHeader.md'))
 outputFile.close()
 
-similarCategories = [
-    'verb',
-    'adjective',
-    'adverb',
-    'preposition',
-    'determiner',
-    'pronoun',
-    'conjunction'
-]
 
-for i in similarCategories:
+for i in nonGenderedCategories:
     wordText = ""
     for j in myWords[i]:
         wordText += "| [{}]({}) | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk'].replace(" ","%20")),j['engelsk'])
@@ -97,6 +93,7 @@ for i in similarCategories:
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
     outputFile.write(content)
+    # print("Updated: {}".format(outputFilename))
     outputFile.close()
 
 # now convert files to html using markdown...
@@ -115,6 +112,8 @@ for i in categories:
     outputFilename = i + "s.html" 
     outputFile = open(outputFilename,'w')
     outputFile.write(outerhtml)
+    # print("Updated: {}".format(outputFilename))
+    outputFile.close()
 
 # now the same but for README.md -> index.html
 filename = "README.md"
@@ -131,3 +130,5 @@ outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
 outputFilename = "index.html"
 outputFile = open(outputFilename,'w')
 outputFile.write(outerhtml)
+# print("Updated: {}".format(outputFilename))
+outputFile.close()

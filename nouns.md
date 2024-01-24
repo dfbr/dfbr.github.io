@@ -4,24 +4,26 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 
 | Norwegian | English | Gender |
 | --- | --- | --- |
-| [lukeoppgave](https://www.ordnett.no/search?language=no&phrase=lukeoppgave) | weeding task/basic task | m |
-| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
-| [tomme](https://www.ordnett.no/search?language=no&phrase=tomme) | drum | m |
-| [tilstedværelse](https://www.ordnett.no/search?language=no&phrase=tilstedværelse) | attendance | i |
-| [klager](https://www.ordnett.no/search?language=no&phrase=klager) | complaint | m |
-| [komplettering](https://www.ordnett.no/search?language=no&phrase=komplettering) | compliment | m |
-| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
-| [ring](https://www.ordnett.no/search?language=no&phrase=ring) | circle | m |
-| [linje](https://www.ordnett.no/search?language=no&phrase=linje) | line | m |
-| [trekant](https://www.ordnett.no/search?language=no&phrase=trekant) | triangle | m |
-| [firkant](https://www.ordnett.no/search?language=no&phrase=firkant) | square | m |
-| [rektangel](https://www.ordnett.no/search?language=no&phrase=rektangel) | rectangle | i |
-| [femkant](https://www.ordnett.no/search?language=no&phrase=femkant) | pentagon | m |
-| [sekskant](https://www.ordnett.no/search?language=no&phrase=sekskant) | hexagon | m |
-| [heksagon](https://www.ordnett.no/search?language=no&phrase=heksagon) | hexagon | m |
-| [åttekant](https://www.ordnett.no/search?language=no&phrase=åttekant) | octagon | m |
-| [oktogon](https://www.ordnett.no/search?language=no&phrase=oktogon) | octagon | m |
-| [sårbarhet](https://www.ordnett.no/search?language=no&phrase=sårbarhet) | vulnerability | m |
+| [en](https://www.ordnett.no/search?language=no&phrase=en) | a/an | m |
+| [ei](https://www.ordnett.no/search?language=no&phrase=ei) | a/an | f |
+| [et](https://www.ordnett.no/search?language=no&phrase=et) | a/an | i |
+| [min](https://www.ordnett.no/search?language=no&phrase=min) | my |  |
+| [din](https://www.ordnett.no/search?language=no&phrase=din) | your (singular) |  |
+| [hans](https://www.ordnett.no/search?language=no&phrase=hans) | his | m |
+| [hennes](https://www.ordnett.no/search?language=no&phrase=hennes) | her | f |
+| [dets](https://www.ordnett.no/search?language=no&phrase=dets) | its | i |
+| [vår](https://www.ordnett.no/search?language=no&phrase=vår) | our |  |
+| [deres](https://www.ordnett.no/search?language=no&phrase=deres) | your (plural) | None |
+| [denne](https://www.ordnett.no/search?language=no&phrase=denne) | this (singular |  masculine and femenine) |
+| [dette](https://www.ordnett.no/search?language=no&phrase=dette) | this (singular |  neuter) |
+| [disse](https://www.ordnett.no/search?language=no&phrase=disse) | (these) |  |
+| [hvilken](https://www.ordnett.no/search?language=no&phrase=hvilken) | which | m |
+| [hvilket](https://www.ordnett.no/search?language=no&phrase=hvilket) | which | i |
+| [hvilke](https://www.ordnett.no/search?language=no&phrase=hvilke) | which (plural) |  |
+| [alle](https://www.ordnett.no/search?language=no&phrase=alle) | all |  |
+| [begge](https://www.ordnett.no/search?language=no&phrase=begge) | both |  |
+| [mange](https://www.ordnett.no/search?language=no&phrase=mange) | many |  |
+| [noen](https://www.ordnett.no/search?language=no&phrase=noen) | some |  |
 
 
 [home](index.html)
