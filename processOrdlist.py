@@ -103,7 +103,7 @@ for i in categories:
     filename = i + "s.md"
     readingFile = open(filename,'r')
     content = readingFile.read()
-    html = markdown.markdown(content)
+    html = markdown.markdown(content, extensions=['tables'])
     html = html.replace(".md\"",".html\"")
     # now write to a new file
     outputFilename = i + "s.html"
@@ -114,7 +114,7 @@ for i in categories:
 filename = "README.md"
 readingFile = open(filename,'r')
 content = readingFile.read()
-html = markdown.markdown(content)
+html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
 # now write to a new file
 outputFilename = i + "index.html"
