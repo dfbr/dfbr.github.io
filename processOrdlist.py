@@ -71,13 +71,14 @@ similarCategories = [
 for i in similarCategories:
     wordText = ""
     for j in myWords[i]:
+        print(j)
         wordText += "| [{}]({}) | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk']),j['engelsk'])
 
     headerFilename = 'headers/' + i + 'sHeader.md'
     file = open (headerFilename,mode='r')
     content = file.read()
     file.close()
-    content = content.replace("<wordsGoHere>",nounText)
+    content = content.replace("<wordsGoHere>",wordText)
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
     outputFile.write(content)
