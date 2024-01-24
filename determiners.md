@@ -4,3 +4,6 @@ A modifying word that determines the kind of reference a noun or noun group has,
 
 | Norwegian | English |
 | --- | --- |
+
+
+[home](index.html)

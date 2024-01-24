@@ -4,3 +4,6 @@ A word used to connect clauses or sentences or to coordinate words in the same c
 
 | Norwegian | English |
 | --- | --- |
+
+
+[home](index.html)

@@ -22,3 +22,6 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | [åttekant](https://www.ordnett.no/search?language=no&phrase=åttekant) | octagon | m |
 | [oktogon](https://www.ordnett.no/search?language=no&phrase=oktogon) | octagon | m |
 | [sårbarhet](https://www.ordnett.no/search?language=no&phrase=sårbarhet) | vulnerability | m |
+
+
+[home](index.html)

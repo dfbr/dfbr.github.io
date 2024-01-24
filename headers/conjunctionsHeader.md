@@ -5,3 +5,5 @@ A word used to connect clauses or sentences or to coordinate words in the same c
 | Norwegian | English |
 | --- | --- |
 <wordsGoHere>
+
+[home](index.html)

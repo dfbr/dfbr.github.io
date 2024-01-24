@@ -5,3 +5,5 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 | Norwegian | English |
 | --- | --- |
 <wordsGoHere>
+
+[home](index.html)

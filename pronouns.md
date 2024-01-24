@@ -4,3 +4,6 @@ A word that can function as a noun phrase used by itself and that refers either 
 
 | Norwegian | English |
 | --- | --- |
+
+
+[home](index.html)
