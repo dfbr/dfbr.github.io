@@ -63,7 +63,7 @@ outputFile.close()
 linkText = ""
 # first nouns...
 for i in myWords['link']:
-    linkText += "| [{}]({}) | {} |\n".format(i['link'],i['title'],i['description'])
+    linkText += "| [{}]({}) | {} |\n".format(i['title'],i['link'],i['description'])
 
 file = open ('headers/linksHeader.md',mode='r')
 content = file.read()
