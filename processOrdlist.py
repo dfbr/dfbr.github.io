@@ -48,6 +48,12 @@ with open(wordListFile,newline='') as csvfile:
 nounText = ""
 # first nouns...
 for i in myWords['noun']:
-    nounText += "| [{}]({}) | {} | {} |\n".format(i['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(i['norsk']),['engelsk'],i['gender'])
+    nounText += "| [{}]({}) | {} | {} |\n".format(i['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(i['norsk']),i['engelsk'],i['gender'])
 
-print(nounText)
+file = open ('nounsHeader.md',mode='r')
+content = file.read()
+file.close()
+content = content.replace("<wordsGoHere>",nounText)
+outputFile = open('nouns.md','w')
+outputFile.write(content)
+outputFile.close()

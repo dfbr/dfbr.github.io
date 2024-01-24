@@ -3,7 +3,7 @@
 Norwegian words (and other resources) that I should be learning
 Jeg er norsk lærer og for å hjelpe meg, setter jeg inn ord (og andre resurser) til listen. Ord kommer fra ordlist.csv 
 
-## Nouns
+## [Nouns](nouns.md)
 
 A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).
 
