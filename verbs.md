@@ -12,4 +12,6 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å strikke](https://www.ordnett.no/search?language=no&phrase=å%20strikke) | to knit |
 | [å klage over](https://www.ordnett.no/search?language=no&phrase=å%20klage%20over) | to complain |
 | [bestå](https://www.ordnett.no/search?language=no&phrase=bestå) | to consit of |
+| [å dyrke](https://www.ordnett.no/search?language=no&phrase=å%20dyrke) | to cultivate |
+| [å regne](https://www.ordnett.no/search?language=no&phrase=å%20regne) | calculate/estimate/reckon/assume |
 
