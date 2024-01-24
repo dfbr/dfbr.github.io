@@ -14,12 +14,12 @@ nonGenderedCategories = [
     'preposition',
     'pronoun',
     'conjunction',
-    'subjunction'
+    'subjunction',
+    'phrase'
 ]
 genderedCategories = [
     'noun',
-    'determiner',
-    'phrase'
+    'determiner'
 ]
 otherCategories = [
     'link'
