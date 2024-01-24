@@ -1,6 +1,7 @@
 #! /usr/bin/env python3
 
 import csv
+import markdown
 
 # file that we're going to work with...
 wordListFile = 'ordlist.csv'
@@ -15,8 +16,7 @@ categories = [
     'determiner',
     'pronoun',
     'conjunction',
-    'link',
-    'other'
+    'link'
 ]
 
 # creat an empty dictionary. This will contain a dictionary for each category that will have the list of things from the csv file
@@ -97,3 +97,26 @@ for i in similarCategories:
     outputFile = open(outputFilename,'w')
     outputFile.write(content)
     outputFile.close()
+
+# now convert files to html using markdown...
+for i in categories:
+    filename = i + "s.md"
+    readingFile = open(filename,'r')
+    content = readingFile.read()
+    html = markdown.markdown(content)
+    html = html.replace(".md\"",".html\"")
+    # now write to a new file
+    outputFilename = i + "s.html"
+    outputFile = open(outputFilename,'w')
+    outputFile.write(html)
+
+# now the same but for README.md -> index.html
+filename = "README.md"
+readingFile = open(filename,'r')
+content = readingFile.read()
+html = markdown.markdown(content)
+html = html.replace(".md\"",".html\"")
+# now write to a new file
+outputFilename = i + "index.html"
+outputFile = open(outputFilename,'w')
+outputFile.write(html)
