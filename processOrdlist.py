@@ -78,7 +78,7 @@ for i in similarCategories:
     content = file.read()
     file.close()
     content = content.replace("<wordsGoHere>",nounText)
-    outputFilename = i + '.md'
+    outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
     outputFile.write(content)
     outputFile.close()
