@@ -42,4 +42,12 @@ with open(wordListFile,newline='') as csvfile:
         elif line['kategorie'] == 'other':
             myWords[line['kategorie']].append({'other': line['norsk']})
         # print("{}  {}  {}".format(line['kategorie'],line['norsk'],line['engelsk']))
-print(myWords)
+
+# now write a file for each type of word/thing...
+
+nounText = ""
+# first nouns...
+for i in myWords['noun']:
+    nounText += "| {} | {} | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
+
+print(nounText)
