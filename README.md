@@ -6,7 +6,7 @@ Jeg er norsk lærer og for å hjelpe meg, setter jeg inn ord (og andre resurser)
 
 ## Contributions
 
-Please contribute by adding items to `ordlist.csv`. Contributions will be merged and lists updated. Thank you!
+Please contribute by adding items to `ordlist.csv` in [the github repository](https://github.com/dfbr/dfbr.github.io). Contributions will be merged and lists updated. Thank you!
 
 ## [Nouns](nouns.md)
 
