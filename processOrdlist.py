@@ -108,7 +108,7 @@ for i in categories:
     html = html.replace("<table>","<center><table border=1>")
     html = html.replace("</table>","</table></center>")
     # now write to a new file
-    outputFilename = i + "s.html"
+    outputFilename = i + "s.html" 
     outputFile = open(outputFilename,'w')
     outputFile.write(html)
 
