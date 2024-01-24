@@ -117,6 +117,6 @@ content = readingFile.read()
 html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
 # now write to a new file
-outputFilename = i + "index.html"
+outputFilename = "index.html"
 outputFile = open(outputFilename,'w')
 outputFile.write(html)
