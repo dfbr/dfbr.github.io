@@ -48,6 +48,6 @@ with open(wordListFile,newline='') as csvfile:
 nounText = ""
 # first nouns...
 for i in myWords['noun']:
-    nounText += "| {} | {} | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
+    nounText += "| [{}]({}) | {} | {} |\n".format(i['norsk'],"https://www.ordnett.no/search?language=no&phrase=".format(i['norsk']),['engelsk'],i['gender'])
 
 print(nounText)
