@@ -58,6 +58,20 @@ outputFile = open('nouns.md','w')
 outputFile.write(content)
 outputFile.close()
 
+# now links
+linkText = ""
+# first nouns...
+for i in myWords['link']:
+    nounText += "| [{}]({}) | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
+
+file = open ('headers/linksHeader.md',mode='r')
+content = file.read()
+file.close()
+content = content.replace("<wordsGoHere>",linkText)
+outputFile = open('links.md','w')
+outputFile.write(content)
+outputFile.close()
+
 similarCategories = [
     'verb',
     'adjective',

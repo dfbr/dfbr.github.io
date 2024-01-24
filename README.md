@@ -38,7 +38,3 @@ A word used to connect clauses or sentences or to coordinate words in the same c
 ## [Links](links.md) 
 
 Links to other websites etc.
-
-## Andre resurser
-
-Something else that we want to know about to help us learn Norwegian.
