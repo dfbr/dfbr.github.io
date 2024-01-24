@@ -101,26 +101,32 @@ for i in similarCategories:
 # now convert files to html using markdown...
 for i in categories:
     filename = i + "s.md"
+    headerHTMLFile = 'headers/htmlHeader.html'
+    outerhtml = open(headerFilename,'r').read()
     readingFile = open(filename,'r')
     content = readingFile.read()
     html = markdown.markdown(content, extensions=['tables'])
     html = html.replace(".md\"",".html\"")
     html = html.replace("<table>","<center><table border=1>")
     html = html.replace("</table>","</table></center>")
+    outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
     # now write to a new file
     outputFilename = i + "s.html" 
     outputFile = open(outputFilename,'w')
-    outputFile.write(html)
+    outputFile.write(outerhtml)
 
 # now the same but for README.md -> index.html
 filename = "README.md"
 readingFile = open(filename,'r')
 content = readingFile.read()
+headerHTMLFile = 'headers/htmlHeader.html'
+outerhtml = open(headerFilename,'r').read()
 html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
 html = html.replace("<table>","<center><table border=1>")
 html = html.replace("</table>","</table></center>")
+outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
 # now write to a new file
 outputFilename = "index.html"
 outputFile = open(outputFilename,'w')
-outputFile.write(html)
+outputFile.write(outerhtml)
