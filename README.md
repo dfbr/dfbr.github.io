@@ -1,7 +1,12 @@
 # Norwegian Words
 
-Norwegian words (and other resources) that I should be learning
+Norwegian words (and other resources) that I should be learning.
+
 Jeg er norsk lærer og for å hjelpe meg, setter jeg inn ord (og andre resurser) til listen. Ord kommer fra ordlist.csv 
+
+## Contributions
+
+Please contribute by adding items to `ordlist.csv`. Contributions will be merged and lists updated. Thank you!
 
 ## [Nouns](nouns.md)
 
