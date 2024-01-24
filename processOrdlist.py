@@ -105,6 +105,8 @@ for i in categories:
     content = readingFile.read()
     html = markdown.markdown(content, extensions=['tables'])
     html = html.replace(".md\"",".html\"")
+    html = html.replace("<table>","<center><table border=1>")
+    html = html.replace("</table>","</table></center>")
     # now write to a new file
     outputFilename = i + "s.html"
     outputFile = open(outputFilename,'w')
@@ -116,6 +118,8 @@ readingFile = open(filename,'r')
 content = readingFile.read()
 html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
+html = html.replace("<table>","<center><table border=1>")
+html = html.replace("</table>","</table></center>")
 # now write to a new file
 outputFilename = "index.html"
 outputFile = open(outputFilename,'w')
