@@ -13,7 +13,8 @@ nonGenderedCategories = [
     'adverb',
     'preposition',
     'pronoun',
-    'conjunction'
+    'conjunction',
+    'subjunction'
 ]
 genderedCategories = [
     'noun',
