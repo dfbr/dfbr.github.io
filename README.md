@@ -40,6 +40,10 @@ A word that can function as a noun phrase used by itself and that refers either 
 
 A word used to connect clauses or sentences or to coordinate words in the same clause (e.g. and, but, if).
 
+## [Subjunctions](subjunctions.md)
+
+Subjunctions introduce subordinate clauses
+
 ## [Links](links.md) 
 
 Links to other websites etc.

@@ -16,6 +16,7 @@ categories = [
     'determiner',
     'pronoun',
     'conjunction',
+    'subjunction',
     'link'
 ]
 
@@ -121,7 +122,6 @@ readingFile = open(filename,'r')
 content = readingFile.read()
 headerHTMLFile = 'headers/htmlHeader.html'
 outerhtml = open(headerHTMLFile,'r').read()
-print(outerhtml)
 html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
 html = html.replace("<table>","<center><table border=1>")
