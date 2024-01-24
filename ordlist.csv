@@ -2,10 +2,10 @@ kategorie,norsk,engelsk,gender
 verb,å beherske,to master,
 noun,lukeoppgave,weeding task/basic task,m
 noun,samboer,live-in partner,m
-verb,å trives,to enjoy oneself
-verb,å skape,to create
+verb,å trives,to enjoy oneself,
+verb,å skape,to create,
 noun,tomme,drum,m
-verb,å tomme,to drum
+verb,å tomme,to drum,
 link,https://www.ordnett.no,ordnett.no,The Norwegian Dictionary run by UiB
 noun,tilstedværelse,attendance,i
 noun,klager,complaint,m
@@ -26,3 +26,4 @@ noun,heksagon,hexagon,m
 noun,åttekant,octagon,m
 noun,oktogon,octagon,m
 link,https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l,Duolingo Norwegian,Duoloingo course in Norwegian
+noun,sårbarhet,vulnerability,m
