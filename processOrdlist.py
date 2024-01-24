@@ -50,10 +50,35 @@ nounText = ""
 for i in myWords['noun']:
     nounText += "| [{}]({}) | {} | {} |\n".format(i['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(i['norsk']),i['engelsk'],i['gender'])
 
-file = open ('nounsHeader.md',mode='r')
+file = open ('headers/nounsHeader.md',mode='r')
 content = file.read()
 file.close()
 content = content.replace("<wordsGoHere>",nounText)
 outputFile = open('nouns.md','w')
 outputFile.write(content)
 outputFile.close()
+
+similarCategories = [
+    'verb',
+    'adjective',
+    'adverb',
+    'preposition',
+    'determiner',
+    'pronoun',
+    'conjunction'
+]
+
+for i in similarCategories:
+    wordText = ""
+    for j in myWords['noun']:
+        wordText += "| [{}]({}) | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk']),j['engelsk'])
+
+    headerFilename = 'headers/' + i + 'sHeader.md'
+    file = open (headerFilename,mode='r')
+    content = file.read()
+    file.close()
+    content = content.replace("<wordsGoHere>",nounText)
+    outputFilename = i + '.md'
+    outputFile = open(outputFilename,'w')
+    outputFile.write(content)
+    outputFile.close()
