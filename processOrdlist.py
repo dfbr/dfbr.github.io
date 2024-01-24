@@ -18,7 +18,8 @@ nonGenderedCategories = [
 ]
 genderedCategories = [
     'noun',
-    'determiner'
+    'determiner',
+    'phrase'
 ]
 otherCategories = [
     'link'
