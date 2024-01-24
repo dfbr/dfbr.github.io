@@ -102,7 +102,7 @@ for i in similarCategories:
 for i in categories:
     filename = i + "s.md"
     headerHTMLFile = 'headers/htmlHeader.html'
-    outerhtml = open(headerFilename,'r').read()
+    outerhtml = open(headerHTMLFile,'r').read()
     readingFile = open(filename,'r')
     content = readingFile.read()
     html = markdown.markdown(content, extensions=['tables'])
@@ -120,7 +120,7 @@ filename = "README.md"
 readingFile = open(filename,'r')
 content = readingFile.read()
 headerHTMLFile = 'headers/htmlHeader.html'
-outerhtml = open(headerFilename,'r').read()
+outerhtml = open(headerHTMLFile,'r').read()
 print(outerhtml)
 html = markdown.markdown(content, extensions=['tables'])
 html = html.replace(".md\"",".html\"")
