@@ -19,4 +19,5 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å gjelde](https://www.ordnett.no/search?language=no&phrase=å%20gjelde) | to be valid/in force/applicable |
 | [å skye over](https://www.ordnett.no/search?language=no&phrase=å%20skye%20over) | cloud over (å skye over/til) |
 | [å krangle](https://www.ordnett.no/search?language=no&phrase=å%20krangle) | bicker/fight/quarrel |
+| [å prege](https://www.ordnett.no/search?language=no&phrase=å%20prege) | to characterise |
 

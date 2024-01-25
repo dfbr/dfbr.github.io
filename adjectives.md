@@ -46,6 +46,8 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [innerst](https://www.ordnett.no/search?language=no&phrase=innerst) | innermost |
 | [ødelagt](https://www.ordnett.no/search?language=no&phrase=ødelagt) | ruined/damaged/broken/destroyed |
 | [imidlertid](https://www.ordnett.no/search?language=no&phrase=imidlertid) | nevertheless/nonetheless/still/yet/at any rate |
+| [praktfull](https://www.ordnett.no/search?language=no&phrase=praktfull) | magnificent |
+| [særlig](https://www.ordnett.no/search?language=no&phrase=særlig) | special/particular/especially |
 
 
 [home](index.html)
