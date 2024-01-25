@@ -11,4 +11,5 @@ Phrases that mean something you wouldn't necessarily guess.
 | [grenser til](https://www.ordnett.no/search?language=no&phrase=grenser%20til) | borders with |
 | [om vinteren](https://www.ordnett.no/search?language=no&phrase=om%20vinteren) | every winter |
 | [i sommeren](https://www.ordnett.no/search?language=no&phrase=i%20sommeren) | (in future tense) next summer |
+| [være noe for seg selv](https://www.ordnett.no/search?language=no&phrase=være%20noe%20for%20seg%20selv) | to be something special |
 
