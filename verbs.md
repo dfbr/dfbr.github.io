@@ -17,4 +17,6 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å skylde](https://www.ordnett.no/search?language=no&phrase=å%20skylde) | to owe |
 | [å føre](https://www.ordnett.no/search?language=no&phrase=å%20føre) | to guide/lead |
 | [å gjelde](https://www.ordnett.no/search?language=no&phrase=å%20gjelde) | to be valid/in force/applicable |
+| [å skye over](https://www.ordnett.no/search?language=no&phrase=å%20skye%20over) | cloud over (å skye over/til) |
+| [å krangle](https://www.ordnett.no/search?language=no&phrase=å%20krangle) | bicker/fight/quarrel |
 
