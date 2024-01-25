@@ -44,6 +44,7 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [tempramentsfull](https://www.ordnett.no/search?language=no&phrase=tempramentsfull) | temperamental |
 | [fiendtlig](https://www.ordnett.no/search?language=no&phrase=fiendtlig) | hostile/antagonistic |
 | [innerst](https://www.ordnett.no/search?language=no&phrase=innerst) | innermost |
+| [ødelagt](https://www.ordnett.no/search?language=no&phrase=ødelagt) | ruined/damaged/broken/destroyed |
 
 
 [home](index.html)
