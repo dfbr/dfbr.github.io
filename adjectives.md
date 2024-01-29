@@ -52,6 +52,14 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [betydelig](https://www.ordnett.no/search?language=no&phrase=betydelig) | considerable |
 | [fascinerende](https://www.ordnett.no/search?language=no&phrase=fascinerende) | fascinating |
 | [vitenskapelig](https://www.ordnett.no/search?language=no&phrase=vitenskapelig) | scientific/scholarly |
+| [utenlandsk](https://www.ordnett.no/search?language=no&phrase=utenlandsk) | foreign |
+| [blomsterrik](https://www.ordnett.no/search?language=no&phrase=blomsterrik) | flowery |
+| [historisk](https://www.ordnett.no/search?language=no&phrase=historisk) | historic |
+| [rik](https://www.ordnett.no/search?language=no&phrase=rik) | rich/wealthy |
+| [teknologist](https://www.ordnett.no/search?language=no&phrase=teknologist) | technological |
+| [stolt](https://www.ordnett.no/search?language=no&phrase=stolt) | proud |
+| [dominerende/dominert](https://www.ordnett.no/search?language=no&phrase=dominerende/dominert) | dominating |
+| [overraskende/overrasket](https://www.ordnett.no/search?language=no&phrase=overraskende/overrasket) | surprised |
 
 
 [home](index.html)

@@ -23,4 +23,14 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å tilpasse seg](https://www.ordnett.no/search?language=no&phrase=å%20tilpasse%20seg) | to adapt oneself |
 | [å buske seg](https://www.ordnett.no/search?language=no&phrase=å%20buske%20seg) | to grow bushy |
 | [å hekke](https://www.ordnett.no/search?language=no&phrase=å%20hekke) | to nest/brood |
+| [å blomstre](https://www.ordnett.no/search?language=no&phrase=å%20blomstre) | to flower |
+| [å handle](https://www.ordnett.no/search?language=no&phrase=å%20handle) | handle/deal/do business |
+| [å stille ut (noe)](https://www.ordnett.no/search?language=no&phrase=å%20stille%20ut%20(noe)) | to display (something) |
+| [å samle](https://www.ordnett.no/search?language=no&phrase=å%20samle) | to collect (e.g. together) |
+| [å tilbyr](https://www.ordnett.no/search?language=no&phrase=å%20tilbyr) | to offer |
+| [å utvikle](https://www.ordnett.no/search?language=no&phrase=å%20utvikle) | to develop (including code) |
+| [å arrangere](https://www.ordnett.no/search?language=no&phrase=å%20arrangere) | to arrange/organise |
+| [å innhold](https://www.ordnett.no/search?language=no&phrase=å%20innhold) | to contain |
+| [å dominere](https://www.ordnett.no/search?language=no&phrase=å%20dominere) | to dominate |
+| [å overraske](https://www.ordnett.no/search?language=no&phrase=å%20overraske) | to surprise |
 
