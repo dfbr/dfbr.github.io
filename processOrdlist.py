@@ -107,7 +107,7 @@ for i in categories:
     content = readingFile.read()
     html = markdown.markdown(content, extensions=['tables'])
     html = html.replace(".md\"",".html\"")
-    html = html.replace("<table>","<center><table border=1>")
+    html = html.replace("<table>","<center><table class=\"table table-striped table-bordered\"")
     html = html.replace("</table>","</table></center>")
     outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
     # now write to a new file
