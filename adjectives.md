@@ -48,6 +48,10 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [imidlertid](https://www.ordnett.no/search?language=no&phrase=imidlertid) | nevertheless/nonetheless/still/yet/at any rate |
 | [praktfull](https://www.ordnett.no/search?language=no&phrase=praktfull) | magnificent |
 | [særlig](https://www.ordnett.no/search?language=no&phrase=særlig) | special/particular/especially |
+| [evig](https://www.ordnett.no/search?language=no&phrase=evig) | immortal/perpetual |
+| [betydelig](https://www.ordnett.no/search?language=no&phrase=betydelig) | considerable |
+| [fascinerende](https://www.ordnett.no/search?language=no&phrase=fascinerende) | fascinating |
+| [vitenskapelig](https://www.ordnett.no/search?language=no&phrase=vitenskapelig) | scientific/scholarly |
 
 
 [home](index.html)
