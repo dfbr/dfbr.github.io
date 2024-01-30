@@ -8,4 +8,5 @@
 | [https://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf](Short Grammar Course) | Short grammar course from NTNU |
 | [https://www.ntnu.edu/now](Norwegian On The Web) | Norwegian learning from NTNU |
 | [https://www.ntnu.edu/now/vocabulary/list](Norwegian On The Web vocabulary list) | Norwegian On The Web vocabulary list |
+| [https://www.norwegianclass101.com/blog/2020/08/24/norwegian-pronouns/](Norwegian class pronouns) | To be understood properly in Norwegian, it’s important to use the right pronouns |
 
