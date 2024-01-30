@@ -177,9 +177,9 @@ for word in words:
             </div>
             """
     if word == words[0]:
-        innerHTML.replact("<ACTIVE>","active")
+        innerHTML.replace("<ACTIVE>","active")
     else:
-        innerHTML.replact("<ACTIVE>","")
+        innerHTML.replace("<ACTIVE>","")
     innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
     innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
     innerHTML = innerHTML.replace("<GENDER>",word['gender'])
