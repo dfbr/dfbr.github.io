@@ -146,3 +146,37 @@ with open(outputFilename, "w") as outputFile:
         simplejson.dumps(simplejson.loads(jsonString), indent=4, sort_keys=True)
     )
 print(jsonString)
+filename = "carousel.html"
+headerHTMLFile = 'headers/htmlHeader.html'
+outerhtml = open(headerHTMLFile,'r').read()
+readingFile = open(filename,'r')
+content = readingFile.read()
+outerhtml = """
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+            <INNERHTMLHERE>
+        </div>
+"""
+innerHTML = ""
+for word in json.loads(jsonString)['words'].shuffle():
+    innerhtml += """
+            <div class="carousel-inner">
+                <div class="carousel-item active" data-bs-interval="2000">
+                    <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
+                </div>
+                <div class="carousel-item" data-bs-interval="2000">
+                    <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
+                    <h1 class="display-6 text-center" id="engelsk"><ENGELSKWORD></h1>
+                    <h1 class="display-6 text-center" id="gender"><GENDER></h1>
+                </div>
+            </div>
+            """
+    innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
+    innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
+    innerHTML = innerHTML.replace("<GENDER>",word['gender'])
+html = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
+outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
+# now write to a new file
+outputFile = open(filename,'w')
+outputFile.write(outerhtml)
+# print("Updated: {}".format(outputFilename))
+outputFile.close()
