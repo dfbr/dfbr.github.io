@@ -3,6 +3,9 @@
 import csv
 import markdown
 import simplejson
+import json
+import random
+
 
 # file that we're going to work with...
 wordListFile = 'ordlist.csv'
@@ -145,10 +148,9 @@ with open(outputFilename, "w") as outputFile:
     outputFile.write(
         simplejson.dumps(simplejson.loads(jsonString), indent=4, sort_keys=True)
     )
-print(jsonString)
 filename = "carousel.html"
 headerHTMLFile = 'headers/htmlHeader.html'
-outerhtml = open(headerHTMLFile,'r').read()
+headerhtml = open(headerHTMLFile,'r').read()
 readingFile = open(filename,'r')
 content = readingFile.read()
 outerhtml = """
@@ -157,24 +159,29 @@ outerhtml = """
         </div>
 """
 innerHTML = ""
-for word in json.loads(jsonString)['words'].shuffle():
-    innerhtml += """
+
+words = json.loads(jsonString)['words']
+random.shuffle(words)
+for word in words:
+    innerHTML += """
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="2000">
                     <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
                     <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
-                    <h1 class="display-6 text-center" id="engelsk"><ENGELSKWORD></h1>
+                    <h1 class="display-6 text-center" id="engelsk"><ENGELSKORD></h1>
                     <h1 class="display-6 text-center" id="gender"><GENDER></h1>
+                    <h1 class="display-6 text-center" id="category"><CATEGORY></h1>
                 </div>
             </div>
             """
     innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
     innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
     innerHTML = innerHTML.replace("<GENDER>",word['gender'])
-html = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
-outerhtml = outerhtml.replace("<BODYGOESHERE>",html)
+    innerHTML = innerHTML.replace("<CATEGORY>",word['kategorie'])
+outerhtml = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
+html = headerhtml.replace("<BODYGOESHERE>",outerhtml)
 # now write to a new file
 outputFile = open(filename,'w')
 outputFile.write(outerhtml)
