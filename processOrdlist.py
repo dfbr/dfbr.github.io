@@ -34,19 +34,22 @@ for i in categories:
 with open(wordListFile,newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for line in reader:
-        if line['kategorie'] in genderedCategories:
-            myWords[line['kategorie']].append({'engelsk': line['engelsk'],
-                                               'norsk': line['norsk'],
-                                               'gender': line['gender']})
-        elif line['kategorie'] in nonGenderedCategories:
-            myWords[line['kategorie']].append({'engelsk': line['engelsk'],
-                                               'norsk': line['norsk']})
-        elif line['kategorie'] == 'link':
-            myWords[line['kategorie']].append({'link': line['norsk'],
-                                               'title': line['engelsk'],
-                                               'description': line['gender']})
-        elif line['kategorie'] == 'other':
-            myWords[line['kategorie']].append({'other': line['norsk']})
+        myWords[line['kategorie']].append({'engelsk': line['engelsk'],
+                                          'norsk': line['norsk'],
+                                          'gender': line['gender']})
+        # if line['kategorie'] in genderedCategories:
+        #     myWords[line['kategorie']].append({'engelsk': line['engelsk'],
+        #                                        'norsk': line['norsk'],
+        #                                        'gender': line['gender']})
+        # elif line['kategorie'] in nonGenderedCategories:
+        #     myWords[line['kategorie']].append({'engelsk': line['engelsk'],
+        #                                        'norsk': line['norsk']})
+        # elif line['kategorie'] == 'link':
+        #     myWords[line['kategorie']].append({'link': line['norsk'],
+        #                                        'title': line['engelsk'],
+        #                                        'description': line['gender']})
+        # elif line['kategorie'] == 'other':
+        #     myWords[line['kategorie']].append({'other': line['norsk']})
         # print("{}  {}  {}".format(line['kategorie'],line['norsk'],line['engelsk']))
 
 # now write a file for each type of word/thing...
@@ -70,7 +73,7 @@ for i in genderedCategories:
 linkText = ""
 # first nouns...
 for i in myWords['link']:
-    linkText += "| [{}]({}) | {} |\n".format(i['title'],i['link'],i['description'])
+    linkText += "| [{}]({}) | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
 
 file = open ('headers/linksHeader.md',mode='r')
 content = file.read()
