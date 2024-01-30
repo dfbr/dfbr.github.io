@@ -2,6 +2,7 @@
 
 import csv
 import markdown
+import simplejson
 
 # file that we're going to work with...
 wordListFile = 'ordlist.csv'
@@ -24,6 +25,7 @@ genderedCategories = [
 otherCategories = [
     'link'
 ]
+wordCategories = nonGenderedCategories + genderedCategories
 categories = nonGenderedCategories + genderedCategories + otherCategories
 
 # creat an empty dictionary. This will contain a dictionary for each category that will have the list of things from the csv file
@@ -37,23 +39,8 @@ with open(wordListFile,newline='') as csvfile:
         myWords[line['kategorie']].append({'engelsk': line['engelsk'],
                                           'norsk': line['norsk'],
                                           'gender': line['gender']})
-        # if line['kategorie'] in genderedCategories:
-        #     myWords[line['kategorie']].append({'engelsk': line['engelsk'],
-        #                                        'norsk': line['norsk'],
-        #                                        'gender': line['gender']})
-        # elif line['kategorie'] in nonGenderedCategories:
-        #     myWords[line['kategorie']].append({'engelsk': line['engelsk'],
-        #                                        'norsk': line['norsk']})
-        # elif line['kategorie'] == 'link':
-        #     myWords[line['kategorie']].append({'link': line['norsk'],
-        #                                        'title': line['engelsk'],
-        #                                        'description': line['gender']})
-        # elif line['kategorie'] == 'other':
-        #     myWords[line['kategorie']].append({'other': line['norsk']})
-        # print("{}  {}  {}".format(line['kategorie'],line['norsk'],line['engelsk']))
 
 # now write a file for each type of word/thing...
-
 for i in genderedCategories:
     nounText = ""
     # first nouns...
@@ -139,3 +126,23 @@ outputFile = open(outputFilename,'w')
 outputFile.write(outerhtml)
 # print("Updated: {}".format(outputFilename))
 outputFile.close()
+
+# now create a json of all the words only...
+outputFilename = 'words.json'
+jsonString = '{ "words": ['
+for i in wordCategories:
+    for j in myWords[i]:
+        jsonString += "{"
+        jsonString += '"kategorie": "{}",'.format(i)
+        jsonString += '"norsk": "{}",'.format(j['norsk'])
+        jsonString += '"engelsk": "{}",'.format(j['engelsk'])
+        jsonString += '"gender": "{}"'.format(j['gender'])
+        jsonString += "},"
+jsonString = jsonString[:-1] # remove the last comma
+jsonString += "]}"
+with open(outputFilename, "w") as outputFile:
+    # magic happens here to make it pretty-printed
+    outputFile.write(
+        simplejson.dumps(simplejson.loads(jsonString), indent=4, sort_keys=True)
+    )
+print(jsonString)
