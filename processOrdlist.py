@@ -165,7 +165,7 @@ random.shuffle(words)
 for word in words:
     innerHTML += """
             <div class="carousel-inner">
-                <div class="carousel-item <ACTIVE>" data-bs-interval="2000">
+                <div class="carousel-item" data-bs-interval="2000">
                     <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
                 </div>
                 <div class="carousel-item" data-bs-interval="2000">
@@ -177,9 +177,7 @@ for word in words:
             </div>
             """
     if word == words[0]:
-        innerHTML = innerHTML.replace("<ACTIVE>","active")
-    else:
-        innerHTML = innerHTML.replace("<ACTIVE>","")
+        innerHTML = innerHTML.replace("carousel-item","carousel-item active")
     innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
     innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
     innerHTML = innerHTML.replace("<GENDER>",word['gender'])
