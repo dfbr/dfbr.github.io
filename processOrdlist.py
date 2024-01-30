@@ -60,11 +60,13 @@ for i in genderedCategories:
     for j in myWords[i]:
         nounText += "| [{}]({}) | {} | {} |\n".format(j['norsk'],"https://www.ordnett.no/search?language=no&phrase={}".format(j['norsk']),j['engelsk'],j['gender'])
 
-    file = open ('headers/nounsHeader.md',mode='r')
+    filename = 'headers/' + i + 'sHeader.md'
+    file = open (filename,mode='r')
     content = file.read()
     file.close()
     content = content.replace("<wordsGoHere>",nounText)
-    outputFile = open('nouns.md','w')
+    outputFilename = i + 's.md'
+    outputFile = open(outputFilename,'w')
     outputFile.write(content)
     # print("Updated: {}".format('headers/nounsHeader.md'))
     outputFile.close()
