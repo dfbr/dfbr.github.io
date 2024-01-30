@@ -184,6 +184,6 @@ outerhtml = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
 html = headerhtml.replace("<BODYGOESHERE>",outerhtml)
 # now write to a new file
 outputFile = open(filename,'w')
-outputFile.write(outerhtml)
+outputFile.write(html)
 # print("Updated: {}".format(outputFilename))
 outputFile.close()
