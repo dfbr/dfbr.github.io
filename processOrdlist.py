@@ -154,7 +154,7 @@ headerhtml = open(headerHTMLFile,'r').read()
 readingFile = open(filename,'r')
 content = readingFile.read()
 outerhtml = """
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div id="norksOrd" class="carousel slide" data-bs-ride="carousel">
             <INNERHTMLHERE>
         </div>
 """
