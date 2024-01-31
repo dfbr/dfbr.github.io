@@ -60,4 +60,11 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [stolt](https://www.ordnett.no/search?language=no&phrase=stolt) | proud |
 | [dominerende/dominert](https://www.ordnett.no/search?language=no&phrase=dominerende/dominert) | dominating |
 | [overraskende/overrasket](https://www.ordnett.no/search?language=no&phrase=overraskende/overrasket) | surprised |
+| [stygg](https://www.ordnett.no/search?language=no&phrase=stygg) | ubly/nasty/foul |
+| [kresen](https://www.ordnett.no/search?language=no&phrase=kresen) | fastidious/squeamish/particulary/picky |
+| [viss](https://www.ordnett.no/search?language=no&phrase=viss) | certain/sure/positive |
+| [tåpelig](https://www.ordnett.no/search?language=no&phrase=tåpelig) | dumb/stupid/idiotic |
+| [fremmed](https://www.ordnett.no/search?language=no&phrase=fremmed) | foreign |
+| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military |
+| [rov... (f.eks rovdyr)](https://www.ordnett.no/search?language=no&phrase=rov...%20(f.eks%20rovdyr)) | carniverous (e.g. carniverous animal) |
 

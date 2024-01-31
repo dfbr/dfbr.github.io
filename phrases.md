@@ -13,4 +13,5 @@ Phrases that mean something you wouldn't necessarily guess.
 | [i sommeren](https://www.ordnett.no/search?language=no&phrase=i%20sommeren) | (in future tense) next summer |
 | [være noe for seg selv](https://www.ordnett.no/search?language=no&phrase=være%20noe%20for%20seg%20selv) | to be something special |
 | [aldri det slag](https://www.ordnett.no/search?language=no&phrase=aldri%20det%20slag) | not a bit |
+| [mer eller mindre](https://www.ordnett.no/search?language=no&phrase=mer%20eller%20mindre) | more or less |
 

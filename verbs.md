@@ -33,4 +33,8 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å innhold](https://www.ordnett.no/search?language=no&phrase=å%20innhold) | to contain |
 | [å dominere](https://www.ordnett.no/search?language=no&phrase=å%20dominere) | to dominate |
 | [å overraske](https://www.ordnett.no/search?language=no&phrase=å%20overraske) | to surprise |
+| [å skille](https://www.ordnett.no/search?language=no&phrase=å%20skille) | to separate |
+| [å skikke](https://www.ordnett.no/search?language=no&phrase=å%20skikke) | to send |
+| [å overvintre](https://www.ordnett.no/search?language=no&phrase=å%20overvintre) | to hibernate |
+| [å begrense](https://www.ordnett.no/search?language=no&phrase=å%20begrense) | to limit/reduce/restrict/confine |
 

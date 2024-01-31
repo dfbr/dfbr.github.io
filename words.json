@@ -175,6 +175,30 @@
             "norsk": "\u00c3\u00a5 overraske"
         },
         {
+            "engelsk": "to separate",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00c3\u00a5 skille"
+        },
+        {
+            "engelsk": "to send",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00c3\u00a5 skikke"
+        },
+        {
+            "engelsk": "to hibernate",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00c3\u00a5 overvintre"
+        },
+        {
+            "engelsk": "to limit/reduce/restrict/confine",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00c3\u00a5 begrense"
+        },
+        {
             "engelsk": "unhealthy",
             "gender": "",
             "kategorie": "adjective",
@@ -509,6 +533,48 @@
             "gender": "",
             "kategorie": "adjective",
             "norsk": "overraskende/overrasket"
+        },
+        {
+            "engelsk": "ubly/nasty/foul",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "stygg"
+        },
+        {
+            "engelsk": "fastidious/squeamish/particulary/picky",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "kresen"
+        },
+        {
+            "engelsk": "certain/sure/positive",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "viss"
+        },
+        {
+            "engelsk": "dumb/stupid/idiotic",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "t\u00c3\u00a5pelig"
+        },
+        {
+            "engelsk": "foreign",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "fremmed"
+        },
+        {
+            "engelsk": "military",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "milit\u00c3\u00a6r"
+        },
+        {
+            "engelsk": "carniverous (e.g. carniverous animal)",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "rov... (f.eks rovdyr)"
         },
         {
             "engelsk": "circa/about/similar to",
@@ -907,6 +973,12 @@
             "norsk": "aldri det slag"
         },
         {
+            "engelsk": "more or less",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "mer eller mindre"
+        },
+        {
             "engelsk": "weeding task/basic task",
             "gender": "m",
             "kategorie": "noun",
@@ -1295,6 +1367,24 @@
             "gender": "m",
             "kategorie": "noun",
             "norsk": "overraskelse"
+        },
+        {
+            "engelsk": "custom/practice",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "skikk"
+        },
+        {
+            "engelsk": "military",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "milit\u00c3\u00a6r"
+        },
+        {
+            "engelsk": "fact",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "faktum"
         },
         {
             "engelsk": "a/an",

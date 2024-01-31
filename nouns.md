@@ -69,4 +69,7 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | [arrangement](https://www.ordnett.no/search?language=no&phrase=arrangement) | arrangement/gathering/party/organisation | i |
 | [innhold](https://www.ordnett.no/search?language=no&phrase=innhold) | contents | i |
 | [overraskelse](https://www.ordnett.no/search?language=no&phrase=overraskelse) | surprise | m |
+| [skikk](https://www.ordnett.no/search?language=no&phrase=skikk) | custom/practice | m |
+| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military | m |
+| [faktum](https://www.ordnett.no/search?language=no&phrase=faktum) | fact | i |
 
