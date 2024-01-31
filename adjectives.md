@@ -61,5 +61,3 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [dominerende/dominert](https://www.ordnett.no/search?language=no&phrase=dominerende/dominert) | dominating |
 | [overraskende/overrasket](https://www.ordnett.no/search?language=no&phrase=overraskende/overrasket) | surprised |
 
-
-[home](index.html)
