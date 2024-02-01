@@ -72,4 +72,11 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | [skikk](https://www.ordnett.no/search?language=no&phrase=skikk) | custom/practice | m |
 | [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military | m |
 | [faktum](https://www.ordnett.no/search?language=no&phrase=faktum) | fact | i |
+| [knallskudd](https://www.ordnett.no/search?language=no&phrase=knallskudd) | literally "bang shot" - a warning shot gun | i |
+| [søppel](https://www.ordnett.no/search?language=no&phrase=søppel) | rubbish | i |
+| [skade](https://www.ordnett.no/search?language=no&phrase=skade) | damage/injury | m |
+| [hodeskade](https://www.ordnett.no/search?language=no&phrase=hodeskade) | head injury | m |
+| [fakkel](https://www.ordnett.no/search?language=no&phrase=fakkel) | a torch (e.g. with a flame) | m |
+| [andel](https://www.ordnett.no/search?language=no&phrase=andel) | share/part | m |
+| [forhold](https://www.ordnett.no/search?language=no&phrase=forhold) | relationship | i |
 

@@ -8,4 +8,6 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 | [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
 | [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
 | [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
+| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
+| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
 

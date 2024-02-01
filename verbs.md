@@ -37,4 +37,11 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å skikke](https://www.ordnett.no/search?language=no&phrase=å%20skikke) | to send |
 | [å overvintre](https://www.ordnett.no/search?language=no&phrase=å%20overvintre) | to hibernate |
 | [å begrense](https://www.ordnett.no/search?language=no&phrase=å%20begrense) | to limit/reduce/restrict/confine |
+| [å unngå](https://www.ordnett.no/search?language=no&phrase=å%20unngå) | to escape |
+| [å trekke](https://www.ordnett.no/search?language=no&phrase=å%20trekke) | to pull/haul/drag |
+| [å skade](https://www.ordnett.no/search?language=no&phrase=å%20skade) | to damage/injur |
+| [å påføre](https://www.ordnett.no/search?language=no&phrase=å%20påføre) | to enter/cause/inflict |
+| [å skalpere](https://www.ordnett.no/search?language=no&phrase=å%20skalpere) | to scalp |
+| [å bevare](https://www.ordnett.no/search?language=no&phrase=å%20bevare) | to protect |
+| [å påvirke](https://www.ordnett.no/search?language=no&phrase=å%20påvirke) | to influence |
 

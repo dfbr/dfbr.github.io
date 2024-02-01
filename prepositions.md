@@ -5,4 +5,5 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 | Norwegian | English |
 | --- | --- |
 | [ifølge](https://www.ordnett.no/search?language=no&phrase=ifølge) | according to |
+| [unna](https://www.ordnett.no/search?language=no&phrase=unna) | away (e.g. to get away) |
 
