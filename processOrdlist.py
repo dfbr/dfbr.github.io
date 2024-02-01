@@ -165,10 +165,10 @@ random.shuffle(words)
 for word in words:
     innerHTML += """
             <div class="carousel-inner">
-                <div class="carousel-item" data-bs-interval="2000">
+                <div class="carousel-item" data-bs-interval="3000">
                     <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
                 </div>
-                <div class="carousel-item" data-bs-interval="2000">
+                <div class="carousel-item" data-bs-interval="3000">
                     <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
                     <h1 class="display-6 text-center" id="engelsk"><ENGELSKORD></h1>
                     <h1 class="display-6 text-center" id="gender"><GENDER></h1>
