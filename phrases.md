@@ -14,4 +14,6 @@ Phrases that mean something you wouldn't necessarily guess.
 | [være noe for seg selv](https://www.ordnett.no/search?language=no&phrase=være%20noe%20for%20seg%20selv) | to be something special |
 | [aldri det slag](https://www.ordnett.no/search?language=no&phrase=aldri%20det%20slag) | not a bit |
 | [mer eller mindre](https://www.ordnett.no/search?language=no&phrase=mer%20eller%20mindre) | more or less |
+| [det virker som om/at](https://www.ordnett.no/search?language=no&phrase=det%20virker%20som%20om/at) | it would seem that |
+| [virke som om](https://www.ordnett.no/search?language=no&phrase=virke%20som%20om) | seems as if |
 

@@ -69,4 +69,6 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 | [rov... (f.eks rovdyr)](https://www.ordnett.no/search?language=no&phrase=rov...%20(f.eks%20rovdyr)) | carniverous (e.g. carniverous animal) |
 | [sjanseløs](https://www.ordnett.no/search?language=no&phrase=sjanseløs) | without a chance |
 | [tilsvarende](https://www.ordnett.no/search?language=no&phrase=tilsvarende) | corresponding/equivalent |
+| [truende](https://www.ordnett.no/search?language=no&phrase=truende) | threatening |
+| [kjerne-](https://www.ordnett.no/search?language=no&phrase=kjerne-) | nuclear |
 

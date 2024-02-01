@@ -44,4 +44,7 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 | [å skalpere](https://www.ordnett.no/search?language=no&phrase=å%20skalpere) | to scalp |
 | [å bevare](https://www.ordnett.no/search?language=no&phrase=å%20bevare) | to protect |
 | [å påvirke](https://www.ordnett.no/search?language=no&phrase=å%20påvirke) | to influence |
+| [å drepe](https://www.ordnett.no/search?language=no&phrase=å%20drepe) | to kill |
+| [å skyte](https://www.ordnett.no/search?language=no&phrase=å%20skyte) | to shoot |
+| [å foreslå](https://www.ordnett.no/search?language=no&phrase=å%20foreslå) | to suggest |
 

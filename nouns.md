@@ -79,4 +79,8 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 | [fakkel](https://www.ordnett.no/search?language=no&phrase=fakkel) | a torch (e.g. with a flame) | m |
 | [andel](https://www.ordnett.no/search?language=no&phrase=andel) | share/part | m |
 | [forhold](https://www.ordnett.no/search?language=no&phrase=forhold) | relationship | i |
+| [innslag](https://www.ordnett.no/search?language=no&phrase=innslag) | news item | i |
+| [underholdning](https://www.ordnett.no/search?language=no&phrase=underholdning) | entertainment | m |
+| [traktat](https://www.ordnett.no/search?language=no&phrase=traktat) | treaty | m |
+| [bombe](https://www.ordnett.no/search?language=no&phrase=bombe) | bomb | m |
 
