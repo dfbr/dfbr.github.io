@@ -143,6 +143,8 @@ for i in wordCategories:
         jsonString += "},"
 jsonString = jsonString[:-1] # remove the last comma
 jsonString += "]}"
+
+print(jsonString)
 with open(outputFilename, "w") as outputFile:
     # magic happens here to make it pretty-printed
     outputFile.write(
