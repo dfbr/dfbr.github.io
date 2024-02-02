@@ -8,6 +8,10 @@ Jeg er norsk lærer og for å hjelpe meg, setter jeg inn ord (og andre resurser)
 
 Please contribute by adding items to `ordlist.csv` in [the github repository](https://github.com/dfbr/dfbr.github.io). Contributions will be merged and lists updated. Thank you!
 
+## [Flashcards](carousel.html)
+
+A flashcard implementation of the words. All types rotating every few seconds with a new word and definition.
+
 ## [Nouns](nouns.md)
 
 A word (other than a pronoun) used to identify any of a class of people, places, or things (common noun), or to name a particular one of these (proper noun).
