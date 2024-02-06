@@ -45,9 +45,9 @@ with open(wordListFile,newline='') as csvfile:
 
 # shuffle each one so that you don't always get them in the same order...
 for i in wordCategories:
-    myWords[i].shuffle()
+    random.shuffle(myWords[i])
 
-    
+
 # now write a file for each type of word/thing...
 for i in genderedCategories:
     nounText = ""
