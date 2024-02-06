@@ -4,10 +4,10 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 | Norwegian | English |
 | --- | --- |
-| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
+| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
+| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
 | [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
 | [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
 | [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
-| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
-| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
+| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
 
