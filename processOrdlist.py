@@ -43,6 +43,11 @@ with open(wordListFile,newline='') as csvfile:
                                           'norsk': line['norsk'],
                                           'gender': line['gender']})
 
+# shuffle each one so that you don't always get them in the same order...
+for i in wordCategories:
+    myWords[i].shuffle()
+
+    
 # now write a file for each type of word/thing...
 for i in genderedCategories:
     nounText = ""
