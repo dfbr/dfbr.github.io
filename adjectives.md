@@ -4,86 +4,86 @@ A word naming an attribute of a noun, such as sweet, red, or technical.
 
 | Norwegian | English |
 | --- | --- |
-| [motsatt](https://www.ordnett.no/search?language=no&phrase=motsatt) | opposite |
-| [praktfull](https://www.ordnett.no/search?language=no&phrase=praktfull) | magnificent |
-| [bred](https://www.ordnett.no/search?language=no&phrase=bred) | broad |
-| [betydelig](https://www.ordnett.no/search?language=no&phrase=betydelig) | considerable |
-| [fascinerende](https://www.ordnett.no/search?language=no&phrase=fascinerende) | fascinating |
-| [slakk](https://www.ordnett.no/search?language=no&phrase=slakk) | flat |
-| [tapt/tapende](https://www.ordnett.no/search?language=no&phrase=tapt/tapende) | losing... |
-| [fiendtlig](https://www.ordnett.no/search?language=no&phrase=fiendtlig) | hostile/antagonistic |
-| [miniatyr](https://www.ordnett.no/search?language=no&phrase=miniatyr) | minature |
-| [tåpelig](https://www.ordnett.no/search?language=no&phrase=tåpelig) | dumb/stupid/idiotic |
-| [grunn](https://www.ordnett.no/search?language=no&phrase=grunn) | shallow |
-| [vid](https://www.ordnett.no/search?language=no&phrase=vid) | loose |
-| [mild](https://www.ordnett.no/search?language=no&phrase=mild) | mild |
-| [nylig](https://www.ordnett.no/search?language=no&phrase=nylig) | recent/of late |
-| [innerst](https://www.ordnett.no/search?language=no&phrase=innerst) | innermost |
-| [ensforming](https://www.ordnett.no/search?language=no&phrase=ensforming) | not varied |
-| [truende](https://www.ordnett.no/search?language=no&phrase=truende) | threatening |
-| [dyrket](https://www.ordnett.no/search?language=no&phrase=dyrket) | cultivated (e.g. dyrket land/cultivated land) |
-| [mørk](https://www.ordnett.no/search?language=no&phrase=mørk) | dark |
-| [evig](https://www.ordnett.no/search?language=no&phrase=evig) | immortal/perpetual |
-| [sterk](https://www.ordnett.no/search?language=no&phrase=sterk) | strong |
-| [tørr](https://www.ordnett.no/search?language=no&phrase=tørr) | dry |
-| [våt](https://www.ordnett.no/search?language=no&phrase=våt) | wet |
-| [teknologist](https://www.ordnett.no/search?language=no&phrase=teknologist) | technological |
-| [kresen](https://www.ordnett.no/search?language=no&phrase=kresen) | fastidious/squeamish/particulary/picky |
-| [ville](https://www.ordnett.no/search?language=no&phrase=ville) | wild |
-| [variert/variende](https://www.ordnett.no/search?language=no&phrase=variert/variende) | variable |
-| [øvrig](https://www.ordnett.no/search?language=no&phrase=øvrig) | other/remaining/rest |
-| [tilsvarende](https://www.ordnett.no/search?language=no&phrase=tilsvarende) | corresponding/equivalent |
-| [dramatisk](https://www.ordnett.no/search?language=no&phrase=dramatisk) | dramatic |
-| [udramatisk](https://www.ordnett.no/search?language=no&phrase=udramatisk) | not dramatic |
-| [tam](https://www.ordnett.no/search?language=no&phrase=tam) | tame |
-| [vill](https://www.ordnett.no/search?language=no&phrase=vill) | wild |
-| [innvandret](https://www.ordnett.no/search?language=no&phrase=innvandret) | immigrant/immigranting |
-| [trang](https://www.ordnett.no/search?language=no&phrase=trang) | tight (e.g. for clothes or a room) |
-| [varm](https://www.ordnett.no/search?language=no&phrase=varm) | hot |
-| [smal](https://www.ordnett.no/search?language=no&phrase=smal) | narrow |
-| [høy](https://www.ordnett.no/search?language=no&phrase=høy) | high |
-| [truet](https://www.ordnett.no/search?language=no&phrase=truet) | threatened |
-| [kort](https://www.ordnett.no/search?language=no&phrase=kort) | short |
-| [kald](https://www.ordnett.no/search?language=no&phrase=kald) | cold |
-| [fremmed](https://www.ordnett.no/search?language=no&phrase=fremmed) | foreign |
-| [tempramentsfull](https://www.ordnett.no/search?language=no&phrase=tempramentsfull) | temperamental |
-| [sterk](https://www.ordnett.no/search?language=no&phrase=sterk) | strong (e.g. for food) |
-| [lav](https://www.ordnett.no/search?language=no&phrase=lav) | low |
-| [overraskende/overrasket](https://www.ordnett.no/search?language=no&phrase=overraskende/overrasket) | surprised |
-| [lang](https://www.ordnett.no/search?language=no&phrase=lang) | long |
-| [jevn](https://www.ordnett.no/search?language=no&phrase=jevn) | even/level/smooth |
-| [tilghengelig](https://www.ordnett.no/search?language=no&phrase=tilghengelig) | accessible/available/open |
-| [frodig](https://www.ordnett.no/search?language=no&phrase=frodig) | fertile/lush |
-| [forlatt](https://www.ordnett.no/search?language=no&phrase=forlatt) | abandoned |
-| [historisk](https://www.ordnett.no/search?language=no&phrase=historisk) | historic |
-| [nedadgående](https://www.ordnett.no/search?language=no&phrase=nedadgående) | decreasing |
 | [kjerne-](https://www.ordnett.no/search?language=no&phrase=kjerne-) | nuclear |
-| [ødelagt](https://www.ordnett.no/search?language=no&phrase=ødelagt) | ruined/damaged/broken/destroyed |
-| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military |
-| [imidlertid](https://www.ordnett.no/search?language=no&phrase=imidlertid) | nevertheless/nonetheless/still/yet/at any rate |
-| [utenlandsk](https://www.ordnett.no/search?language=no&phrase=utenlandsk) | foreign |
-| [slem](https://www.ordnett.no/search?language=no&phrase=slem) | bad/mean/nasty/naughty |
-| [lys](https://www.ordnett.no/search?language=no&phrase=lys) | light |
-| [ledig](https://www.ordnett.no/search?language=no&phrase=ledig) | available/easy/free |
-| [blomsterrik](https://www.ordnett.no/search?language=no&phrase=blomsterrik) | flowery |
-| [dominerende/dominert](https://www.ordnett.no/search?language=no&phrase=dominerende/dominert) | dominating |
-| [særlig](https://www.ordnett.no/search?language=no&phrase=særlig) | special/particular/especially |
-| [usunn](https://www.ordnett.no/search?language=no&phrase=usunn) | unhealthy |
-| [vitenskapelig](https://www.ordnett.no/search?language=no&phrase=vitenskapelig) | scientific/scholarly |
-| [liten](https://www.ordnett.no/search?language=no&phrase=liten) | small |
-| [sjanseløs](https://www.ordnett.no/search?language=no&phrase=sjanseløs) | without a chance |
-| [dyp](https://www.ordnett.no/search?language=no&phrase=dyp) | deep |
-| [ujevn](https://www.ordnett.no/search?language=no&phrase=ujevn) | irratic/uneven/unpredictable |
-| [svak](https://www.ordnett.no/search?language=no&phrase=svak) | weak |
-| [bratt](https://www.ordnett.no/search?language=no&phrase=bratt) | steep |
-| [variert](https://www.ordnett.no/search?language=no&phrase=variert) | varied |
-| [helgefylle](https://www.ordnett.no/search?language=no&phrase=helgefylle) | to be full of the weekend |
-| [imøtekommende](https://www.ordnett.no/search?language=no&phrase=imøtekommende) | obliging/forthcoming/accomodating |
-| [viss](https://www.ordnett.no/search?language=no&phrase=viss) | certain/sure/positive |
-| [rik](https://www.ordnett.no/search?language=no&phrase=rik) | rich/wealthy |
-| [rov... (f.eks rovdyr)](https://www.ordnett.no/search?language=no&phrase=rov...%20(f.eks%20rovdyr)) | carniverous (e.g. carniverous animal) |
-| [avgjørende](https://www.ordnett.no/search?language=no&phrase=avgjørende) | deciding... |
+| [udramatisk](https://www.ordnett.no/search?language=no&phrase=udramatisk) | not dramatic |
+| [trang](https://www.ordnett.no/search?language=no&phrase=trang) | tight (e.g. for clothes or a room) |
 | [stolt](https://www.ordnett.no/search?language=no&phrase=stolt) | proud |
-| [stor](https://www.ordnett.no/search?language=no&phrase=stor) | big |
+| [fiendtlig](https://www.ordnett.no/search?language=no&phrase=fiendtlig) | hostile/antagonistic |
+| [grunn](https://www.ordnett.no/search?language=no&phrase=grunn) | shallow |
+| [slem](https://www.ordnett.no/search?language=no&phrase=slem) | bad/mean/nasty/naughty |
 | [stygg](https://www.ordnett.no/search?language=no&phrase=stygg) | ubly/nasty/foul |
+| [sterk](https://www.ordnett.no/search?language=no&phrase=sterk) | strong (e.g. for food) |
+| [truende](https://www.ordnett.no/search?language=no&phrase=truende) | threatening |
+| [variert](https://www.ordnett.no/search?language=no&phrase=variert) | varied |
+| [frodig](https://www.ordnett.no/search?language=no&phrase=frodig) | fertile/lush |
+| [tåpelig](https://www.ordnett.no/search?language=no&phrase=tåpelig) | dumb/stupid/idiotic |
+| [nedadgående](https://www.ordnett.no/search?language=no&phrase=nedadgående) | decreasing |
+| [variert/variende](https://www.ordnett.no/search?language=no&phrase=variert/variende) | variable |
+| [tilghengelig](https://www.ordnett.no/search?language=no&phrase=tilghengelig) | accessible/available/open |
+| [vill](https://www.ordnett.no/search?language=no&phrase=vill) | wild |
+| [dyp](https://www.ordnett.no/search?language=no&phrase=dyp) | deep |
+| [utenlandsk](https://www.ordnett.no/search?language=no&phrase=utenlandsk) | foreign |
+| [nylig](https://www.ordnett.no/search?language=no&phrase=nylig) | recent/of late |
+| [tilsvarende](https://www.ordnett.no/search?language=no&phrase=tilsvarende) | corresponding/equivalent |
+| [ville](https://www.ordnett.no/search?language=no&phrase=ville) | wild |
+| [rov... (f.eks rovdyr)](https://www.ordnett.no/search?language=no&phrase=rov...%20(f.eks%20rovdyr)) | carniverous (e.g. carniverous animal) |
+| [viss](https://www.ordnett.no/search?language=no&phrase=viss) | certain/sure/positive |
+| [truet](https://www.ordnett.no/search?language=no&phrase=truet) | threatened |
+| [bred](https://www.ordnett.no/search?language=no&phrase=bred) | broad |
+| [forlatt](https://www.ordnett.no/search?language=no&phrase=forlatt) | abandoned |
+| [vid](https://www.ordnett.no/search?language=no&phrase=vid) | loose |
+| [lang](https://www.ordnett.no/search?language=no&phrase=lang) | long |
+| [våt](https://www.ordnett.no/search?language=no&phrase=våt) | wet |
+| [innvandret](https://www.ordnett.no/search?language=no&phrase=innvandret) | immigrant/immigranting |
+| [dramatisk](https://www.ordnett.no/search?language=no&phrase=dramatisk) | dramatic |
+| [usunn](https://www.ordnett.no/search?language=no&phrase=usunn) | unhealthy |
+| [liten](https://www.ordnett.no/search?language=no&phrase=liten) | small |
+| [lys](https://www.ordnett.no/search?language=no&phrase=lys) | light |
+| [vitenskapelig](https://www.ordnett.no/search?language=no&phrase=vitenskapelig) | scientific/scholarly |
+| [kald](https://www.ordnett.no/search?language=no&phrase=kald) | cold |
+| [lav](https://www.ordnett.no/search?language=no&phrase=lav) | low |
+| [helgefylle](https://www.ordnett.no/search?language=no&phrase=helgefylle) | to be full of the weekend |
+| [kresen](https://www.ordnett.no/search?language=no&phrase=kresen) | fastidious/squeamish/particulary/picky |
+| [fascinerende](https://www.ordnett.no/search?language=no&phrase=fascinerende) | fascinating |
+| [fremmed](https://www.ordnett.no/search?language=no&phrase=fremmed) | foreign |
+| [ødelagt](https://www.ordnett.no/search?language=no&phrase=ødelagt) | ruined/damaged/broken/destroyed |
+| [rik](https://www.ordnett.no/search?language=no&phrase=rik) | rich/wealthy |
+| [motsatt](https://www.ordnett.no/search?language=no&phrase=motsatt) | opposite |
+| [blomsterrik](https://www.ordnett.no/search?language=no&phrase=blomsterrik) | flowery |
+| [tørr](https://www.ordnett.no/search?language=no&phrase=tørr) | dry |
+| [varm](https://www.ordnett.no/search?language=no&phrase=varm) | hot |
+| [jevn](https://www.ordnett.no/search?language=no&phrase=jevn) | even/level/smooth |
+| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military |
+| [praktfull](https://www.ordnett.no/search?language=no&phrase=praktfull) | magnificent |
+| [imidlertid](https://www.ordnett.no/search?language=no&phrase=imidlertid) | nevertheless/nonetheless/still/yet/at any rate |
+| [teknologist](https://www.ordnett.no/search?language=no&phrase=teknologist) | technological |
+| [mild](https://www.ordnett.no/search?language=no&phrase=mild) | mild |
+| [særlig](https://www.ordnett.no/search?language=no&phrase=særlig) | special/particular/especially |
+| [smal](https://www.ordnett.no/search?language=no&phrase=smal) | narrow |
+| [dominerende/dominert](https://www.ordnett.no/search?language=no&phrase=dominerende/dominert) | dominating |
+| [stor](https://www.ordnett.no/search?language=no&phrase=stor) | big |
+| [bratt](https://www.ordnett.no/search?language=no&phrase=bratt) | steep |
+| [tapt/tapende](https://www.ordnett.no/search?language=no&phrase=tapt/tapende) | losing... |
+| [historisk](https://www.ordnett.no/search?language=no&phrase=historisk) | historic |
+| [sjanseløs](https://www.ordnett.no/search?language=no&phrase=sjanseløs) | without a chance |
+| [sterk](https://www.ordnett.no/search?language=no&phrase=sterk) | strong |
+| [høy](https://www.ordnett.no/search?language=no&phrase=høy) | high |
+| [mørk](https://www.ordnett.no/search?language=no&phrase=mørk) | dark |
+| [svak](https://www.ordnett.no/search?language=no&phrase=svak) | weak |
+| [imøtekommende](https://www.ordnett.no/search?language=no&phrase=imøtekommende) | obliging/forthcoming/accomodating |
+| [evig](https://www.ordnett.no/search?language=no&phrase=evig) | immortal/perpetual |
+| [dyrket](https://www.ordnett.no/search?language=no&phrase=dyrket) | cultivated (e.g. dyrket land/cultivated land) |
+| [avgjørende](https://www.ordnett.no/search?language=no&phrase=avgjørende) | deciding... |
+| [slakk](https://www.ordnett.no/search?language=no&phrase=slakk) | flat |
+| [ledig](https://www.ordnett.no/search?language=no&phrase=ledig) | available/easy/free |
+| [kort](https://www.ordnett.no/search?language=no&phrase=kort) | short |
+| [tam](https://www.ordnett.no/search?language=no&phrase=tam) | tame |
+| [tempramentsfull](https://www.ordnett.no/search?language=no&phrase=tempramentsfull) | temperamental |
+| [øvrig](https://www.ordnett.no/search?language=no&phrase=øvrig) | other/remaining/rest |
+| [miniatyr](https://www.ordnett.no/search?language=no&phrase=miniatyr) | minature |
+| [innerst](https://www.ordnett.no/search?language=no&phrase=innerst) | innermost |
+| [overraskende/overrasket](https://www.ordnett.no/search?language=no&phrase=overraskende/overrasket) | surprised |
+| [betydelig](https://www.ordnett.no/search?language=no&phrase=betydelig) | considerable |
+| [ujevn](https://www.ordnett.no/search?language=no&phrase=ujevn) | irratic/uneven/unpredictable |
+| [ensforming](https://www.ordnett.no/search?language=no&phrase=ensforming) | not varied |
 
