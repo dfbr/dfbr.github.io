@@ -4,24 +4,24 @@ A modifying word that determines the kind of reference a noun or noun group has,
 
 | Norwegian | English |
 | --- | --- |
-| [begge](https://www.ordnett.no/search?language=no&phrase=begge) | both |  |
+| [din](https://www.ordnett.no/search?language=no&phrase=din) | your (singular) |  |
+| [disse](https://www.ordnett.no/search?language=no&phrase=disse) | (these) |  |
 | [hvilke](https://www.ordnett.no/search?language=no&phrase=hvilke) | which (plural) |  |
-| [vår](https://www.ordnett.no/search?language=no&phrase=vår) | our |  |
-| [alle](https://www.ordnett.no/search?language=no&phrase=alle) | all |  |
-| [en](https://www.ordnett.no/search?language=no&phrase=en) | a/an | m |
-| [hvilken](https://www.ordnett.no/search?language=no&phrase=hvilken) | which | m |
-| [mange](https://www.ordnett.no/search?language=no&phrase=mange) | many |  |
-| [ei](https://www.ordnett.no/search?language=no&phrase=ei) | a/an | f |
-| [dets](https://www.ordnett.no/search?language=no&phrase=dets) | its | i |
-| [hans](https://www.ordnett.no/search?language=no&phrase=hans) | his | m |
 | [denne](https://www.ordnett.no/search?language=no&phrase=denne) | this (singular |  masculine and femenine) |
+| [alle](https://www.ordnett.no/search?language=no&phrase=alle) | all |  |
+| [hvilken](https://www.ordnett.no/search?language=no&phrase=hvilken) | which | m |
+| [noen](https://www.ordnett.no/search?language=no&phrase=noen) | some |  |
+| [hans](https://www.ordnett.no/search?language=no&phrase=hans) | his | m |
+| [vår](https://www.ordnett.no/search?language=no&phrase=vår) | our |  |
 | [hennes](https://www.ordnett.no/search?language=no&phrase=hennes) | her | f |
 | [hvilket](https://www.ordnett.no/search?language=no&phrase=hvilket) | which | i |
-| [din](https://www.ordnett.no/search?language=no&phrase=din) | your (singular) |  |
-| [min](https://www.ordnett.no/search?language=no&phrase=min) | my |  |
-| [disse](https://www.ordnett.no/search?language=no&phrase=disse) | (these) |  |
-| [noen](https://www.ordnett.no/search?language=no&phrase=noen) | some |  |
+| [mange](https://www.ordnett.no/search?language=no&phrase=mange) | many |  |
+| [dets](https://www.ordnett.no/search?language=no&phrase=dets) | its | i |
+| [ei](https://www.ordnett.no/search?language=no&phrase=ei) | a/an | f |
 | [et](https://www.ordnett.no/search?language=no&phrase=et) | a/an | i |
-| [deres](https://www.ordnett.no/search?language=no&phrase=deres) | your (plural) | None |
+| [min](https://www.ordnett.no/search?language=no&phrase=min) | my |  |
 | [dette](https://www.ordnett.no/search?language=no&phrase=dette) | this (singular |  neuter) |
+| [begge](https://www.ordnett.no/search?language=no&phrase=begge) | both |  |
+| [deres](https://www.ordnett.no/search?language=no&phrase=deres) | your (plural) | None |
+| [en](https://www.ordnett.no/search?language=no&phrase=en) | a/an | m |
 
