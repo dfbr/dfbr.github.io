@@ -4,27 +4,27 @@ A word that can function as a noun phrase used by itself and that refers either 
 
 | Norwegian | English |
 | --- | --- |
-| [dine](https://www.ordnett.no/search?language=no&phrase=dine) | your (plural) |
-| [vi](https://www.ordnett.no/search?language=no&phrase=vi) | we |
-| [dets](https://www.ordnett.no/search?language=no&phrase=dets) | its |
-| [min](https://www.ordnett.no/search?language=no&phrase=min) | my |
-| [hen](https://www.ordnett.no/search?language=no&phrase=hen) | they (singular) |
-| [meg selv](https://www.ordnett.no/search?language=no&phrase=meg%20selv) | myself |
-| [din](https://www.ordnett.no/search?language=no&phrase=din) | your |
-| [dem](https://www.ordnett.no/search?language=no&phrase=dem) | them |
-| [deg](https://www.ordnett.no/search?language=no&phrase=deg) | you (object singular) |
-| [deg selv](https://www.ordnett.no/search?language=no&phrase=deg%20selv) | yourself |
-| [mine](https://www.ordnett.no/search?language=no&phrase=mine) | my (plural) |
-| [meg](https://www.ordnett.no/search?language=no&phrase=meg) | me |
-| [ditt](https://www.ordnett.no/search?language=no&phrase=ditt) | your |
-| [han](https://www.ordnett.no/search?language=no&phrase=han) | he |
-| [du](https://www.ordnett.no/search?language=no&phrase=du) | you (singular) |
-| [deres](https://www.ordnett.no/search?language=no&phrase=deres) | their |
-| [jeg](https://www.ordnett.no/search?language=no&phrase=jeg) | I |
-| [mitt](https://www.ordnett.no/search?language=no&phrase=mitt) | my |
-| [dens](https://www.ordnett.no/search?language=no&phrase=dens) | its |
 | [dere](https://www.ordnett.no/search?language=no&phrase=dere) | you (plural) |
+| [dine](https://www.ordnett.no/search?language=no&phrase=dine) | your (plural) |
+| [mitt](https://www.ordnett.no/search?language=no&phrase=mitt) | my |
+| [han](https://www.ordnett.no/search?language=no&phrase=han) | he |
+| [vi](https://www.ordnett.no/search?language=no&phrase=vi) | we |
+| [ditt](https://www.ordnett.no/search?language=no&phrase=ditt) | your |
+| [min](https://www.ordnett.no/search?language=no&phrase=min) | my |
+| [du](https://www.ordnett.no/search?language=no&phrase=du) | you (singular) |
 | [de](https://www.ordnett.no/search?language=no&phrase=de) | they (plural) |
-| [dere selv](https://www.ordnett.no/search?language=no&phrase=dere%20selv) | yourselves |
+| [deg selv](https://www.ordnett.no/search?language=no&phrase=deg%20selv) | yourself |
+| [dens](https://www.ordnett.no/search?language=no&phrase=dens) | its |
+| [hen](https://www.ordnett.no/search?language=no&phrase=hen) | they (singular) |
+| [deres](https://www.ordnett.no/search?language=no&phrase=deres) | their |
+| [deg](https://www.ordnett.no/search?language=no&phrase=deg) | you (object singular) |
+| [mine](https://www.ordnett.no/search?language=no&phrase=mine) | my (plural) |
 | [hun](https://www.ordnett.no/search?language=no&phrase=hun) | she |
+| [jeg](https://www.ordnett.no/search?language=no&phrase=jeg) | I |
+| [din](https://www.ordnett.no/search?language=no&phrase=din) | your |
+| [dere selv](https://www.ordnett.no/search?language=no&phrase=dere%20selv) | yourselves |
+| [dets](https://www.ordnett.no/search?language=no&phrase=dets) | its |
+| [meg](https://www.ordnett.no/search?language=no&phrase=meg) | me |
+| [dem](https://www.ordnett.no/search?language=no&phrase=dem) | them |
+| [meg selv](https://www.ordnett.no/search?language=no&phrase=meg%20selv) | myself |
 
