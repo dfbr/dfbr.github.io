@@ -4,124 +4,124 @@ A word (other than a pronoun) used to identify any of a class of people, places,
 
 | Norwegian | English | Gender |
 | --- | --- | --- |
-| [urbefolkning](https://www.ordnett.no/search?language=no&phrase=urbefolkning) | indigenous population | m |
-| [ring](https://www.ordnett.no/search?language=no&phrase=ring) | circle | m |
-| [område](https://www.ordnett.no/search?language=no&phrase=område) | area/region/district | i |
-| [femkant](https://www.ordnett.no/search?language=no&phrase=femkant) | pentagon | m |
-| [bratte fjell](https://www.ordnett.no/search?language=no&phrase=bratte fjell) | steep slope | m |
+| [mønster](https://www.ordnett.no/search?language=no&phrase=mønster) | design/system/pattern | i |
+| [sesongarbeid](https://www.ordnett.no/search?language=no&phrase=sesongarbeid) | seasonal work | i |
 | [areal](https://www.ordnett.no/search?language=no&phrase=areal) | area/region | i |
-| [klager](https://www.ordnett.no/search?language=no&phrase=klager) | complaint | m |
-| [blanding](https://www.ordnett.no/search?language=no&phrase=blanding) | mixture | m |
-| [fubleart](https://www.ordnett.no/search?language=no&phrase=fubleart) | spices of bird | m/f |
-| [vidde](https://www.ordnett.no/search?language=no&phrase=vidde) | width | m/f |
-| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
-| [utvikling](https://www.ordnett.no/search?language=no&phrase=utvikling) | development | m |
-| [gap](https://www.ordnett.no/search?language=no&phrase=gap) | jaw(s) | m |
-| [myndighet](https://www.ordnett.no/search?language=no&phrase=myndighet) | authority/power/authorities | m |
-| [opphav](https://www.ordnett.no/search?language=no&phrase=opphav) | origin/source/beginning/cause | i |
-| [tjener](https://www.ordnett.no/search?language=no&phrase=tjener) | server (IT) | m |
-| [skikk](https://www.ordnett.no/search?language=no&phrase=skikk) | custom/practice | m |
-| [fall](https://www.ordnett.no/search?language=no&phrase=fall) | a decrease | i |
-| [fremmed](https://www.ordnett.no/search?language=no&phrase=fremmed) | stranger/foreign | m |
-| [underholdning](https://www.ordnett.no/search?language=no&phrase=underholdning) | entertainment | m |
-| [utland](https://www.ordnett.no/search?language=no&phrase=utland) | foreign/abroad | m |
-| [komplettering](https://www.ordnett.no/search?language=no&phrase=komplettering) | compliment | m |
-| [diagram](https://www.ordnett.no/search?language=no&phrase=diagram) | diagram | i |
-| [faktum](https://www.ordnett.no/search?language=no&phrase=faktum) | fact | i |
-| [rubrikk](https://www.ordnett.no/search?language=no&phrase=rubrikk) | caption/heading | m |
-| [tillit](https://www.ordnett.no/search?language=no&phrase=tillit) | trust/confidence | m |
-| [forandring](https://www.ordnett.no/search?language=no&phrase=forandring) | change/alteration/modification | m |
 | [luftforurensing](https://www.ordnett.no/search?language=no&phrase=luftforurensing) | air pollution | m |
-| [rikdom](https://www.ordnett.no/search?language=no&phrase=rikdom) | riches/wealth | m |
+| [vidde](https://www.ordnett.no/search?language=no&phrase=vidde) | width | m/f |
+| [severdighet](https://www.ordnett.no/search?language=no&phrase=severdighet) | landmark | m |
+| [agens](https://www.ordnett.no/search?language=no&phrase=agens) | agency | m |
+| [hodeskade](https://www.ordnett.no/search?language=no&phrase=hodeskade) | head injury | m |
+| [stigning](https://www.ordnett.no/search?language=no&phrase=stigning) | an increase | m |
+| [billedhugger](https://www.ordnett.no/search?language=no&phrase=billedhugger) | sculptor | m |
+| [avgjørelse](https://www.ordnett.no/search?language=no&phrase=avgjørelse) | a decision (e.g. legal decision) | m |
+| [tjener](https://www.ordnett.no/search?language=no&phrase=tjener) | servant | m |
+| [komplettering](https://www.ordnett.no/search?language=no&phrase=komplettering) | compliment | m |
+| [knallskudd](https://www.ordnett.no/search?language=no&phrase=knallskudd) | literally _bang shot_ - a warning shot gun | i |
+| [fellestrekk](https://www.ordnett.no/search?language=no&phrase=fellestrekk) | common feature | i |
+| [oversikt](https://www.ordnett.no/search?language=no&phrase=oversikt) | survey/perspective | m |
+| [forbruk](https://www.ordnett.no/search?language=no&phrase=forbruk) | consuption/expenditure | i |
+| [traktat](https://www.ordnett.no/search?language=no&phrase=traktat) | treaty | m |
+| [diagram](https://www.ordnett.no/search?language=no&phrase=diagram) | diagram | i |
+| [kullgruve](https://www.ordnett.no/search?language=no&phrase=kullgruve) | coal mine | m |
+| [arrangement](https://www.ordnett.no/search?language=no&phrase=arrangement) | arrangement/gathering/party/organisation | i |
+| [skade](https://www.ordnett.no/search?language=no&phrase=skade) | damage/injury | m |
+| [prosent](https://www.ordnett.no/search?language=no&phrase=prosent) | percent | m |
+| [tap](https://www.ordnett.no/search?language=no&phrase=tap) | loss/bereavement | i |
+| [urbefolkning](https://www.ordnett.no/search?language=no&phrase=urbefolkning) | indigenous population | m |
+| [fordel](https://www.ordnett.no/search?language=no&phrase=fordel) | advantage | m |
+| [underholdning](https://www.ordnett.no/search?language=no&phrase=underholdning) | entertainment | m |
+| [fubleart](https://www.ordnett.no/search?language=no&phrase=fubleart) | spices of bird | m/f |
+| [rush](https://www.ordnett.no/search?language=no&phrase=rush) | rush | i |
+| [likestilling](https://www.ordnett.no/search?language=no&phrase=likestilling) | equal status/opportunity | m |
+| [heksagon](https://www.ordnett.no/search?language=no&phrase=heksagon) | hexagon | m |
+| [fangst](https://www.ordnett.no/search?language=no&phrase=fangst) | catch (e.g. from a hunt)/haul | m |
+| [væremat](https://www.ordnett.no/search?language=no&phrase=væremat) | summer food | m |
+| [firkant](https://www.ordnett.no/search?language=no&phrase=firkant) | square | m |
+| [vekst](https://www.ordnett.no/search?language=no&phrase=vekst) | growth/increase | m |
+| [referat](https://www.ordnett.no/search?language=no&phrase=referat) | account/report/summary | i |
+| [historie](https://www.ordnett.no/search?language=no&phrase=historie) | history | m/f |
+| [kull](https://www.ordnett.no/search?language=no&phrase=kull) | coal | i |
+| [opphav](https://www.ordnett.no/search?language=no&phrase=opphav) | origin/source/beginning/cause | i |
+| [fylke](https://www.ordnett.no/search?language=no&phrase=fylke) | county/province | i |
+| [innvandere](https://www.ordnett.no/search?language=no&phrase=innvandere) | immigrant | m |
+| [forhold](https://www.ordnett.no/search?language=no&phrase=forhold) | relationship | i |
+| [skikk](https://www.ordnett.no/search?language=no&phrase=skikk) | custom/practice | m |
+| [svaberg](https://www.ordnett.no/search?language=no&phrase=svaberg) | coastal rock slope | i |
+| [nøysomhet](https://www.ordnett.no/search?language=no&phrase=nøysomhet) | moderation | m |
+| [stil](https://www.ordnett.no/search?language=no&phrase=stil) | style | m |
+| [næringsvei](https://www.ordnett.no/search?language=no&phrase=næringsvei) | industry | m |
+| [handel](https://www.ordnett.no/search?language=no&phrase=handel) | deal/transaction | m |
+| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military | m |
+| [skjærgård](https://www.ordnett.no/search?language=no&phrase=skjærgård) | archipelago | m |
+| [tilbud](https://www.ordnett.no/search?language=no&phrase=tilbud) | offer/proposition | i |
+| [mengde](https://www.ordnett.no/search?language=no&phrase=mengde) | amount | m |
 | [strøk](https://www.ordnett.no/search?language=no&phrase=strøk) | area/coat (of paint) | i |
 | [teknologi](https://www.ordnett.no/search?language=no&phrase=teknologi) | technology | m |
-| [utstilling](https://www.ordnett.no/search?language=no&phrase=utstilling) | display | m |
-| [sesongarbeid](https://www.ordnett.no/search?language=no&phrase=sesongarbeid) | seasonal work | i |
-| [innslag](https://www.ordnett.no/search?language=no&phrase=innslag) | news item | i |
-| [sekskant](https://www.ordnett.no/search?language=no&phrase=sekskant) | hexagon | m |
-| [kull](https://www.ordnett.no/search?language=no&phrase=kull) | coal | i |
-| [billedhugger](https://www.ordnett.no/search?language=no&phrase=billedhugger) | sculptor | m |
-| [tilgang](https://www.ordnett.no/search?language=no&phrase=tilgang) | an access | i |
-| [avgjørelse](https://www.ordnett.no/search?language=no&phrase=avgjørelse) | a decision (e.g. legal decision) | m |
 | [tre](https://www.ordnett.no/search?language=no&phrase=tre) | tree | i |
-| [oktogon](https://www.ordnett.no/search?language=no&phrase=oktogon) | octagon | m |
-| [innvandere](https://www.ordnett.no/search?language=no&phrase=innvandere) | immigrant | m |
-| [firkant](https://www.ordnett.no/search?language=no&phrase=firkant) | square | m |
-| [traktat](https://www.ordnett.no/search?language=no&phrase=traktat) | treaty | m |
+| [innhold](https://www.ordnett.no/search?language=no&phrase=innhold) | contents | i |
+| [økning](https://www.ordnett.no/search?language=no&phrase=økning) | an increase | m |
+| [samling](https://www.ordnett.no/search?language=no&phrase=samling) | collection/assembly | m |
+| [åker](https://www.ordnett.no/search?language=no&phrase=åker) | field | m |
+| [blanding](https://www.ordnett.no/search?language=no&phrase=blanding) | mixture | m |
 | [varasjon](https://www.ordnett.no/search?language=no&phrase=varasjon) | a variation | m |
-| [heksagon](https://www.ordnett.no/search?language=no&phrase=heksagon) | hexagon | m |
-| [malerisamling](https://www.ordnett.no/search?language=no&phrase=malerisamling) | loan collection (e.g. of an art gallery) | m |
-| [rush](https://www.ordnett.no/search?language=no&phrase=rush) | rush | i |
-| [hvalross](https://www.ordnett.no/search?language=no&phrase=hvalross) | walrus | m |
-| [historie](https://www.ordnett.no/search?language=no&phrase=historie) | history | m/f |
-| [mønster](https://www.ordnett.no/search?language=no&phrase=mønster) | design/system/pattern | i |
-| [skade](https://www.ordnett.no/search?language=no&phrase=skade) | damage/injury | m |
-| [vannkraft](https://www.ordnett.no/search?language=no&phrase=vannkraft) | hydro-power | m |
+| [linje](https://www.ordnett.no/search?language=no&phrase=linje) | line | m |
+| [regjering](https://www.ordnett.no/search?language=no&phrase=regjering) | government | m |
+| [vik](https://www.ordnett.no/search?language=no&phrase=vik) | bay/inlet/cove | m |
+| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
+| [bratte fjell](https://www.ordnett.no/search?language=no&phrase=bratte fjell) | steep slope | m |
+| [rubrikk](https://www.ordnett.no/search?language=no&phrase=rubrikk) | caption/heading | m |
+| [spor](https://www.ordnett.no/search?language=no&phrase=spor) | footprint/rut/track/trail | i |
+| [overraskelse](https://www.ordnett.no/search?language=no&phrase=overraskelse) | surprise | m |
+| [andel](https://www.ordnett.no/search?language=no&phrase=andel) | share/part | m |
 | [framskritt](https://www.ordnett.no/search?language=no&phrase=framskritt) | progress/advance | i |
-| [bombe](https://www.ordnett.no/search?language=no&phrase=bombe) | bomb | m |
-| [tap](https://www.ordnett.no/search?language=no&phrase=tap) | loss/bereavement | i |
+| [klager](https://www.ordnett.no/search?language=no&phrase=klager) | complaint | m |
+| [nedgang](https://www.ordnett.no/search?language=no&phrase=nedgang) | a decrease | m |
+| [rektangel](https://www.ordnett.no/search?language=no&phrase=rektangel) | rectangle | i |
 | [oppgang](https://www.ordnett.no/search?language=no&phrase=oppgang) | an increase | m |
+| [bruksanvisning](https://www.ordnett.no/search?language=no&phrase=bruksanvisning) | instructions/directions | m |
+| [sårbarhet](https://www.ordnett.no/search?language=no&phrase=sårbarhet) | vulnerability | m |
+| [lukeoppgave](https://www.ordnett.no/search?language=no&phrase=lukeoppgave) | fill in the blanks exercise | m |
+| [utstilling](https://www.ordnett.no/search?language=no&phrase=utstilling) | display | m |
+| [tilstedværelse](https://www.ordnett.no/search?language=no&phrase=tilstedværelse) | attendance | i |
+| [ring](https://www.ordnett.no/search?language=no&phrase=ring) | circle | m |
+| [hvalross](https://www.ordnett.no/search?language=no&phrase=hvalross) | walrus | m |
+| [bombe](https://www.ordnett.no/search?language=no&phrase=bombe) | bomb | m |
+| [vidde](https://www.ordnett.no/search?language=no&phrase=vidde) | open country | m |
+| [fyrtårn](https://www.ordnett.no/search?language=no&phrase=fyrtårn) | lighthouse | i |
+| [fremmed](https://www.ordnett.no/search?language=no&phrase=fremmed) | stranger/foreign | m |
+| [gap](https://www.ordnett.no/search?language=no&phrase=gap) | jaw(s) | m |
+| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
+| [fall](https://www.ordnett.no/search?language=no&phrase=fall) | a decrease | i |
+| [oktogon](https://www.ordnett.no/search?language=no&phrase=oktogon) | octagon | m |
+| [område](https://www.ordnett.no/search?language=no&phrase=område) | area/region/district | i |
+| [fakkel](https://www.ordnett.no/search?language=no&phrase=fakkel) | a torch (e.g. with a flame) | m |
+| [vannkraft](https://www.ordnett.no/search?language=no&phrase=vannkraft) | hydro-power | m |
+| [forandring](https://www.ordnett.no/search?language=no&phrase=forandring) | change/alteration/modification | m |
+| [etableringsfase](https://www.ordnett.no/search?language=no&phrase=etableringsfase) | start-up phase | m |
+| [tillit](https://www.ordnett.no/search?language=no&phrase=tillit) | trust/confidence | m |
+| [søppel](https://www.ordnett.no/search?language=no&phrase=søppel) | rubbish | i |
+| [faktum](https://www.ordnett.no/search?language=no&phrase=faktum) | fact | i |
 | [åttekant](https://www.ordnett.no/search?language=no&phrase=åttekant) | octagon | m |
+| [myndighet](https://www.ordnett.no/search?language=no&phrase=myndighet) | authority/power/authorities | m |
+| [overklasse](https://www.ordnett.no/search?language=no&phrase=overklasse) | upper class | m |
+| [naivitet](https://www.ordnett.no/search?language=no&phrase=naivitet) | naivety | m |
+| [tjener](https://www.ordnett.no/search?language=no&phrase=tjener) | server (IT) | m |
+| [tilgang](https://www.ordnett.no/search?language=no&phrase=tilgang) | an access | i |
+| [klisjé](https://www.ordnett.no/search?language=no&phrase=klisjé) | cliche | m |
+| [rikdom](https://www.ordnett.no/search?language=no&phrase=rikdom) | riches/wealth | m |
+| [utvikling](https://www.ordnett.no/search?language=no&phrase=utvikling) | development | m |
+| [utland](https://www.ordnett.no/search?language=no&phrase=utland) | foreign/abroad | m |
 | [blomst](https://www.ordnett.no/search?language=no&phrase=blomst) | flower | m |
 | [trekant](https://www.ordnett.no/search?language=no&phrase=trekant) | triangle | m |
-| [vidde](https://www.ordnett.no/search?language=no&phrase=vidde) | open country | m |
-| [oversikt](https://www.ordnett.no/search?language=no&phrase=oversikt) | survey/perspective | m |
-| [samboer](https://www.ordnett.no/search?language=no&phrase=samboer) | live-in partner | m |
-| [tomme](https://www.ordnett.no/search?language=no&phrase=tomme) | drum | m |
-| [andel](https://www.ordnett.no/search?language=no&phrase=andel) | share/part | m |
-| [åker](https://www.ordnett.no/search?language=no&phrase=åker) | field | m |
-| [tilbud](https://www.ordnett.no/search?language=no&phrase=tilbud) | offer/proposition | i |
-| [fangst](https://www.ordnett.no/search?language=no&phrase=fangst) | catch (e.g. from a hunt)/haul | m |
-| [handel](https://www.ordnett.no/search?language=no&phrase=handel) | deal/transaction | m |
-| [naivitet](https://www.ordnett.no/search?language=no&phrase=naivitet) | naivety | m |
-| [fakkel](https://www.ordnett.no/search?language=no&phrase=fakkel) | a torch (e.g. with a flame) | m |
-| [etableringsfase](https://www.ordnett.no/search?language=no&phrase=etableringsfase) | start-up phase | m |
-| [væremat](https://www.ordnett.no/search?language=no&phrase=væremat) | summer food | m |
-| [rekkehus](https://www.ordnett.no/search?language=no&phrase=rekkehus) | terrace house | i |
-| [nedgang](https://www.ordnett.no/search?language=no&phrase=nedgang) | a decrease | m |
-| [likestilling](https://www.ordnett.no/search?language=no&phrase=likestilling) | equal status/opportunity | m |
-| [overklasse](https://www.ordnett.no/search?language=no&phrase=overklasse) | upper class | m |
-| [lukeoppgave](https://www.ordnett.no/search?language=no&phrase=lukeoppgave) | fill in the blanks exercise | m |
-| [tjener](https://www.ordnett.no/search?language=no&phrase=tjener) | servant | m |
-| [stigning](https://www.ordnett.no/search?language=no&phrase=stigning) | an increase | m |
-| [samling](https://www.ordnett.no/search?language=no&phrase=samling) | collection/assembly | m |
-| [klisjé](https://www.ordnett.no/search?language=no&phrase=klisjé) | cliche | m |
-| [vekst](https://www.ordnett.no/search?language=no&phrase=vekst) | growth/increase | m |
-| [fylke](https://www.ordnett.no/search?language=no&phrase=fylke) | county/province | i |
-| [forbruk](https://www.ordnett.no/search?language=no&phrase=forbruk) | consuption/expenditure | i |
-| [prosent](https://www.ordnett.no/search?language=no&phrase=prosent) | percent | m |
-| [agens](https://www.ordnett.no/search?language=no&phrase=agens) | agency | m |
-| [regjering](https://www.ordnett.no/search?language=no&phrase=regjering) | government | m |
-| [kullgruve](https://www.ordnett.no/search?language=no&phrase=kullgruve) | coal mine | m |
-| [referat](https://www.ordnett.no/search?language=no&phrase=referat) | account/report/summary | i |
-| [næringsvei](https://www.ordnett.no/search?language=no&phrase=næringsvei) | industry | m |
-| [hodeskade](https://www.ordnett.no/search?language=no&phrase=hodeskade) | head injury | m |
-| [rektangel](https://www.ordnett.no/search?language=no&phrase=rektangel) | rectangle | i |
-| [havre](https://www.ordnett.no/search?language=no&phrase=havre) | oat | m |
-| [søppel](https://www.ordnett.no/search?language=no&phrase=søppel) | rubbish | i |
-| [sårbarhet](https://www.ordnett.no/search?language=no&phrase=sårbarhet) | vulnerability | m |
-| [overraskelse](https://www.ordnett.no/search?language=no&phrase=overraskelse) | surprise | m |
-| [militær](https://www.ordnett.no/search?language=no&phrase=militær) | military | m |
-| [svaberg](https://www.ordnett.no/search?language=no&phrase=svaberg) | coastal rock slope | i |
-| [tilstedværelse](https://www.ordnett.no/search?language=no&phrase=tilstedværelse) | attendance | i |
-| [severdighet](https://www.ordnett.no/search?language=no&phrase=severdighet) | landmark | m |
-| [vik](https://www.ordnett.no/search?language=no&phrase=vik) | bay/inlet/cove | m |
-| [spor](https://www.ordnett.no/search?language=no&phrase=spor) | footprint/rut/track/trail | i |
-| [arrangement](https://www.ordnett.no/search?language=no&phrase=arrangement) | arrangement/gathering/party/organisation | i |
-| [fordel](https://www.ordnett.no/search?language=no&phrase=fordel) | advantage | m |
-| [mengde](https://www.ordnett.no/search?language=no&phrase=mengde) | amount | m |
-| [økning](https://www.ordnett.no/search?language=no&phrase=økning) | an increase | m |
-| [innhold](https://www.ordnett.no/search?language=no&phrase=innhold) | contents | i |
-| [dugnad](https://www.ordnett.no/search?language=no&phrase=dugnad) | voluntary work | m |
 | [himmelretning](https://www.ordnett.no/search?language=no&phrase=himmelretning) | point of the compass | m |
-| [stil](https://www.ordnett.no/search?language=no&phrase=stil) | style | m |
-| [nøysomhet](https://www.ordnett.no/search?language=no&phrase=nøysomhet) | moderation | m |
-| [skjærgård](https://www.ordnett.no/search?language=no&phrase=skjærgård) | archipelago | m |
+| [dugnad](https://www.ordnett.no/search?language=no&phrase=dugnad) | voluntary work | m |
+| [havre](https://www.ordnett.no/search?language=no&phrase=havre) | oat | m |
+| [tomme](https://www.ordnett.no/search?language=no&phrase=tomme) | drum | m |
+| [malerisamling](https://www.ordnett.no/search?language=no&phrase=malerisamling) | loan collection (e.g. of an art gallery) | m |
 | [beliggenheten](https://www.ordnett.no/search?language=no&phrase=beliggenheten) | location/(geographic) situation | m/f |
-| [fyrtårn](https://www.ordnett.no/search?language=no&phrase=fyrtårn) | lighthouse | i |
-| [knallskudd](https://www.ordnett.no/search?language=no&phrase=knallskudd) | literally _bang shot_ - a warning shot gun | i |
-| [forhold](https://www.ordnett.no/search?language=no&phrase=forhold) | relationship | i |
-| [fellestrekk](https://www.ordnett.no/search?language=no&phrase=fellestrekk) | common feature | i |
-| [linje](https://www.ordnett.no/search?language=no&phrase=linje) | line | m |
-| [bruksanvisning](https://www.ordnett.no/search?language=no&phrase=bruksanvisning) | instructions/directions | m |
+| [innslag](https://www.ordnett.no/search?language=no&phrase=innslag) | news item | i |
+| [femkant](https://www.ordnett.no/search?language=no&phrase=femkant) | pentagon | m |
+| [sekskant](https://www.ordnett.no/search?language=no&phrase=sekskant) | hexagon | m |
+| [rekkehus](https://www.ordnett.no/search?language=no&phrase=rekkehus) | terrace house | i |
 
