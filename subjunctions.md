@@ -4,28 +4,28 @@ Subjunctions introduce subordinate clauses
 
 | Norwegian | English |
 | --- | --- |
-| [selv om](https://www.ordnett.no/search?language=no&phrase=selv%20om) | even though |
-| [etter at](https://www.ordnett.no/search?language=no&phrase=etter%20at) | after |
-| [så](https://www.ordnett.no/search?language=no&phrase=så) | so |
-| [dersom](https://www.ordnett.no/search?language=no&phrase=dersom) | if |
-| [når](https://www.ordnett.no/search?language=no&phrase=når) | when |
-| [at](https://www.ordnett.no/search?language=no&phrase=at) | that |
-| [slik om](https://www.ordnett.no/search?language=no&phrase=slik%20om) | as if |
-| [enda](https://www.ordnett.no/search?language=no&phrase=enda) | even though |
-| [hvis](https://www.ordnett.no/search?language=no&phrase=hvis) | if |
-| [da](https://www.ordnett.no/search?language=no&phrase=da) | when |
-| [innen](https://www.ordnett.no/search?language=no&phrase=innen) | within/before |
-| [som](https://www.ordnett.no/search?language=no&phrase=som) | who/whom/which/that |
-| [idet](https://www.ordnett.no/search?language=no&phrase=idet) | as |
-| [mens](https://www.ordnett.no/search?language=no&phrase=mens) | while |
-| [till tross for at](https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at) | in spite of |
 | [jo...dess](https://www.ordnett.no/search?language=no&phrase=jo...dess) | the...the |
-| [om](https://www.ordnett.no/search?language=no&phrase=om) | whether/if |
+| [innen](https://www.ordnett.no/search?language=no&phrase=innen) | within/before |
+| [dersom](https://www.ordnett.no/search?language=no&phrase=dersom) | if |
+| [mens](https://www.ordnett.no/search?language=no&phrase=mens) | while |
 | [før](https://www.ordnett.no/search?language=no&phrase=før) | before |
-| [slik at](https://www.ordnett.no/search?language=no&phrase=slik%20at) | so that |
-| [siden](https://www.ordnett.no/search?language=no&phrase=siden) | since/as |
-| [for at](https://www.ordnett.no/search?language=no&phrase=for%20at) | in order to |
-| [slik som](https://www.ordnett.no/search?language=no&phrase=slik%20som) | as |
+| [om](https://www.ordnett.no/search?language=no&phrase=om) | whether/if |
+| [selv om](https://www.ordnett.no/search?language=no&phrase=selv%20om) | even though |
+| [som](https://www.ordnett.no/search?language=no&phrase=som) | who/whom/which/that |
 | [fordi](https://www.ordnett.no/search?language=no&phrase=fordi) | because |
+| [at](https://www.ordnett.no/search?language=no&phrase=at) | that |
+| [till tross for at](https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at) | in spite of |
+| [da](https://www.ordnett.no/search?language=no&phrase=da) | when |
+| [for at](https://www.ordnett.no/search?language=no&phrase=for%20at) | in order to |
+| [siden](https://www.ordnett.no/search?language=no&phrase=siden) | since/as |
+| [når](https://www.ordnett.no/search?language=no&phrase=når) | when |
+| [så](https://www.ordnett.no/search?language=no&phrase=så) | so |
+| [slik om](https://www.ordnett.no/search?language=no&phrase=slik%20om) | as if |
+| [etter at](https://www.ordnett.no/search?language=no&phrase=etter%20at) | after |
+| [hvis](https://www.ordnett.no/search?language=no&phrase=hvis) | if |
+| [slik at](https://www.ordnett.no/search?language=no&phrase=slik%20at) | so that |
+| [slik som](https://www.ordnett.no/search?language=no&phrase=slik%20som) | as |
+| [idet](https://www.ordnett.no/search?language=no&phrase=idet) | as |
+| [enda](https://www.ordnett.no/search?language=no&phrase=enda) | even though |
 
 
