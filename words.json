@@ -1,52 +1,10 @@
 {
     "words": [
         {
-            "engelsk": "to shoot",
+            "engelsk": "to settle/decide",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 skyte"
-        },
-        {
-            "engelsk": "to explore",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 utforske"
-        },
-        {
-            "engelsk": "to introduce",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 introdusere"
-        },
-        {
-            "engelsk": "to lose",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 tape"
-        },
-        {
-            "engelsk": "to scalp",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 skalpere"
-        },
-        {
-            "engelsk": "to dominate",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 dominere"
-        },
-        {
-            "engelsk": "to not change",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 ikke endre"
-        },
-        {
-            "engelsk": "to damage/injur",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 skade"
+            "norsk": "\u00e5 avgj\u00f8re"
         },
         {
             "engelsk": "to owe",
@@ -55,274 +13,10 @@
             "norsk": "\u00e5 skylde"
         },
         {
-            "engelsk": "to create",
+            "engelsk": "to shoot",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 skape"
-        },
-        {
-            "engelsk": "to develop (including code)",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 utvikle"
-        },
-        {
-            "engelsk": "to settle/decide",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 avgj\u00f8re"
-        },
-        {
-            "engelsk": "to rush",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 styrte"
-        },
-        {
-            "engelsk": "to settle down",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 bosette seg"
-        },
-        {
-            "engelsk": "to make accessible",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 tilghengeliggj\u00f8re"
-        },
-        {
-            "engelsk": "to adapt oneself",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 tilpasse seg"
-        },
-        {
-            "engelsk": "handle/deal/do business",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 handle"
-        },
-        {
-            "engelsk": "to disturb",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 forstyrre (seg)"
-        },
-        {
-            "engelsk": "to go down/fall",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 g\u00e5 ned"
-        },
-        {
-            "engelsk": "to nest/brood",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 hekke"
-        },
-        {
-            "engelsk": "to complain",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 klage over"
-        },
-        {
-            "engelsk": "to pass/carry (e.g. in a vote)",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 vedta"
-        },
-        {
-            "engelsk": "to enter into/agree/make",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 inng\u00e5"
-        },
-        {
-            "engelsk": "to create/make",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 skapt"
-        },
-        {
-            "engelsk": "to influence",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 p\u00e5virke"
-        },
-        {
-            "engelsk": "to protect",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 bevare"
-        },
-        {
-            "engelsk": "to remain stable",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 holde seg stabilt"
-        },
-        {
-            "engelsk": "to perceive",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 oppfatte"
-        },
-        {
-            "engelsk": "to increase/go up",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 stige"
-        },
-        {
-            "engelsk": "to characterise",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 prege"
-        },
-        {
-            "engelsk": "to master",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 beherske"
-        },
-        {
-            "engelsk": "to grow bushy",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 buske seg"
-        },
-        {
-            "engelsk": "to vary",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 variere"
-        },
-        {
-            "engelsk": "to display (something)",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 stille ut (noe)"
-        },
-        {
-            "engelsk": "to consit of",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "best\u00e5"
-        },
-        {
-            "engelsk": "to end",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 avslutte"
-        },
-        {
-            "engelsk": "to interact",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 p\u00e5virke hverandre"
-        },
-        {
-            "engelsk": "to limit/reduce/restrict/confine",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 begrense"
-        },
-        {
-            "engelsk": "to decrease",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 synke"
-        },
-        {
-            "engelsk": "to offer",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 tilbyr"
-        },
-        {
-            "engelsk": "to immigrate",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 innvandre"
-        },
-        {
-            "engelsk": "to collect (e.g. together)",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 samle"
-        },
-        {
-            "engelsk": "to knit",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 strikke"
-        },
-        {
-            "engelsk": "to pull/haul/drag",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 trekke"
-        },
-        {
-            "engelsk": "to fall (number or through gravity)",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 falle"
-        },
-        {
-            "engelsk": "to be valid/in force/applicable",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 gjelde"
-        },
-        {
-            "engelsk": "to surprise",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 overraske"
-        },
-        {
-            "engelsk": "to shrink/contract",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 krympe"
-        },
-        {
-            "engelsk": "to drum",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 tomme"
-        },
-        {
-            "engelsk": "to exercise",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 morjonere"
-        },
-        {
-            "engelsk": "to enter/cause/inflict",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 p\u00e5f\u00f8re"
-        },
-        {
-            "engelsk": "to suggest",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 foresl\u00e5"
-        },
-        {
-            "engelsk": "bicker/fight/quarrel",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 krangle"
-        },
-        {
-            "engelsk": "to escape",
-            "gender": "",
-            "kategorie": "verb",
-            "norsk": "\u00e5 unng\u00e5"
+            "norsk": "\u00e5 skyte"
         },
         {
             "engelsk": "to cultivate",
@@ -331,22 +25,46 @@
             "norsk": "\u00e5 dyrke"
         },
         {
-            "engelsk": "to guide/lead",
+            "engelsk": "to send",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 f\u00f8re"
+            "norsk": "\u00e5 skikke"
         },
         {
-            "engelsk": "to introduce",
+            "engelsk": "to end",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 innf\u00f8re"
+            "norsk": "\u00e5 avslutte"
         },
         {
-            "engelsk": "to arrange/organise",
+            "engelsk": "to limit/reduce/restrict/confine",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 arrangere"
+            "norsk": "\u00e5 begrense"
+        },
+        {
+            "engelsk": "to shrink/contract",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 krympe"
+        },
+        {
+            "engelsk": "to pass/carry (e.g. in a vote)",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 vedta"
+        },
+        {
+            "engelsk": "to be valid/in force/applicable",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 gjelde"
+        },
+        {
+            "engelsk": "to remain stable",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 holde seg stabilt"
         },
         {
             "engelsk": "calculate/estimate/reckon/assume",
@@ -355,16 +73,88 @@
             "norsk": "\u00e5 regne"
         },
         {
-            "engelsk": "to separate",
+            "engelsk": "to introduce",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 skille"
+            "norsk": "\u00e5 introdusere"
         },
         {
-            "engelsk": "to enjoy oneself",
+            "engelsk": "to offer",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 trives"
+            "norsk": "\u00e5 tilbyr"
+        },
+        {
+            "engelsk": "to create",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 skape"
+        },
+        {
+            "engelsk": "to decrease",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 synke"
+        },
+        {
+            "engelsk": "to create/make",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 skapt"
+        },
+        {
+            "engelsk": "to make accessible",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 tilghengeliggj\u00f8re"
+        },
+        {
+            "engelsk": "to display (something)",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 stille ut (noe)"
+        },
+        {
+            "engelsk": "to influence",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 p\u00e5virke"
+        },
+        {
+            "engelsk": "to collect (e.g. together)",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 samle"
+        },
+        {
+            "engelsk": "to arrange/organise",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 arrangere"
+        },
+        {
+            "engelsk": "to scalp",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 skalpere"
+        },
+        {
+            "engelsk": "to vary",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 variere"
+        },
+        {
+            "engelsk": "to increase/go up",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 stige"
+        },
+        {
+            "engelsk": "to suggest",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 foresl\u00e5"
         },
         {
             "engelsk": "to kill",
@@ -373,40 +163,46 @@
             "norsk": "\u00e5 drepe"
         },
         {
-            "engelsk": "to send",
+            "engelsk": "to adapt oneself",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 skikke"
+            "norsk": "\u00e5 tilpasse seg"
         },
         {
-            "engelsk": "to judge/assess/estimate/evaluate",
+            "engelsk": "to introduce",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 vurdere"
+            "norsk": "\u00e5 innf\u00f8re"
         },
         {
-            "engelsk": "cloud over (\u00e5 skye over/til)",
+            "engelsk": "to exercise",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 skye over"
+            "norsk": "\u00e5 morjonere"
         },
         {
-            "engelsk": "to enquire/call/approach (somebody)",
+            "engelsk": "to explore",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 henvende seg (til noen)"
+            "norsk": "\u00e5 utforske"
         },
         {
-            "engelsk": "to hibernate",
+            "engelsk": "to enter/cause/inflict",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 overvintre"
+            "norsk": "\u00e5 p\u00e5f\u00f8re"
         },
         {
-            "engelsk": "to contain",
+            "engelsk": "to enjoy oneself",
             "gender": "",
             "kategorie": "verb",
-            "norsk": "\u00e5 innhold"
+            "norsk": "\u00e5 trives"
+        },
+        {
+            "engelsk": "to not change",
+            "gender": "",
+            "kategorie": "verb",
+            "norsk": "\u00e5 ikke endre"
         },
         {
             "engelsk": "to flower",
@@ -415,250 +211,208 @@
             "norsk": "\u00e5 blomstre"
         },
         {
-            "engelsk": "strong (e.g. for food)",
+            "engelsk": "to master",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "sterk"
+            "kategorie": "verb",
+            "norsk": "\u00e5 beherske"
         },
         {
-            "engelsk": "light",
+            "engelsk": "to rush",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "lys"
+            "kategorie": "verb",
+            "norsk": "\u00e5 styrte"
         },
         {
-            "engelsk": "accessible/available/open",
+            "engelsk": "to complain",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "tilghengelig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 klage over"
         },
         {
-            "engelsk": "obliging/forthcoming/accomodating",
+            "engelsk": "to fall (number or through gravity)",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "im\u00f8tekommende"
+            "kategorie": "verb",
+            "norsk": "\u00e5 falle"
         },
         {
-            "engelsk": "high",
+            "engelsk": "to damage/injur",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "h\u00f8y"
+            "kategorie": "verb",
+            "norsk": "\u00e5 skade"
         },
         {
-            "engelsk": "dramatic",
+            "engelsk": "to protect",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "dramatisk"
+            "kategorie": "verb",
+            "norsk": "\u00e5 bevare"
         },
         {
-            "engelsk": "dominating",
+            "engelsk": "to perceive",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "dominerende/dominert"
+            "kategorie": "verb",
+            "norsk": "\u00e5 oppfatte"
         },
         {
-            "engelsk": "special/particular/especially",
+            "engelsk": "handle/deal/do business",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "s\u00e6rlig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 handle"
         },
         {
-            "engelsk": "even/level/smooth",
+            "engelsk": "to dominate",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "jevn"
+            "kategorie": "verb",
+            "norsk": "\u00e5 dominere"
         },
         {
-            "engelsk": "flat",
+            "engelsk": "to go down/fall",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "slakk"
+            "kategorie": "verb",
+            "norsk": "\u00e5 g\u00e5 ned"
         },
         {
-            "engelsk": "historic",
+            "engelsk": "to contain",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "historisk"
+            "kategorie": "verb",
+            "norsk": "\u00e5 innhold"
         },
         {
-            "engelsk": "corresponding/equivalent",
+            "engelsk": "to knit",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "tilsvarende"
+            "kategorie": "verb",
+            "norsk": "\u00e5 strikke"
         },
         {
-            "engelsk": "variable",
+            "engelsk": "to settle down",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "variert/variende"
+            "kategorie": "verb",
+            "norsk": "\u00e5 bosette seg"
         },
         {
-            "engelsk": "foreign",
+            "engelsk": "to characterise",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "fremmed"
+            "kategorie": "verb",
+            "norsk": "\u00e5 prege"
         },
         {
-            "engelsk": "abandoned",
+            "engelsk": "to consit of",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "forlatt"
+            "kategorie": "verb",
+            "norsk": "best\u00e5"
         },
         {
-            "engelsk": "immortal/perpetual",
+            "engelsk": "to pull/haul/drag",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "evig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 trekke"
         },
         {
-            "engelsk": "recent/of late",
+            "engelsk": "cloud over (\u00e5 skye over/til)",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "nylig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 skye over"
         },
         {
-            "engelsk": "loose",
+            "engelsk": "to drum",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "vid"
+            "kategorie": "verb",
+            "norsk": "\u00e5 tomme"
         },
         {
-            "engelsk": "tame",
+            "engelsk": "to surprise",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "tam"
+            "kategorie": "verb",
+            "norsk": "\u00e5 overraske"
         },
         {
-            "engelsk": "dry",
+            "engelsk": "to lose",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "t\u00f8rr"
+            "kategorie": "verb",
+            "norsk": "\u00e5 tape"
         },
         {
-            "engelsk": "temperamental",
+            "engelsk": "to escape",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "tempramentsfull"
+            "kategorie": "verb",
+            "norsk": "\u00e5 unng\u00e5"
         },
         {
-            "engelsk": "fertile/lush",
+            "engelsk": "bicker/fight/quarrel",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "frodig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 krangle"
         },
         {
-            "engelsk": "bad/mean/nasty/naughty",
+            "engelsk": "to disturb",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "slem"
+            "kategorie": "verb",
+            "norsk": "\u00e5 forstyrre (seg)"
         },
         {
-            "engelsk": "technological",
+            "engelsk": "to judge/assess/estimate/evaluate",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "teknologist"
+            "kategorie": "verb",
+            "norsk": "\u00e5 vurdere"
         },
         {
-            "engelsk": "scientific/scholarly",
+            "engelsk": "to enter into/agree/make",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "vitenskapelig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 inng\u00e5"
         },
         {
-            "engelsk": "dark",
+            "engelsk": "to develop (including code)",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "m\u00f8rk"
+            "kategorie": "verb",
+            "norsk": "\u00e5 utvikle"
         },
         {
-            "engelsk": "wet",
+            "engelsk": "to guide/lead",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "v\u00e5t"
+            "kategorie": "verb",
+            "norsk": "\u00e5 f\u00f8re"
         },
         {
-            "engelsk": "dumb/stupid/idiotic",
+            "engelsk": "to nest/brood",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "t\u00e5pelig"
+            "kategorie": "verb",
+            "norsk": "\u00e5 hekke"
         },
         {
-            "engelsk": "threatening",
+            "engelsk": "to separate",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "truende"
+            "kategorie": "verb",
+            "norsk": "\u00e5 skille"
         },
         {
-            "engelsk": "wild",
+            "engelsk": "to grow bushy",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "vill"
+            "kategorie": "verb",
+            "norsk": "\u00e5 buske seg"
         },
         {
-            "engelsk": "fastidious/squeamish/particulary/picky",
+            "engelsk": "to immigrate",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "kresen"
+            "kategorie": "verb",
+            "norsk": "\u00e5 innvandre"
         },
         {
-            "engelsk": "ruined/damaged/broken/destroyed",
+            "engelsk": "to enquire/call/approach (somebody)",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "\u00f8delagt"
+            "kategorie": "verb",
+            "norsk": "\u00e5 henvende seg (til noen)"
         },
         {
-            "engelsk": "proud",
+            "engelsk": "to interact",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "stolt"
+            "kategorie": "verb",
+            "norsk": "\u00e5 p\u00e5virke hverandre"
         },
         {
-            "engelsk": "flowery",
+            "engelsk": "to hibernate",
             "gender": "",
-            "kategorie": "adjective",
-            "norsk": "blomsterrik"
-        },
-        {
-            "engelsk": "deciding...",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "avgj\u00f8rende"
-        },
-        {
-            "engelsk": "big",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "stor"
-        },
-        {
-            "engelsk": "wild",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "ville"
-        },
-        {
-            "engelsk": "varied",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "variert"
-        },
-        {
-            "engelsk": "not dramatic",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "udramatisk"
-        },
-        {
-            "engelsk": "cold",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "kald"
-        },
-        {
-            "engelsk": "irratic/uneven/unpredictable",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "ujevn"
+            "kategorie": "verb",
+            "norsk": "\u00e5 overvintre"
         },
         {
             "engelsk": "opposite",
@@ -667,76 +421,10 @@
             "norsk": "motsatt"
         },
         {
-            "engelsk": "steep",
+            "engelsk": "temperamental",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "bratt"
-        },
-        {
-            "engelsk": "innermost",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "innerst"
-        },
-        {
-            "engelsk": "tight (e.g. for clothes or a room)",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "trang"
-        },
-        {
-            "engelsk": "unhealthy",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "usunn"
-        },
-        {
-            "engelsk": "cultivated (e.g. dyrket land/cultivated land)",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "dyrket"
-        },
-        {
-            "engelsk": "other/remaining/rest",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "\u00f8vrig"
-        },
-        {
-            "engelsk": "short",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "kort"
-        },
-        {
-            "engelsk": "deep",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "dyp"
-        },
-        {
-            "engelsk": "strong",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "sterk"
-        },
-        {
-            "engelsk": "immigrant/immigranting",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "innvandret"
-        },
-        {
-            "engelsk": "certain/sure/positive",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "viss"
-        },
-        {
-            "engelsk": "small",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "liten"
+            "norsk": "tempramentsfull"
         },
         {
             "engelsk": "considerable",
@@ -745,34 +433,16 @@
             "norsk": "betydelig"
         },
         {
-            "engelsk": "minature",
+            "engelsk": "small",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "miniatyr"
+            "norsk": "liten"
         },
         {
-            "engelsk": "rich/wealthy",
+            "engelsk": "tight (e.g. for clothes or a room)",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "rik"
-        },
-        {
-            "engelsk": "not varied",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "ensforming"
-        },
-        {
-            "engelsk": "low",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "lav"
-        },
-        {
-            "engelsk": "losing...",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "tapt/tapende"
+            "norsk": "trang"
         },
         {
             "engelsk": "hostile/antagonistic",
@@ -781,22 +451,34 @@
             "norsk": "fiendtlig"
         },
         {
-            "engelsk": "nevertheless/nonetheless/still/yet/at any rate",
+            "engelsk": "surprised",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "imidlertid"
+            "norsk": "overraskende/overrasket"
         },
         {
-            "engelsk": "foreign",
+            "engelsk": "deep",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "utenlandsk"
+            "norsk": "dyp"
         },
         {
-            "engelsk": "without a chance",
+            "engelsk": "bad/mean/nasty/naughty",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "sjansel\u00f8s"
+            "norsk": "slem"
+        },
+        {
+            "engelsk": "dumb/stupid/idiotic",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "t\u00e5pelig"
+        },
+        {
+            "engelsk": "historic",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "historisk"
         },
         {
             "engelsk": "fascinating",
@@ -805,28 +487,52 @@
             "norsk": "fascinerende"
         },
         {
-            "engelsk": "narrow",
+            "engelsk": "losing...",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "smal"
+            "norsk": "tapt/tapende"
         },
         {
-            "engelsk": "long",
+            "engelsk": "available/easy/free",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "lang"
+            "norsk": "ledig"
         },
         {
-            "engelsk": "threatened",
+            "engelsk": "foreign",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "truet"
+            "norsk": "utenlandsk"
         },
         {
-            "engelsk": "mild",
+            "engelsk": "weak",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "mild"
+            "norsk": "svak"
+        },
+        {
+            "engelsk": "wild",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "ville"
+        },
+        {
+            "engelsk": "steep",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "bratt"
+        },
+        {
+            "engelsk": "technological",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "teknologist"
+        },
+        {
+            "engelsk": "without a chance",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "sjansel\u00f8s"
         },
         {
             "engelsk": "decreasing",
@@ -841,10 +547,34 @@
             "norsk": "kjerne-"
         },
         {
-            "engelsk": "magnificent",
+            "engelsk": "certain/sure/positive",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "praktfull"
+            "norsk": "viss"
+        },
+        {
+            "engelsk": "special/particular/especially",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "s\u00e6rlig"
+        },
+        {
+            "engelsk": "hot",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "varm"
+        },
+        {
+            "engelsk": "obliging/forthcoming/accomodating",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "im\u00f8tekommende"
+        },
+        {
+            "engelsk": "dry",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "t\u00f8rr"
         },
         {
             "engelsk": "to be full of the weekend",
@@ -859,16 +589,244 @@
             "norsk": "grunn"
         },
         {
+            "engelsk": "corresponding/equivalent",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "tilsvarende"
+        },
+        {
+            "engelsk": "threatened",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "truet"
+        },
+        {
             "engelsk": "carniverous (e.g. carniverous animal)",
             "gender": "",
             "kategorie": "adjective",
             "norsk": "rov... (f.eks rovdyr)"
         },
         {
-            "engelsk": "military",
+            "engelsk": "even/level/smooth",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "milit\u00e6r"
+            "norsk": "jevn"
+        },
+        {
+            "engelsk": "strong (e.g. for food)",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "sterk"
+        },
+        {
+            "engelsk": "immigrant/immigranting",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "innvandret"
+        },
+        {
+            "engelsk": "fastidious/squeamish/particulary/picky",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "kresen"
+        },
+        {
+            "engelsk": "unhealthy",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "usunn"
+        },
+        {
+            "engelsk": "mild",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "mild"
+        },
+        {
+            "engelsk": "rich/wealthy",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "rik"
+        },
+        {
+            "engelsk": "loose",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "vid"
+        },
+        {
+            "engelsk": "long",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "lang"
+        },
+        {
+            "engelsk": "short",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "kort"
+        },
+        {
+            "engelsk": "minature",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "miniatyr"
+        },
+        {
+            "engelsk": "other/remaining/rest",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "\u00f8vrig"
+        },
+        {
+            "engelsk": "cold",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "kald"
+        },
+        {
+            "engelsk": "cultivated (e.g. dyrket land/cultivated land)",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "dyrket"
+        },
+        {
+            "engelsk": "fertile/lush",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "frodig"
+        },
+        {
+            "engelsk": "not varied",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "ensforming"
+        },
+        {
+            "engelsk": "strong",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "sterk"
+        },
+        {
+            "engelsk": "foreign",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "fremmed"
+        },
+        {
+            "engelsk": "flat",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "slakk"
+        },
+        {
+            "engelsk": "dominating",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "dominerende/dominert"
+        },
+        {
+            "engelsk": "flowery",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "blomsterrik"
+        },
+        {
+            "engelsk": "innermost",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "innerst"
+        },
+        {
+            "engelsk": "scientific/scholarly",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "vitenskapelig"
+        },
+        {
+            "engelsk": "threatening",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "truende"
+        },
+        {
+            "engelsk": "recent/of late",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "nylig"
+        },
+        {
+            "engelsk": "dark",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "m\u00f8rk"
+        },
+        {
+            "engelsk": "nevertheless/nonetheless/still/yet/at any rate",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "imidlertid"
+        },
+        {
+            "engelsk": "wild",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "vill"
+        },
+        {
+            "engelsk": "varied",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "variert"
+        },
+        {
+            "engelsk": "low",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "lav"
+        },
+        {
+            "engelsk": "irratic/uneven/unpredictable",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "ujevn"
+        },
+        {
+            "engelsk": "not dramatic",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "udramatisk"
+        },
+        {
+            "engelsk": "tame",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "tam"
+        },
+        {
+            "engelsk": "wet",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "v\u00e5t"
+        },
+        {
+            "engelsk": "deciding...",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "avgj\u00f8rende"
+        },
+        {
+            "engelsk": "narrow",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "smal"
+        },
+        {
+            "engelsk": "accessible/available/open",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "tilghengelig"
         },
         {
             "engelsk": "broad",
@@ -877,52 +835,76 @@
             "norsk": "bred"
         },
         {
-            "engelsk": "hot",
+            "engelsk": "magnificent",
             "gender": "",
             "kategorie": "adjective",
-            "norsk": "varm"
+            "norsk": "praktfull"
+        },
+        {
+            "engelsk": "abandoned",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "forlatt"
+        },
+        {
+            "engelsk": "ruined/damaged/broken/destroyed",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "\u00f8delagt"
+        },
+        {
+            "engelsk": "high",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "h\u00f8y"
+        },
+        {
+            "engelsk": "proud",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "stolt"
+        },
+        {
+            "engelsk": "big",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "stor"
+        },
+        {
+            "engelsk": "immortal/perpetual",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "evig"
+        },
+        {
+            "engelsk": "dramatic",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "dramatisk"
+        },
+        {
+            "engelsk": "light",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "lys"
+        },
+        {
+            "engelsk": "variable",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "variert/variende"
+        },
+        {
+            "engelsk": "military",
+            "gender": "",
+            "kategorie": "adjective",
+            "norsk": "milit\u00e6r"
         },
         {
             "engelsk": "ubly/nasty/foul",
             "gender": "",
             "kategorie": "adjective",
             "norsk": "stygg"
-        },
-        {
-            "engelsk": "available/easy/free",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "ledig"
-        },
-        {
-            "engelsk": "surprised",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "overraskende/overrasket"
-        },
-        {
-            "engelsk": "weak",
-            "gender": "",
-            "kategorie": "adjective",
-            "norsk": "svak"
-        },
-        {
-            "engelsk": "to death",
-            "gender": "",
-            "kategorie": "adverb",
-            "norsk": "i hjel"
-        },
-        {
-            "engelsk": "gradually/little-by-little",
-            "gender": "",
-            "kategorie": "adverb",
-            "norsk": "etter hvert"
-        },
-        {
-            "engelsk": "in addition/moreover/besides",
-            "gender": "",
-            "kategorie": "adverb",
-            "norsk": "dessuten"
         },
         {
             "engelsk": "only/merely/just",
@@ -943,16 +925,34 @@
             "norsk": "utviklings..."
         },
         {
-            "engelsk": "circa/about/similar to",
-            "gender": "",
-            "kategorie": "adverb",
-            "norsk": "omtrent"
-        },
-        {
             "engelsk": "in fact/right/exactly/of course",
             "gender": "",
             "kategorie": "adverb",
             "norsk": "nemlig"
+        },
+        {
+            "engelsk": "to death",
+            "gender": "",
+            "kategorie": "adverb",
+            "norsk": "i hjel"
+        },
+        {
+            "engelsk": "in addition/moreover/besides",
+            "gender": "",
+            "kategorie": "adverb",
+            "norsk": "dessuten"
+        },
+        {
+            "engelsk": "gradually/little-by-little",
+            "gender": "",
+            "kategorie": "adverb",
+            "norsk": "etter hvert"
+        },
+        {
+            "engelsk": "circa/about/similar to",
+            "gender": "",
+            "kategorie": "adverb",
+            "norsk": "omtrent"
         },
         {
             "engelsk": "at any time",
@@ -961,94 +961,16 @@
             "norsk": "noensinne"
         },
         {
-            "engelsk": "away (e.g. to get away)",
-            "gender": "",
-            "kategorie": "preposition",
-            "norsk": "unna"
-        },
-        {
             "engelsk": "according to",
             "gender": "",
             "kategorie": "preposition",
             "norsk": "if\u00f8lge"
         },
         {
-            "engelsk": "myself",
+            "engelsk": "away (e.g. to get away)",
             "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "meg selv"
-        },
-        {
-            "engelsk": "you (object singular)",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "deg"
-        },
-        {
-            "engelsk": "your",
-            "gender": "m",
-            "kategorie": "pronoun",
-            "norsk": "din"
-        },
-        {
-            "engelsk": "I",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "jeg"
-        },
-        {
-            "engelsk": "its",
-            "gender": "m",
-            "kategorie": "pronoun",
-            "norsk": "dens"
-        },
-        {
-            "engelsk": "you (singular)",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "du"
-        },
-        {
-            "engelsk": "your (plural)",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "dine"
-        },
-        {
-            "engelsk": "we",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "vi"
-        },
-        {
-            "engelsk": "my",
-            "gender": "i",
-            "kategorie": "pronoun",
-            "norsk": "mitt"
-        },
-        {
-            "engelsk": "yourself",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "deg selv"
-        },
-        {
-            "engelsk": "yourselves",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "dere selv"
-        },
-        {
-            "engelsk": "he",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "han"
-        },
-        {
-            "engelsk": "my (plural)",
-            "gender": "",
-            "kategorie": "pronoun",
-            "norsk": "mine"
+            "kategorie": "preposition",
+            "norsk": "unna"
         },
         {
             "engelsk": "my",
@@ -1057,28 +979,22 @@
             "norsk": "min"
         },
         {
-            "engelsk": "your",
-            "gender": "i",
-            "kategorie": "pronoun",
-            "norsk": "ditt"
-        },
-        {
-            "engelsk": "them",
+            "engelsk": "you (object singular)",
             "gender": "",
             "kategorie": "pronoun",
-            "norsk": "dem"
+            "norsk": "deg"
         },
         {
-            "engelsk": "they (plural)",
+            "engelsk": "yourself",
             "gender": "",
             "kategorie": "pronoun",
-            "norsk": "de"
+            "norsk": "deg selv"
         },
         {
-            "engelsk": "its",
+            "engelsk": "my",
             "gender": "i",
             "kategorie": "pronoun",
-            "norsk": "dets"
+            "norsk": "mitt"
         },
         {
             "engelsk": "their",
@@ -1087,10 +1003,22 @@
             "norsk": "deres"
         },
         {
-            "engelsk": "they (singular)",
+            "engelsk": "my (plural)",
             "gender": "",
             "kategorie": "pronoun",
-            "norsk": "hen"
+            "norsk": "mine"
+        },
+        {
+            "engelsk": "we",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "vi"
+        },
+        {
+            "engelsk": "I",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "jeg"
         },
         {
             "engelsk": "you (plural)",
@@ -1099,10 +1027,70 @@
             "norsk": "dere"
         },
         {
+            "engelsk": "its",
+            "gender": "m",
+            "kategorie": "pronoun",
+            "norsk": "dens"
+        },
+        {
+            "engelsk": "they (singular)",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "hen"
+        },
+        {
+            "engelsk": "your",
+            "gender": "i",
+            "kategorie": "pronoun",
+            "norsk": "ditt"
+        },
+        {
+            "engelsk": "yourselves",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "dere selv"
+        },
+        {
             "engelsk": "me",
             "gender": "",
             "kategorie": "pronoun",
             "norsk": "meg"
+        },
+        {
+            "engelsk": "you (singular)",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "du"
+        },
+        {
+            "engelsk": "they (plural)",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "de"
+        },
+        {
+            "engelsk": "he",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "han"
+        },
+        {
+            "engelsk": "your (plural)",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "dine"
+        },
+        {
+            "engelsk": "them",
+            "gender": "",
+            "kategorie": "pronoun",
+            "norsk": "dem"
+        },
+        {
+            "engelsk": "your",
+            "gender": "m",
+            "kategorie": "pronoun",
+            "norsk": "din"
         },
         {
             "engelsk": "she",
@@ -1111,10 +1099,16 @@
             "norsk": "hun"
         },
         {
-            "engelsk": "because (when in a conjunction placement)",
+            "engelsk": "myself",
             "gender": "",
-            "kategorie": "conjunction",
-            "norsk": "for"
+            "kategorie": "pronoun",
+            "norsk": "meg selv"
+        },
+        {
+            "engelsk": "its",
+            "gender": "i",
+            "kategorie": "pronoun",
+            "norsk": "dets"
         },
         {
             "engelsk": "or",
@@ -1123,16 +1117,22 @@
             "norsk": "eller"
         },
         {
-            "engelsk": "so",
-            "gender": "",
-            "kategorie": "conjunction",
-            "norsk": "s\u00e5"
-        },
-        {
             "engelsk": "therefore",
             "gender": "",
             "kategorie": "conjunction",
             "norsk": "alts\u00e5"
+        },
+        {
+            "engelsk": "because (when in a conjunction placement)",
+            "gender": "",
+            "kategorie": "conjunction",
+            "norsk": "for"
+        },
+        {
+            "engelsk": "so",
+            "gender": "",
+            "kategorie": "conjunction",
+            "norsk": "s\u00e5"
         },
         {
             "engelsk": "and",
@@ -1147,16 +1147,10 @@
             "norsk": "men"
         },
         {
-            "engelsk": "since/as",
+            "engelsk": "if",
             "gender": "",
             "kategorie": "subjunction",
-            "norsk": "siden"
-        },
-        {
-            "engelsk": "before",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "f\u00f8r"
+            "norsk": "hvis"
         },
         {
             "engelsk": "when",
@@ -1165,16 +1159,10 @@
             "norsk": "da"
         },
         {
-            "engelsk": "after",
+            "engelsk": "who/whom/which/that",
             "gender": "",
             "kategorie": "subjunction",
-            "norsk": "etter at"
-        },
-        {
-            "engelsk": "as",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "idet"
+            "norsk": "som"
         },
         {
             "engelsk": "even though",
@@ -1183,88 +1171,16 @@
             "norsk": "enda"
         },
         {
-            "engelsk": "that",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "at"
-        },
-        {
-            "engelsk": "while",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "mens"
-        },
-        {
-            "engelsk": "whether/if",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "om"
-        },
-        {
-            "engelsk": "the...the",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "jo...dess"
-        },
-        {
-            "engelsk": "in spite of",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "till tross for at"
-        },
-        {
-            "engelsk": "as",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "slik som"
-        },
-        {
             "engelsk": "in order to",
             "gender": "",
             "kategorie": "subjunction",
             "norsk": "for at"
         },
         {
-            "engelsk": "so",
+            "engelsk": "as",
             "gender": "",
             "kategorie": "subjunction",
-            "norsk": "s\u00e5"
-        },
-        {
-            "engelsk": "even though",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "selv om"
-        },
-        {
-            "engelsk": "who/whom/which/that",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "som"
-        },
-        {
-            "engelsk": "so that",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "slik at"
-        },
-        {
-            "engelsk": "if",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "dersom"
-        },
-        {
-            "engelsk": "if",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "hvis"
-        },
-        {
-            "engelsk": "as if",
-            "gender": "",
-            "kategorie": "subjunction",
-            "norsk": "slik om"
+            "norsk": "idet"
         },
         {
             "engelsk": "within/before",
@@ -1273,10 +1189,82 @@
             "norsk": "innen"
         },
         {
+            "engelsk": "whether/if",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "om"
+        },
+        {
+            "engelsk": "as",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "slik som"
+        },
+        {
+            "engelsk": "even though",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "selv om"
+        },
+        {
+            "engelsk": "since/as",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "siden"
+        },
+        {
+            "engelsk": "the...the",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "jo...dess"
+        },
+        {
+            "engelsk": "so",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "s\u00e5"
+        },
+        {
+            "engelsk": "before",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "f\u00f8r"
+        },
+        {
+            "engelsk": "after",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "etter at"
+        },
+        {
+            "engelsk": "if",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "dersom"
+        },
+        {
+            "engelsk": "as if",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "slik om"
+        },
+        {
+            "engelsk": "so that",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "slik at"
+        },
+        {
             "engelsk": "because",
             "gender": "",
             "kategorie": "subjunction",
             "norsk": "fordi"
+        },
+        {
+            "engelsk": "in spite of",
+            "gender": "",
+            "kategorie": "subjunction",
+            "norsk": "till tross for at"
         },
         {
             "engelsk": "when",
@@ -1285,70 +1273,16 @@
             "norsk": "n\u00e5r"
         },
         {
-            "engelsk": "in theory",
+            "engelsk": "while",
             "gender": "",
-            "kategorie": "phrase",
-            "norsk": "i teorien"
+            "kategorie": "subjunction",
+            "norsk": "mens"
         },
         {
-            "engelsk": "(in future tense) next summer",
+            "engelsk": "that",
             "gender": "",
-            "kategorie": "phrase",
-            "norsk": "i sommeren"
-        },
-        {
-            "engelsk": "to feel (or be) entitled to",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "\u00e5 v\u00e6re berettiget til"
-        },
-        {
-            "engelsk": "even",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "til og med"
-        },
-        {
-            "engelsk": "a hard winter",
-            "gender": "None",
-            "kategorie": "phrase",
-            "norsk": "en hard vinter"
-        },
-        {
-            "engelsk": "it would seem that",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "det virker som om/at"
-        },
-        {
-            "engelsk": "can I have a coffee (very polite)",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "kunne jeg (ha) f\u00e5tt en kaffee"
-        },
-        {
-            "engelsk": "to be something special",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "v\u00e6re noe for seg selv"
-        },
-        {
-            "engelsk": "more or less",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "mer eller mindre"
-        },
-        {
-            "engelsk": "in many ways",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "p\u00e5 mange m\u00e5ter"
-        },
-        {
-            "engelsk": "borders with",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "grenser til"
+            "kategorie": "subjunction",
+            "norsk": "at"
         },
         {
             "engelsk": "a provider of something",
@@ -1357,28 +1291,10 @@
             "norsk": "en som s\u00f8rger for noe"
         },
         {
-            "engelsk": "not a bit",
+            "engelsk": "to feel (or be) entitled to",
             "gender": "",
             "kategorie": "phrase",
-            "norsk": "aldri det slag"
-        },
-        {
-            "engelsk": "blue sky",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "bl\u00e5 himmel"
-        },
-        {
-            "engelsk": "sparsley populated area",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "spredtbygde str\u00f8k"
-        },
-        {
-            "engelsk": "can I have a coffee (middle politeness)",
-            "gender": "",
-            "kategorie": "phrase",
-            "norsk": "kunne jeg f\u00e5 en kaffe"
+            "norsk": "\u00e5 v\u00e6re berettiget til"
         },
         {
             "engelsk": "every winter",
@@ -1387,10 +1303,40 @@
             "norsk": "om vinteren"
         },
         {
-            "engelsk": "seems as if",
+            "engelsk": "can I have a coffee (very polite)",
             "gender": "",
             "kategorie": "phrase",
-            "norsk": "virke som om"
+            "norsk": "kunne jeg (ha) f\u00e5tt en kaffee"
+        },
+        {
+            "engelsk": "even",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "til og med"
+        },
+        {
+            "engelsk": "sparsley populated area",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "spredtbygde str\u00f8k"
+        },
+        {
+            "engelsk": "in theory",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "i teorien"
+        },
+        {
+            "engelsk": "to be something special",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "v\u00e6re noe for seg selv"
+        },
+        {
+            "engelsk": "in many ways",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "p\u00e5 mange m\u00e5ter"
         },
         {
             "engelsk": "can I have a coffee (least polite but not impolite)",
@@ -1399,46 +1345,88 @@
             "norsk": "kan jeg f\u00e5 en kaffe"
         },
         {
-            "engelsk": "contents",
+            "engelsk": "a hard winter",
+            "gender": "None",
+            "kategorie": "phrase",
+            "norsk": "en hard vinter"
+        },
+        {
+            "engelsk": "can I have a coffee (middle politeness)",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "kunne jeg f\u00e5 en kaffe"
+        },
+        {
+            "engelsk": "seems as if",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "virke som om"
+        },
+        {
+            "engelsk": "it would seem that",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "det virker som om/at"
+        },
+        {
+            "engelsk": "blue sky",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "bl\u00e5 himmel"
+        },
+        {
+            "engelsk": "more or less",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "mer eller mindre"
+        },
+        {
+            "engelsk": "(in future tense) next summer",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "i sommeren"
+        },
+        {
+            "engelsk": "not a bit",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "aldri det slag"
+        },
+        {
+            "engelsk": "borders with",
+            "gender": "",
+            "kategorie": "phrase",
+            "norsk": "grenser til"
+        },
+        {
+            "engelsk": "attendance",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "innhold"
+            "norsk": "tilstedv\u00e6relse"
         },
         {
-            "engelsk": "growth/increase",
+            "engelsk": "square",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "vekst"
+            "norsk": "firkant"
         },
         {
-            "engelsk": "origin/source/beginning/cause",
+            "engelsk": "lighthouse",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "opphav"
+            "norsk": "fyrt\u00e5rn"
         },
         {
-            "engelsk": "government",
+            "engelsk": "head injury",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "regjering"
+            "norsk": "hodeskade"
         },
         {
-            "engelsk": "live-in partner",
+            "engelsk": "naivety",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "samboer"
-        },
-        {
-            "engelsk": "a torch (e.g. with a flame)",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "fakkel"
-        },
-        {
-            "engelsk": "sculptor",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "billedhugger"
+            "norsk": "naivitet"
         },
         {
             "engelsk": "surprise",
@@ -1447,70 +1435,88 @@
             "norsk": "overraskelse"
         },
         {
-            "engelsk": "foreign/abroad",
+            "engelsk": "pentagon",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "utland"
+            "norsk": "femkant"
         },
         {
-            "engelsk": "a variation",
+            "engelsk": "technology",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "varasjon"
+            "norsk": "teknologi"
         },
         {
-            "engelsk": "mixture",
+            "engelsk": "development",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "blanding"
+            "norsk": "utvikling"
         },
         {
-            "engelsk": "steep slope",
+            "engelsk": "line",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "bratte fjell"
+            "norsk": "linje"
         },
         {
-            "engelsk": "open country",
+            "engelsk": "deal/transaction",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "vidde"
+            "norsk": "handel"
         },
         {
-            "engelsk": "display",
+            "engelsk": "amount",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "utstilling"
+            "norsk": "mengde"
         },
         {
-            "engelsk": "an increase",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "\u00f8kning"
-        },
-        {
-            "engelsk": "damage/injury",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "skade"
-        },
-        {
-            "engelsk": "servant",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "tjener"
-        },
-        {
-            "engelsk": "cliche",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "klisj\u00e9"
-        },
-        {
-            "engelsk": "tree",
+            "engelsk": "arrangement/gathering/party/organisation",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "tre"
+            "norsk": "arrangement"
+        },
+        {
+            "engelsk": "trust/confidence",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "tillit"
+        },
+        {
+            "engelsk": "sculptor",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "billedhugger"
+        },
+        {
+            "engelsk": "live-in partner",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "samboer"
+        },
+        {
+            "engelsk": "relationship",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "forhold"
+        },
+        {
+            "engelsk": "oat",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "havre"
+        },
+        {
+            "engelsk": "government",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "regjering"
+        },
+        {
+            "engelsk": "terrace house",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "rekkehus"
         },
         {
             "engelsk": "riches/wealth",
@@ -1525,94 +1531,70 @@
             "norsk": "innslag"
         },
         {
-            "engelsk": "collection/assembly",
+            "engelsk": "percent",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "samling"
+            "norsk": "prosent"
         },
         {
-            "engelsk": "jaw(s)",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "gap"
-        },
-        {
-            "engelsk": "width",
-            "gender": "m/f",
-            "kategorie": "noun",
-            "norsk": "vidde"
-        },
-        {
-            "engelsk": "hexagon",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "sekskant"
-        },
-        {
-            "engelsk": "coastal rock slope",
+            "engelsk": "diagram",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "svaberg"
+            "norsk": "diagram"
         },
         {
-            "engelsk": "advantage",
+            "engelsk": "style",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "fordel"
+            "norsk": "stil"
         },
         {
-            "engelsk": "instructions/directions",
+            "engelsk": "share/part",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "bruksanvisning"
+            "norsk": "andel"
         },
         {
-            "engelsk": "common feature",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "fellestrekk"
-        },
-        {
-            "engelsk": "progress/advance",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "framskritt"
-        },
-        {
-            "engelsk": "hydro-power",
+            "engelsk": "caption/heading",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "vannkraft"
+            "norsk": "rubrikk"
         },
         {
-            "engelsk": "head injury",
+            "engelsk": "damage/injury",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "hodeskade"
+            "norsk": "skade"
         },
         {
-            "engelsk": "point of the compass",
+            "engelsk": "a decrease",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "himmelretning"
+            "norsk": "nedgang"
         },
         {
-            "engelsk": "naivety",
+            "engelsk": "fill in the blanks exercise",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "naivitet"
+            "norsk": "lukeoppgave"
         },
         {
-            "engelsk": "moderation",
+            "engelsk": "change/alteration/modification",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "n\u00f8ysomhet"
+            "norsk": "forandring"
         },
         {
-            "engelsk": "attendance",
-            "gender": "i",
+            "engelsk": "a decision (e.g. legal decision)",
+            "gender": "m",
             "kategorie": "noun",
-            "norsk": "tilstedv\u00e6relse"
+            "norsk": "avgj\u00f8relse"
+        },
+        {
+            "engelsk": "live-in partner",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "samboer"
         },
         {
             "engelsk": "voluntary work",
@@ -1621,70 +1603,22 @@
             "norsk": "dugnad"
         },
         {
-            "engelsk": "octagon",
-            "gender": "m",
+            "engelsk": "history",
+            "gender": "m/f",
             "kategorie": "noun",
-            "norsk": "oktogon"
+            "norsk": "historie"
         },
         {
-            "engelsk": "a decrease",
+            "engelsk": "account/report/summary",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "fall"
+            "norsk": "referat"
         },
         {
-            "engelsk": "an increase",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "stigning"
-        },
-        {
-            "engelsk": "rubbish",
+            "engelsk": "origin/source/beginning/cause",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "s\u00f8ppel"
-        },
-        {
-            "engelsk": "development",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "utvikling"
-        },
-        {
-            "engelsk": "flower",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "blomst"
-        },
-        {
-            "engelsk": "octagon",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "\u00e5ttekant"
-        },
-        {
-            "engelsk": "landmark",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "severdighet"
-        },
-        {
-            "engelsk": "loss/bereavement",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "tap"
-        },
-        {
-            "engelsk": "bay/inlet/cove",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "vik"
-        },
-        {
-            "engelsk": "upper class",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "overklasse"
+            "norsk": "opphav"
         },
         {
             "engelsk": "archipelago",
@@ -1693,10 +1627,40 @@
             "norsk": "skj\u00e6rg\u00e5rd"
         },
         {
-            "engelsk": "vulnerability",
+            "engelsk": "octagon",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "s\u00e5rbarhet"
+            "norsk": "\u00e5ttekant"
+        },
+        {
+            "engelsk": "offer/proposition",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "tilbud"
+        },
+        {
+            "engelsk": "coal mine",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "kullgruve"
+        },
+        {
+            "engelsk": "octagon",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "oktogon"
+        },
+        {
+            "engelsk": "summer food",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "v\u00e6remat"
+        },
+        {
+            "engelsk": "a decrease",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "fall"
         },
         {
             "engelsk": "rectangle",
@@ -1705,22 +1669,10 @@
             "norsk": "rektangel"
         },
         {
-            "engelsk": "circle",
+            "engelsk": "upper class",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "ring"
-        },
-        {
-            "engelsk": "amount",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "mengde"
-        },
-        {
-            "engelsk": "immigrant",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "innvandere"
+            "norsk": "overklasse"
         },
         {
             "engelsk": "authority/power/authorities",
@@ -1729,22 +1681,328 @@
             "norsk": "myndighet"
         },
         {
+            "engelsk": "an increase",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "oppgang"
+        },
+        {
+            "engelsk": "circle",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "ring"
+        },
+        {
+            "engelsk": "spices of bird",
+            "gender": "m/f",
+            "kategorie": "noun",
+            "norsk": "fubleart"
+        },
+        {
+            "engelsk": "drum",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "tomme"
+        },
+        {
+            "engelsk": "consuption/expenditure",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "forbruk"
+        },
+        {
+            "engelsk": "growth/increase",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "vekst"
+        },
+        {
+            "engelsk": "landmark",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "severdighet"
+        },
+        {
+            "engelsk": "steep slope",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "bratte fjell"
+        },
+        {
+            "engelsk": "hexagon",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "sekskant"
+        },
+        {
+            "engelsk": "an access",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "tilgang"
+        },
+        {
+            "engelsk": "contents",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "innhold"
+        },
+        {
+            "engelsk": "cliche",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "klisj\u00e9"
+        },
+        {
+            "engelsk": "bomb",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "bombe"
+        },
+        {
+            "engelsk": "server (IT)",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "tjener"
+        },
+        {
+            "engelsk": "custom/practice",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "skikk"
+        },
+        {
+            "engelsk": "immigrant",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "innvandere"
+        },
+        {
+            "engelsk": "a torch (e.g. with a flame)",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "fakkel"
+        },
+        {
+            "engelsk": "servant",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "tjener"
+        },
+        {
+            "engelsk": "field",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "\u00e5ker"
+        },
+        {
+            "engelsk": "start-up phase",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "etableringsfase"
+        },
+        {
+            "engelsk": "a variation",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "varasjon"
+        },
+        {
+            "engelsk": "stranger/foreign",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "fremmed"
+        },
+        {
+            "engelsk": "area/coat (of paint)",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "str\u00f8k"
+        },
+        {
+            "engelsk": "an increase",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "\u00f8kning"
+        },
+        {
             "engelsk": "footprint/rut/track/trail",
             "gender": "i",
             "kategorie": "noun",
             "norsk": "spor"
         },
         {
-            "engelsk": "military",
-            "gender": "m",
+            "engelsk": "progress/advance",
+            "gender": "i",
             "kategorie": "noun",
-            "norsk": "milit\u00e6r"
+            "norsk": "framskritt"
         },
         {
-            "engelsk": "a decrease",
+            "engelsk": "moderation",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "nedgang"
+            "norsk": "n\u00f8ysomhet"
+        },
+        {
+            "engelsk": "instructions/directions",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "bruksanvisning"
+        },
+        {
+            "engelsk": "county/province",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "fylke"
+        },
+        {
+            "engelsk": "literally _bang shot_ - a warning shot gun",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "knallskudd"
+        },
+        {
+            "engelsk": "seasonal work",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "sesongarbeid"
+        },
+        {
+            "engelsk": "agency",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "agens"
+        },
+        {
+            "engelsk": "common feature",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "fellestrekk"
+        },
+        {
+            "engelsk": "loan collection (e.g. of an art gallery)",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "malerisamling"
+        },
+        {
+            "engelsk": "complaint",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "klager"
+        },
+        {
+            "engelsk": "location/(geographic) situation",
+            "gender": "m/f",
+            "kategorie": "noun",
+            "norsk": "beliggenheten"
+        },
+        {
+            "engelsk": "hydro-power",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "vannkraft"
+        },
+        {
+            "engelsk": "foreign/abroad",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "utland"
+        },
+        {
+            "engelsk": "compliment",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "komplettering"
+        },
+        {
+            "engelsk": "tree",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "tre"
+        },
+        {
+            "engelsk": "entertainment",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "underholdning"
+        },
+        {
+            "engelsk": "rush",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "rush"
+        },
+        {
+            "engelsk": "open country",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "vidde"
+        },
+        {
+            "engelsk": "advantage",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "fordel"
+        },
+        {
+            "engelsk": "hexagon",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "heksagon"
+        },
+        {
+            "engelsk": "vulnerability",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "s\u00e5rbarhet"
+        },
+        {
+            "engelsk": "treaty",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "traktat"
+        },
+        {
+            "engelsk": "point of the compass",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "himmelretning"
+        },
+        {
+            "engelsk": "fact",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "faktum"
+        },
+        {
+            "engelsk": "rubbish",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "s\u00f8ppel"
+        },
+        {
+            "engelsk": "width",
+            "gender": "m/f",
+            "kategorie": "noun",
+            "norsk": "vidde"
+        },
+        {
+            "engelsk": "industry",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "n\u00e6ringsvei"
+        },
+        {
+            "engelsk": "area/region",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "areal"
+        },
+        {
+            "engelsk": "an increase",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "stigning"
         },
         {
             "engelsk": "catch (e.g. from a hunt)/haul",
@@ -1765,322 +2023,10 @@
             "norsk": "urbefolkning"
         },
         {
-            "engelsk": "diagram",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "diagram"
-        },
-        {
-            "engelsk": "summer food",
+            "engelsk": "collection/assembly",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "v\u00e6remat"
-        },
-        {
-            "engelsk": "industry",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "n\u00e6ringsvei"
-        },
-        {
-            "engelsk": "offer/proposition",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "tilbud"
-        },
-        {
-            "engelsk": "bomb",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "bombe"
-        },
-        {
-            "engelsk": "technology",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "teknologi"
-        },
-        {
-            "engelsk": "caption/heading",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "rubrikk"
-        },
-        {
-            "engelsk": "triangle",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "trekant"
-        },
-        {
-            "engelsk": "hexagon",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "heksagon"
-        },
-        {
-            "engelsk": "fill in the blanks exercise",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "lukeoppgave"
-        },
-        {
-            "engelsk": "area/coat (of paint)",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "str\u00f8k"
-        },
-        {
-            "engelsk": "area/region",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "areal"
-        },
-        {
-            "engelsk": "terrace house",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "rekkehus"
-        },
-        {
-            "engelsk": "rush",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "rush"
-        },
-        {
-            "engelsk": "server (IT)",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "tjener"
-        },
-        {
-            "engelsk": "change/alteration/modification",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "forandring"
-        },
-        {
-            "engelsk": "air pollution",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "luftforurensing"
-        },
-        {
-            "engelsk": "literally _bang shot_ - a warning shot gun",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "knallskudd"
-        },
-        {
-            "engelsk": "spices of bird",
-            "gender": "m/f",
-            "kategorie": "noun",
-            "norsk": "fubleart"
-        },
-        {
-            "engelsk": "style",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "stil"
-        },
-        {
-            "engelsk": "history",
-            "gender": "m/f",
-            "kategorie": "noun",
-            "norsk": "historie"
-        },
-        {
-            "engelsk": "fact",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "faktum"
-        },
-        {
-            "engelsk": "consuption/expenditure",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "forbruk"
-        },
-        {
-            "engelsk": "entertainment",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "underholdning"
-        },
-        {
-            "engelsk": "lighthouse",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "fyrt\u00e5rn"
-        },
-        {
-            "engelsk": "walrus",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "hvalross"
-        },
-        {
-            "engelsk": "area/region/district",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "omr\u00e5de"
-        },
-        {
-            "engelsk": "treaty",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "traktat"
-        },
-        {
-            "engelsk": "share/part",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "andel"
-        },
-        {
-            "engelsk": "coal",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "kull"
-        },
-        {
-            "engelsk": "percent",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "prosent"
-        },
-        {
-            "engelsk": "complaint",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "klager"
-        },
-        {
-            "engelsk": "deal/transaction",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "handel"
-        },
-        {
-            "engelsk": "survey/perspective",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "oversikt"
-        },
-        {
-            "engelsk": "account/report/summary",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "referat"
-        },
-        {
-            "engelsk": "location/(geographic) situation",
-            "gender": "m/f",
-            "kategorie": "noun",
-            "norsk": "beliggenheten"
-        },
-        {
-            "engelsk": "an increase",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "oppgang"
-        },
-        {
-            "engelsk": "square",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "firkant"
-        },
-        {
-            "engelsk": "field",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "\u00e5ker"
-        },
-        {
-            "engelsk": "compliment",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "komplettering"
-        },
-        {
-            "engelsk": "stranger/foreign",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "fremmed"
-        },
-        {
-            "engelsk": "loan collection (e.g. of an art gallery)",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "malerisamling"
-        },
-        {
-            "engelsk": "a decision (e.g. legal decision)",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "avgj\u00f8relse"
-        },
-        {
-            "engelsk": "county/province",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "fylke"
-        },
-        {
-            "engelsk": "line",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "linje"
-        },
-        {
-            "engelsk": "oat",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "havre"
-        },
-        {
-            "engelsk": "pentagon",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "femkant"
-        },
-        {
-            "engelsk": "trust/confidence",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "tillit"
-        },
-        {
-            "engelsk": "live-in partner",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "samboer"
-        },
-        {
-            "engelsk": "drum",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "tomme"
-        },
-        {
-            "engelsk": "arrangement/gathering/party/organisation",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "arrangement"
-        },
-        {
-            "engelsk": "coal mine",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "kullgruve"
-        },
-        {
-            "engelsk": "an access",
-            "gender": "i",
-            "kategorie": "noun",
-            "norsk": "tilgang"
+            "norsk": "samling"
         },
         {
             "engelsk": "equal status/opportunity",
@@ -2089,34 +2035,94 @@
             "norsk": "likestilling"
         },
         {
-            "engelsk": "seasonal work",
+            "engelsk": "walrus",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "hvalross"
+        },
+        {
+            "engelsk": "loss/bereavement",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "sesongarbeid"
+            "norsk": "tap"
         },
         {
-            "engelsk": "start-up phase",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "etableringsfase"
-        },
-        {
-            "engelsk": "agency",
-            "gender": "m",
-            "kategorie": "noun",
-            "norsk": "agens"
-        },
-        {
-            "engelsk": "relationship",
+            "engelsk": "coal",
             "gender": "i",
             "kategorie": "noun",
-            "norsk": "forhold"
+            "norsk": "kull"
         },
         {
-            "engelsk": "custom/practice",
+            "engelsk": "survey/perspective",
             "gender": "m",
             "kategorie": "noun",
-            "norsk": "skikk"
+            "norsk": "oversikt"
+        },
+        {
+            "engelsk": "flower",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "blomst"
+        },
+        {
+            "engelsk": "air pollution",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "luftforurensing"
+        },
+        {
+            "engelsk": "bay/inlet/cove",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "vik"
+        },
+        {
+            "engelsk": "coastal rock slope",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "svaberg"
+        },
+        {
+            "engelsk": "display",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "utstilling"
+        },
+        {
+            "engelsk": "triangle",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "trekant"
+        },
+        {
+            "engelsk": "mixture",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "blanding"
+        },
+        {
+            "engelsk": "jaw(s)",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "gap"
+        },
+        {
+            "engelsk": "area/region/district",
+            "gender": "i",
+            "kategorie": "noun",
+            "norsk": "omr\u00e5de"
+        },
+        {
+            "engelsk": "military",
+            "gender": "m",
+            "kategorie": "noun",
+            "norsk": "milit\u00e6r"
+        },
+        {
+            "engelsk": "(these)",
+            "gender": "",
+            "kategorie": "determiner",
+            "norsk": "disse"
         },
         {
             "engelsk": "both",
@@ -2126,63 +2132,9 @@
         },
         {
             "engelsk": "a/an",
-            "gender": "m",
-            "kategorie": "determiner",
-            "norsk": "en"
-        },
-        {
-            "engelsk": "your (singular)",
-            "gender": "",
-            "kategorie": "determiner",
-            "norsk": "din"
-        },
-        {
-            "engelsk": "this (singular",
-            "gender": " neuter)",
-            "kategorie": "determiner",
-            "norsk": "dette"
-        },
-        {
-            "engelsk": "(these)",
-            "gender": "",
-            "kategorie": "determiner",
-            "norsk": "disse"
-        },
-        {
-            "engelsk": "your (plural)",
-            "gender": "None",
-            "kategorie": "determiner",
-            "norsk": "deres"
-        },
-        {
-            "engelsk": "a/an",
-            "gender": "i",
-            "kategorie": "determiner",
-            "norsk": "et"
-        },
-        {
-            "engelsk": "which",
-            "gender": "i",
-            "kategorie": "determiner",
-            "norsk": "hvilket"
-        },
-        {
-            "engelsk": "her",
             "gender": "f",
             "kategorie": "determiner",
-            "norsk": "hennes"
-        },
-        {
-            "engelsk": "our",
-            "gender": "",
-            "kategorie": "determiner",
-            "norsk": "v\u00e5r"
-        },
-        {
-            "engelsk": "which (plural)",
-            "gender": "",
-            "kategorie": "determiner",
-            "norsk": "hvilke"
+            "norsk": "ei"
         },
         {
             "engelsk": "many",
@@ -2191,28 +2143,16 @@
             "norsk": "mange"
         },
         {
-            "engelsk": "which",
-            "gender": "m",
-            "kategorie": "determiner",
-            "norsk": "hvilken"
-        },
-        {
-            "engelsk": "its",
-            "gender": "i",
-            "kategorie": "determiner",
-            "norsk": "dets"
-        },
-        {
             "engelsk": "his",
             "gender": "m",
             "kategorie": "determiner",
             "norsk": "hans"
         },
         {
-            "engelsk": "this (singular",
-            "gender": " masculine and femenine)",
+            "engelsk": "its",
+            "gender": "i",
             "kategorie": "determiner",
-            "norsk": "denne"
+            "norsk": "dets"
         },
         {
             "engelsk": "all",
@@ -2227,16 +2167,76 @@
             "norsk": "noen"
         },
         {
+            "engelsk": "your (plural)",
+            "gender": "None",
+            "kategorie": "determiner",
+            "norsk": "deres"
+        },
+        {
             "engelsk": "my",
             "gender": "",
             "kategorie": "determiner",
             "norsk": "min"
         },
         {
+            "engelsk": "your (singular)",
+            "gender": "",
+            "kategorie": "determiner",
+            "norsk": "din"
+        },
+        {
+            "engelsk": "this (singular",
+            "gender": " neuter)",
+            "kategorie": "determiner",
+            "norsk": "dette"
+        },
+        {
             "engelsk": "a/an",
+            "gender": "i",
+            "kategorie": "determiner",
+            "norsk": "et"
+        },
+        {
+            "engelsk": "which (plural)",
+            "gender": "",
+            "kategorie": "determiner",
+            "norsk": "hvilke"
+        },
+        {
+            "engelsk": "this (singular",
+            "gender": " masculine and femenine)",
+            "kategorie": "determiner",
+            "norsk": "denne"
+        },
+        {
+            "engelsk": "a/an",
+            "gender": "m",
+            "kategorie": "determiner",
+            "norsk": "en"
+        },
+        {
+            "engelsk": "our",
+            "gender": "",
+            "kategorie": "determiner",
+            "norsk": "v\u00e5r"
+        },
+        {
+            "engelsk": "which",
+            "gender": "m",
+            "kategorie": "determiner",
+            "norsk": "hvilken"
+        },
+        {
+            "engelsk": "which",
+            "gender": "i",
+            "kategorie": "determiner",
+            "norsk": "hvilket"
+        },
+        {
+            "engelsk": "her",
             "gender": "f",
             "kategorie": "determiner",
-            "norsk": "ei"
+            "norsk": "hennes"
         }
     ]
 }
