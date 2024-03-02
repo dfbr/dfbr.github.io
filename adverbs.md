@@ -4,13 +4,13 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 | Norwegian | English |
 | --- | --- |
-| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
-| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
-| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
-| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
 | [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
-| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
-| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
-| [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
 | [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
+| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
+| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
+| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
+| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
+| [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
+| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
+| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
 
