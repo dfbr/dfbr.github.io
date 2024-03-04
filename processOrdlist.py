@@ -197,7 +197,7 @@ for word in words:
     innerHTML = innerHTML.replace("<GENDER>",word['gender'])
     innerHTML = innerHTML.replace("<CATEGORY>",word['kategorie'])
 outerhtml = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
-outerhtml = outerhtml.replace("<NOOFWORDS>",noOfWords)
+outerhtml = outerhtml.replace("<NOOFWORDS>",str(noOfWords))
 html = headerhtml.replace("<BODYGOESHERE>",outerhtml)
 # now write to a new file
 outputFile = open(filename,'w')
