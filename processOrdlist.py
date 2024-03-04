@@ -44,10 +44,11 @@ with open(wordListFile,newline='') as csvfile:
                                           'gender': line['gender']})
 
 # shuffle each one so that you don't always get them in the same order...
-noOfWords = 0
+# noOfWords = 0
 for i in wordCategories:
     random.shuffle(myWords[i])
-    noOfWords += len(myWords[i])
+    # noOfWords += len(myWords[i])
+    print("{} words in {}".format(len(myWords[i]), i))
 
 
 
