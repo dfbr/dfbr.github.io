@@ -44,8 +44,12 @@ with open(wordListFile,newline='') as csvfile:
                                           'gender': line['gender']})
 
 # shuffle each one so that you don't always get them in the same order...
+noOfWords = 0
 for i in wordCategories:
     random.shuffle(myWords[i])
+    noOfWords += len(myWords[i])
+
+
 
 
 # now write a file for each type of word/thing...
@@ -162,6 +166,7 @@ headerhtml = open(headerHTMLFile,'r').read()
 readingFile = open(filename,'r')
 content = readingFile.read()
 outerhtml = """
+        <h1 class
         <div id="norksOrd" class="carousel slide" data-bs-ride="carousel">
             <INNERHTMLHERE>
         </div>
@@ -191,6 +196,7 @@ for word in words:
     innerHTML = innerHTML.replace("<GENDER>",word['gender'])
     innerHTML = innerHTML.replace("<CATEGORY>",word['kategorie'])
 outerhtml = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
+outerhtml = outerhtml.replace("<NOOFWORDS>",noOfWords)
 html = headerhtml.replace("<BODYGOESHERE>",outerhtml)
 # now write to a new file
 outputFile = open(filename,'w')
