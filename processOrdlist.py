@@ -64,9 +64,9 @@ for i in genderedCategories:
     filename = 'headers/' + i + 'sHeader.md'
     file = open (filename,mode='r')
     content = file.read()
-    print(content)
     file.close()
     content = content.replace("<wordsGoHere>",nounText)
+    print(str(len(myWords[i])))
     content = content.replace("<COUNT>",str(len(myWords[i])))
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
