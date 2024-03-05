@@ -5,6 +5,7 @@ import markdown
 import simplejson
 import json
 import random
+import html
 
 
 # file that we're going to work with...
@@ -147,9 +148,9 @@ for i in wordCategories:
     for j in myWords[i]:
         jsonString += "{"
         jsonString += '"kategorie": "{}",'.format(i)
-        jsonString += '"norsk": "{}",'.format(j['norsk'])
-        jsonString += '"engelsk": "{}",'.format(j['engelsk'])
-        jsonString += '"gender": "{}"'.format(j['gender'])
+        jsonString += '"norsk": "{}",'.format(html.escape(j['norsk']))
+        jsonString += '"engelsk": "{}",'.format(html.escape(j['engelsk']))
+        jsonString += '"gender": "{}"'.format(html.escape(j['gender']))
         jsonString += "},"
 jsonString = jsonString[:-1] # remove the last comma
 jsonString += "]}"
