@@ -178,17 +178,106 @@ words = json.loads(jsonString)['words']
 random.shuffle(words)
 for word in words:
     innerHTML += """
-            <div class="carousel-inner">
-                <div class="carousel-item" data-bs-interval="3000">
-                    <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
-                </div>
-                <div class="carousel-item" data-bs-interval="3000">
-                    <h1 class="display-1 text-center" id="norsk"><NORSKWORD></h1>
-                    <h1 class="display-6 text-center" id="engelsk"><ENGELSKORD></h1>
-                    <h1 class="display-6 text-center" id="gender"><GENDER></h1>
-                    <h1 class="display-6 text-center" id="category"><CATEGORY></h1>
-                </div>
-            </div>
+            <div id="norksOrd" class="carousel slide" data-bs-ride="carousel"></div>
+        <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+        <script>
+            function shuffle(array)
+            {
+                let currentIndex = array.length, randomIndex;
+
+                // While there remain elements to shuffle.
+                while (currentIndex > 0) {
+
+                    // Pick a remaining element.
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex--;
+
+                    // And swap it with the current element.
+                    [array[currentIndex], array[randomIndex]] = [
+                        array[randomIndex], array[currentIndex]];
+                }
+
+                return array;
+            }
+
+            function updateText(data)
+            
+            {
+
+                shuffle(data.words);
+                setInterval(myFunction, delayInMilliseconds)
+                for (let i = 0; i < data.words.length; i++) {
+                    sleep(delayInMilliseconds).then(() =>
+                    {
+                        console.log(data.words[i].engelsk)
+                        // set the elements to invisible
+                        document.getElementById("engelsk").style.visibility = "hidden";
+                        document.getElementById("category").style.visibility = "hidden";
+                        document.getElementById("gender").style.visibility = "hidden";
+                        // then update the text
+                        document.getElementById("norsk").innerHTML = data.words[i].norsk
+                        document.getElementById("engelsk").innerHTML = data.words[i].engelsk
+                        document.getElementById("category").innerHTML = data.words[i].kategorie
+                        document.getElementById("gender").innerHTML = data.words[i].gender
+
+                        // then delay and set the answer to visible
+                        sleep(delayInMilliseconds).then(() => 
+                        {
+                            document.getElementById("engelsk").style.visibility = "visible";
+                            if (data.words[i].kategorie === "noun") {
+                                document.getElementById("category").style.visibility = "visible";
+                            }
+                            document.getElementById("gender").style.visibility = "visible";
+
+                        });
+                    });
+                }
+            }
+
+            var myWordsJson = "https://dfbr.github.io/words.json";
+            var delayInMilliseconds = 1000; //2 seconds
+            var myWords = [];
+            $.getJSON(myWordsJson).done(function(data) { myWords = shuffle(data.words); });
+            
+            let carouselText = `
+                <div class="carousel-inner">
+                    <div class="carousel-item inactive" data-bs-interval="3000" id="question1" >
+                        <h1 class="display-1 text-center" id="norsk">norsk1</h1>
+                    </div>
+                    <div class="carousel-item inactive" data-bs-interval="3000" id="answer1">
+                        <h1 class="display-1 text-center" id="norskSvar">norskSvar1</h1>
+                        <h1 class="display-6 text-center" id="engelsk">engelsk1</h1>
+                        <h1 class="display-6 text-center" id="gender">gender1</h1>
+                        <h1 class="display-6 text-center" id="category">category1</h1>
+                    </div> 
+                </div>`
+            // shuffle(myWords);
+            setTimeout(() => {
+                let myText = "";
+                for (let i = 0; i < myWords.length; i++)
+                {
+                    // console.log(myText)
+                    let carouselItem = carouselText;
+                    if (i === 0) { 
+                        carouselItem = carouselItem.replace('<div class="carousel - item inactive" data-bs-interval="3000" id="question1" >', '<div class="carousel - item active" data-bs-interval="3000" id="question1" >');
+                    }
+                    carouselItem = carouselItem.replace("question1", "question" + i);
+                    carouselItem = carouselItem.replace("answer1", "answer" + i);
+                    carouselItem = carouselItem.replace("norsk1",myWords[i].norsk);
+                    carouselItem = carouselItem.replace("norskSvar1", myWords[i].norsk);
+                    carouselItem = carouselItem.replace("engelsk1", myWords[i].engelsk);
+                    carouselItem = carouselItem.replace("gender1", myWords[i].gender);
+                    carouselItem = carouselItem.replace("category1", myWords[i].kategorie);
+                    myText += carouselItem;
+                } 
+                console.log(myText)
+                document.getElementById("norksOrd").innerHTML = myText;
+                document.getElementById("question0").setAttribute("class","carousel-item active");
+            },1000)
+            // window.alert("myText") 
+            // document.getElementById("norksOrd").innerHTML = myText;
+        </script>    
+        </div>
             """
     if word == words[0]:
         innerHTML = innerHTML.replace("carousel-item","carousel-item active")
