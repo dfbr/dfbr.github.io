@@ -160,7 +160,8 @@ jsonString += "]}"
 with open(outputFilename, "w") as outputFile:
     # magic happens here to make it pretty-printed
     outputFile.write(
-        simplejson.dumps(simplejson.loads(jsonString.encode("latin_1").decode("utf_8")), indent=4, sort_keys=True)
+        json.dumps(jsonString)
+        # simplejson.dumps(simplejson.loads(jsonString.encode("latin_1").decode("utf_8")), indent=4, sort_keys=True)
     )
 filename = "carousel.html"
 headerHTMLFile = 'headers/htmlHeader.html'
