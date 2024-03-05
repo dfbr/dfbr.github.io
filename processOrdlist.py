@@ -148,9 +148,9 @@ for i in wordCategories:
     for j in myWords[i]:
         jsonString += "{"
         jsonString += '"kategorie": "{}",'.format(i)
-        jsonString += '"norsk": "{}",'.format(html.escape(j['norsk']))
-        jsonString += '"engelsk": "{}",'.format(html.escape(j['engelsk']))
-        jsonString += '"gender": "{}"'.format(html.escape(j['gender']))
+        jsonString += '"norsk": "{}",'.format(j['norsk'].decode('iso-8859-1'))
+        jsonString += '"engelsk": "{}",'.format(j['engelsk'])
+        jsonString += '"gender": "{}"'.format(j['gender'])
         jsonString += "},"
 jsonString = jsonString[:-1] # remove the last comma
 jsonString += "]}"
