@@ -1,4 +1,4 @@
-# Phrases
+# Phrases (<COUNT>)
 
 Phrases that mean something you wouldn't necessarily guess.
 

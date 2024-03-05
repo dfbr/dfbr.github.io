@@ -66,6 +66,7 @@ for i in genderedCategories:
     content = file.read()
     file.close()
     content = content.replace("<wordsGoHere>",nounText)
+    content = content.replace ("<COUNT>",len(myWords[i]))
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
     outputFile.write(content)

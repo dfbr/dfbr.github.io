@@ -1,4 +1,4 @@
-# Adjectives
+# Adjectives (<COUNT>)
 
 A word naming an attribute of a noun, such as sweet, red, or technical.
 
