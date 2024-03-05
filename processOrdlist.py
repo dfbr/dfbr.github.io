@@ -66,7 +66,6 @@ for i in genderedCategories:
     content = file.read()
     file.close()
     content = content.replace("<wordsGoHere>",nounText)
-    print(str(len(myWords[i])))
     content = content.replace("<COUNT>",str(len(myWords[i])))
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
@@ -84,6 +83,7 @@ file = open ('headers/linksHeader.md',mode='r')
 content = file.read()
 file.close()
 content = content.replace("<wordsGoHere>",linkText)
+content = content.replace("<COUNT>",str(len(myWords[i])))
 outputFile = open('links.md','w')
 outputFile.write(content)
 # print("Updated: {}".format('headers/linksHeader.md'))
@@ -100,6 +100,7 @@ for i in nonGenderedCategories:
     content = file.read()
     file.close()
     content = content.replace("<wordsGoHere>",wordText)
+    content = content.replace("<COUNT>",str(len(myWords[i])))
     outputFilename = i + 's.md'
     outputFile = open(outputFilename,'w')
     outputFile.write(content)
