@@ -176,8 +176,8 @@ innerHTML = ""
 
 words = json.loads(jsonString)['words']
 random.shuffle(words)
-for word in words:
-    innerHTML += """
+# for word in words:
+innerHTML += """
             <div id="norksOrd" class="carousel slide" data-bs-ride="carousel"></div>
         <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
         <script>
@@ -259,7 +259,7 @@ for word in words:
                     // console.log(myText)
                     let carouselItem = carouselText;
                     if (i === 0) { 
-                        carouselItem = carouselItem.replace('<div class="carousel - item inactive" data-bs-interval="3000" id="question1" >', '<div class="carousel - item active" data-bs-interval="3000" id="question1" >');
+                        carouselItem = carouselItem.replace('<div class="carousel - item inactive" data-bs-interval="3000" id="question0" >', '<div class="carousel - item active" data-bs-interval="3000" id="question0" >');
                     }
                     carouselItem = carouselItem.replace("question1", "question" + i);
                     carouselItem = carouselItem.replace("answer1", "answer" + i);
@@ -279,12 +279,12 @@ for word in words:
         </script>    
         </div>
             """
-    if word == words[0]:
-        innerHTML = innerHTML.replace("carousel-item","carousel-item active")
-    innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
-    innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
-    innerHTML = innerHTML.replace("<GENDER>",word['gender'])
-    innerHTML = innerHTML.replace("<CATEGORY>",word['kategorie'])
+    # if word == words[0]:
+    #     innerHTML = innerHTML.replace("carousel-item","carousel-item active")
+    # innerHTML = innerHTML.replace("<NORSKWORD>",word['norsk'])
+    # innerHTML = innerHTML.replace("<ENGELSKORD>",word['engelsk'])
+    # innerHTML = innerHTML.replace("<GENDER>",word['gender'])
+    # innerHTML = innerHTML.replace("<CATEGORY>",word['kategorie'])
 outerhtml = outerhtml.replace("<INNERHTMLHERE>",innerHTML)
 outerhtml = outerhtml.replace("<NOOFWORDS>",str(noOfWords))
 html = headerhtml.replace("<BODYGOESHERE>",outerhtml)
