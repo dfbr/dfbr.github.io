@@ -1,21 +1,21 @@
-# Adverbs (<COUNT>)
+# Adverbs (14)
 
 A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g., gently, quite, then, there).
 
 | Norwegian | English |
 | --- | --- |
+| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
+| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
+| [sikkert](https://www.ordnett.no/search?language=no&phrase=sikkert) | surely/certainly |
+| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
+| [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
 | [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
-| [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
-| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
 | [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
 | [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
-| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
-| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
-| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
-| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
-| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
+| [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
 | [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
-| [sikkert](https://www.ordnett.no/search?language=no&phrase=sikkert) | surely/certainly |
-| [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
+| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
+| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
+| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
 | [ellers](https://www.ordnett.no/search?language=no&phrase=ellers) | otherwise |
 

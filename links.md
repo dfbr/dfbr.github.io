@@ -1,4 +1,4 @@
-# Links to other resources (<COUNT>)
+# Links to other resources (9)
 
 | Link | Description |
 | --- | --- |
