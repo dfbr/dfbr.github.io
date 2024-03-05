@@ -4,18 +4,18 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 | Norwegian | English |
 | --- | --- |
-| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
-| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
-| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
-| [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
-| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
-| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
-| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
-| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
+| [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
 | [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
 | [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
-| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
-| [sikkert](https://www.ordnett.no/search?language=no&phrase=sikkert) | surely/certainly |
+| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
 | [ellers](https://www.ordnett.no/search?language=no&phrase=ellers) | otherwise |
-| [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
+| [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
+| [sikkert](https://www.ordnett.no/search?language=no&phrase=sikkert) | surely/certainly |
+| [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
+| [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
+| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
+| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
+| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
+| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
+| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
 
