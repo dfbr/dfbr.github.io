@@ -171,7 +171,6 @@ headerhtml = open(headerHTMLFile,'r').read()
 readingFile = open(filename,'r')
 content = readingFile.read()
 outerhtml = """
-        <h1 class="h1">Attempting to learn <NOOFWORDS> Norwegian words and phrases</h1>
         <div id="norksOrd" class="carousel slide" data-bs-ride="carousel">
             <INNERHTMLHERE>
         </div>
