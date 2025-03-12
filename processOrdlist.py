@@ -1,11 +1,12 @@
 #! /usr/bin/env python3
 
 import csv
+import html
+import json
 import markdown
 import simplejson
-import json
 import random
-import html
+
 
 
 # file that we're going to work with...
