@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Word to Ordlist</title>
+</head>
+<body>
+    <h1>Add Word to Ordlist</h1>
+    <form id="wordForm">
+        <label for="type">Type:</label>
+        <input type="text" id="type" name="type" required><br><br>
+        <label for="word">Word:</label>
+        <input type="text" id="word" name="word" required><br><br>
+        <label for="translation">Translation:</label>
+        <input type="text" id="translation" name="translation" required><br><br>
+        <label for="gender">Gender:</label>
+        <input type="text" id="gender" name="gender"><br><br>
+        <button type="submit">Add Word</button>
+    </form>
+
+    <script>
+        document.getElementById('wordForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const type = document.getElementById('type').value;
+            const word = document.getElementById('word').value;
+            const translation = document.getElementById('translation').value;
+            const gender = document.getElementById('gender').value;
+
+            fetch('https://5l3ss3zkfgowqhupem4glky33e0razhs.lambda-url.eu-west-2.on.aws/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ type, word, translation, gender })
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data);
+            })
+            .catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>
