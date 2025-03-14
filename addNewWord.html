@@ -40,8 +40,7 @@
 
         // Populate the type dropdown
         const typeSelect = document.getElementById('type');
-        uniqueTypes.forEach(type =>
-        {
+        uniqueTypes.forEach(type => {
             const option = document.createElement('option');
             option.value = type;
             option.textContent = type;
@@ -49,8 +48,7 @@
         });
 
         // Handle gender field based on selected type
-        document.getElementById('type').addEventListener('change', function (event)
-        {
+        document.getElementById('type').addEventListener('change', function (event) {
             const type = event.target.value;
             const genderField = document.getElementById('gender');
 
@@ -68,8 +66,7 @@
         });
 
         // Handle form submission
-        document.getElementById('wordForm').addEventListener('submit', function (event)
-        {
+        document.getElementById('wordForm').addEventListener('submit', function (event) {
             event.preventDefault();
             const type = document.getElementById('type').value;
             const word = document.getElementById('word').value;
@@ -85,13 +82,11 @@
                 },
                 body: JSON.stringify({ type, word, translation, gender })
             })
-                .then(response =>
-                {
+                .then(response => {
                     console.log('Response received:', response);
                     return response.json();
                 })
-                .then(data =>
-                {
+                .then(data => {
                     console.log('Response data:', data);
                     const messageDiv = document.getElementById('message');
                     if (data.statusCode === 200) {
@@ -100,8 +95,7 @@
                         messageDiv.innerHTML = '<p style="color: red;">Error adding word: ' + data.body + '</p>';
                     }
                 })
-                .catch(error =>
-                {
+                .catch(error => {
                     console.error('Fetch error:', error);
                     const messageDiv = document.getElementById('message');
                     messageDiv.innerHTML = '<p style="color: red;">Error: ' + error.message + '</p>';
