@@ -13,17 +13,6 @@
         <label for="type">Type:</label>
         <select id="type" name="type" required>
             <option value="">Select type</option>
-            <option value="verb">verb</option>
-            <option value="noun">noun</option>
-            <option value="adjective">adjective</option>
-            <option value="phrase">phrase</option>
-            <option value="link">link</option>
-            <option value="determiner">determiner</option>
-            <option value="conjunction">conjunction</option>
-            <option value="subjunction">subjunction</option>
-            <option value="preposition">preposition</option>
-            <option value="pronoun">pronoun</option>
-            <option value="adverb">adverb</option>
         </select><br><br>
 
         <label for="word">Word:</label>
@@ -35,8 +24,6 @@
         <label for="gender">Gender:</label>
         <select id="gender" name="gender">
             <option value="">Select gender</option>
-            <option value="m">m</option>
-            <option value="i">i</option>
         </select><br><br>
 
         <button type="submit">Add Word</button>
@@ -45,6 +32,23 @@
     <div id="message"></div>
 
     <script>
+        // Unique types extracted from ordlist.csv
+        const uniqueTypes = [
+            "verb", "noun", "adjective", "phrase", "link", "determiner",
+            "conjunction", "subjunction", "preposition", "pronoun", "adverb"
+        ];
+
+        // Populate the type dropdown
+        const typeSelect = document.getElementById('type');
+        uniqueTypes.forEach(type =>
+        {
+            const option = document.createElement('option');
+            option.value = type;
+            option.textContent = type;
+            typeSelect.appendChild(option);
+        });
+
+        // Handle gender field based on selected type
         document.getElementById('type').addEventListener('change', function (event)
         {
             const type = event.target.value;
@@ -63,6 +67,7 @@
             }
         });
 
+        // Handle form submission
         document.getElementById('wordForm').addEventListener('submit', function (event)
         {
             event.preventDefault();
@@ -71,6 +76,8 @@
             const translation = document.getElementById('translation').value;
             const gender = document.getElementById('gender').value;
 
+            console.log('Submitting form with data:', { type, word, translation, gender });
+
             fetch('https://5l3ss3zkfgowqhupem4glky33e0razhs.lambda-url.eu-west-2.on.aws/', {
                 method: 'POST',
                 headers: {
@@ -78,9 +85,14 @@
                 },
                 body: JSON.stringify({ type, word, translation, gender })
             })
-                .then(response => response.json())
+                .then(response =>
+                {
+                    console.log('Response received:', response);
+                    return response.json();
+                })
                 .then(data =>
                 {
+                    console.log('Response data:', data);
                     const messageDiv = document.getElementById('message');
                     if (data.statusCode === 200) {
                         messageDiv.innerHTML = '<p style="color: green;">Word added successfully!</p>';
@@ -90,9 +102,9 @@
                 })
                 .catch(error =>
                 {
+                    console.error('Fetch error:', error);
                     const messageDiv = document.getElementById('message');
                     messageDiv.innerHTML = '<p style="color: red;">Error: ' + error.message + '</p>';
-                    console.error('Error:', error);
                 });
         });
     </script>
