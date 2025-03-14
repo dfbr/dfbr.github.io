@@ -4,163 +4,163 @@ A word used to describe an action, state, or occurrence, and forming the main pa
 
 | Norwegian | English |
 | --- | --- |
-| [å nytte](https://www.ordnett.no/search?language=no&phrase=å%20nytte) | to use/to be of use |
-| [å skylde](https://www.ordnett.no/search?language=no&phrase=å%20skylde) | to owe |
-| [å antaste](https://www.ordnett.no/search?language=no&phrase=å%20antaste) | to accost/harass/pester/mollest |
-| [å stamme](https://www.ordnett.no/search?language=no&phrase=å%20stamme) | to stutter |
-| [å tape](https://www.ordnett.no/search?language=no&phrase=å%20tape) | to lose |
-| [å skylte inn](https://www.ordnett.no/search?language=no&phrase=å%20skylte%20inn) | to pour in |
-| [å forsere](https://www.ordnett.no/search?language=no&phrase=å%20forsere) | to hasten/speed up |
-| [å bre seg](https://www.ordnett.no/search?language=no&phrase=å%20bre%20seg) | to spread/to extend |
-| [å late](https://www.ordnett.no/search?language=no&phrase=å%20late) | to pretend |
-| [å utforske](https://www.ordnett.no/search?language=no&phrase=å%20utforske) | to explore |
-| [å la igjen](https://www.ordnett.no/search?language=no&phrase=å%20la%20igjen) | to leave behind |
-| [å greie](https://www.ordnett.no/search?language=no&phrase=å%20greie) | to manage/cope with/tackle |
-| [å plystre](https://www.ordnett.no/search?language=no&phrase=å%20plystre) | to whistle |
-| [å gå glipp av noe](https://www.ordnett.no/search?language=no&phrase=å%20gå%20glipp%20av%20noe) | to miss out on something |
-| [å vurdere](https://www.ordnett.no/search?language=no&phrase=å%20vurdere) | to judge/assess/estimate/evaluate |
-| [å smøre](https://www.ordnett.no/search?language=no&phrase=å%20smøre) | to butter/spread/grease |
-| [å tomme](https://www.ordnett.no/search?language=no&phrase=å%20tomme) | to drum |
-| [å tilghengeliggjøre](https://www.ordnett.no/search?language=no&phrase=å%20tilghengeliggjøre) | to make accessible |
-| [å fakke](https://www.ordnett.no/search?language=no&phrase=å%20fakke) | to catch/capture/sieze |
-| [å oppfordre](https://www.ordnett.no/search?language=no&phrase=å%20oppfordre) | to encourage/ask/persuade |
 | [å vare (varte (det varte fra ... til ...))](https://www.ordnett.no/search?language=no&phrase=å%20vare%20(varte%20(det%20varte%20fra%20...%20til%20...))) | to last (lasted (it lasted from ... til ...)) |
-| [å dreie seg om](https://www.ordnett.no/search?language=no&phrase=å%20dreie%20seg%20om) | to be about |
-| [å beherske](https://www.ordnett.no/search?language=no&phrase=å%20beherske) | to master |
-| [å stille seg frem](https://www.ordnett.no/search?language=no&phrase=å%20stille%20seg%20frem) | to tip-toe |
-| [å variere](https://www.ordnett.no/search?language=no&phrase=å%20variere) | to vary |
-| [å påvirke](https://www.ordnett.no/search?language=no&phrase=å%20påvirke) | to influence |
-| [å løfte](https://www.ordnett.no/search?language=no&phrase=å%20løfte) | to lift/raise |
-| [å fremskaffe](https://www.ordnett.no/search?language=no&phrase=å%20fremskaffe) | to obtain/acquire/get |
-| [å tilfredstille](https://www.ordnett.no/search?language=no&phrase=å%20tilfredstille) | to satisfy |
-| [å avslutte](https://www.ordnett.no/search?language=no&phrase=å%20avslutte) | to end |
-| [å sladre](https://www.ordnett.no/search?language=no&phrase=å%20sladre) | to tell tales on/inform/blab/grass |
-| [å skikke](https://www.ordnett.no/search?language=no&phrase=å%20skikke) | to send |
-| [å forlate](https://www.ordnett.no/search?language=no&phrase=å%20forlate) | leave/abandon |
-| [å slippe](https://www.ordnett.no/search?language=no&phrase=å%20slippe) | to avoid/get out of |
-| [å overvintre](https://www.ordnett.no/search?language=no&phrase=å%20overvintre) | to hibernate |
-| [å plage](https://www.ordnett.no/search?language=no&phrase=å%20plage) | to afflict/torment/bother |
-| [å falle](https://www.ordnett.no/search?language=no&phrase=å%20falle) | to fall (number or through gravity) |
-| [å skreme bort](https://www.ordnett.no/search?language=no&phrase=å%20skreme%20bort) | to scare away |
-| [å lange etter](https://www.ordnett.no/search?language=no&phrase=å%20lange%20etter) | to long for |
-| [å minstenke](https://www.ordnett.no/search?language=no&phrase=å%20minstenke) | to suspect |
-| [å egne](https://www.ordnett.no/search?language=no&phrase=å%20egne) | to fish/bait |
-| [å oppdage](https://www.ordnett.no/search?language=no&phrase=å%20oppdage) | to discover |
-| [å overbevise](https://www.ordnett.no/search?language=no&phrase=å%20overbevise) | to convince |
-| [å rekke](https://www.ordnett.no/search?language=no&phrase=å%20rekke) | to reach |
-| [å matte](https://www.ordnett.no/search?language=no&phrase=å%20matte) | to weaken/tire |
-| [å skuffe over](https://www.ordnett.no/search?language=no&phrase=å%20skuffe%20over) | to be disappointed with |
-| [å slippe](https://www.ordnett.no/search?language=no&phrase=å%20slippe) | to drop |
-| [å innvandre](https://www.ordnett.no/search?language=no&phrase=å%20innvandre) | to immigrate |
-| [å knytte](https://www.ordnett.no/search?language=no&phrase=å%20knytte) | to tie/knot |
-| [å etterfølge](https://www.ordnett.no/search?language=no&phrase=å%20etterfølge) | to follow/succeed |
-| [å finnes](https://www.ordnett.no/search?language=no&phrase=å%20finnes) | to exist |
-| [å anta](https://www.ordnett.no/search?language=no&phrase=å%20anta) | to presume/suppose/assume |
-| [å avskilte](https://www.ordnett.no/search?language=no&phrase=å%20avskilte) | to separate |
-| [å lyve](https://www.ordnett.no/search?language=no&phrase=å%20lyve) | to lie |
-| [å handle](https://www.ordnett.no/search?language=no&phrase=å%20handle) | handle/deal/do business |
-| [å gjelde](https://www.ordnett.no/search?language=no&phrase=å%20gjelde) | to be valid/in force/applicable |
-| [å avfyre](https://www.ordnett.no/search?language=no&phrase=å%20avfyre) | to fire/discharge (e.g. a gun) |
-| [å holde seg stabilt](https://www.ordnett.no/search?language=no&phrase=å%20holde%20seg%20stabilt) | to remain stable |
-| [å synke](https://www.ordnett.no/search?language=no&phrase=å%20synke) | to decrease |
-| [å gli](https://www.ordnett.no/search?language=no&phrase=å%20gli) | to slide/glide |
-| [å skade](https://www.ordnett.no/search?language=no&phrase=å%20skade) | to damage/injur |
-| [å bryte](https://www.ordnett.no/search?language=no&phrase=å%20bryte) | to break/open |
-| [å foreslå](https://www.ordnett.no/search?language=no&phrase=å%20foreslå) | to suggest |
-| [å undersøke](https://www.ordnett.no/search?language=no&phrase=å%20undersøke) | to examine |
-| [å innbille](https://www.ordnett.no/search?language=no&phrase=å%20innbille) | to convince/persuade |
-| [å innhold](https://www.ordnett.no/search?language=no&phrase=å%20innhold) | to contain |
-| [å bry seg](https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg) | to meddle/interfere |
-| [å skyte](https://www.ordnett.no/search?language=no&phrase=å%20skyte) | to shoot |
-| [å vedta](https://www.ordnett.no/search?language=no&phrase=å%20vedta) | to pass/carry (e.g. in a vote) |
-| [å bekymre seg](https://www.ordnett.no/search?language=no&phrase=å%20bekymre%20seg) | to worry |
-| [å skille](https://www.ordnett.no/search?language=no&phrase=å%20skille) | to separate |
-| [å overraske](https://www.ordnett.no/search?language=no&phrase=å%20overraske) | to surprise |
-| [å tjene](https://www.ordnett.no/search?language=no&phrase=å%20tjene) | to serve |
-| [å bosette seg](https://www.ordnett.no/search?language=no&phrase=å%20bosette%20seg) | to settle down |
-| [å fakke](https://www.ordnett.no/search?language=no&phrase=å%20fakke) | to catch/capture |
-| [å påvirke hverandre](https://www.ordnett.no/search?language=no&phrase=å%20påvirke%20hverandre) | to interact |
-| [å nekte](https://www.ordnett.no/search?language=no&phrase=å%20nekte) | to refuse/decline/deny |
-| [å skapt](https://www.ordnett.no/search?language=no&phrase=å%20skapt) | to create/make |
-| [å stikke av](https://www.ordnett.no/search?language=no&phrase=å%20stikke%20av) | to run away |
-| [å briljere](https://www.ordnett.no/search?language=no&phrase=å%20briljere) | to excel/shine/show-off |
-| [å klage over](https://www.ordnett.no/search?language=no&phrase=å%20klage%20over) | to complain |
-| [å sørge](https://www.ordnett.no/search?language=no&phrase=å%20sørge) | to grieve/mourn |
-| [å hende seg](https://www.ordnett.no/search?language=no&phrase=å%20hende%20seg) | to happen |
-| [å tilpasse seg](https://www.ordnett.no/search?language=no&phrase=å%20tilpasse%20seg) | to adapt oneself |
-| [å hekke](https://www.ordnett.no/search?language=no&phrase=å%20hekke) | to nest/brood |
-| [å benekte](https://www.ordnett.no/search?language=no&phrase=å%20benekte) | to deny/negate |
-| [å følge](https://www.ordnett.no/search?language=no&phrase=å%20følge) | to follow |
-| [å buske seg](https://www.ordnett.no/search?language=no&phrase=å%20buske%20seg) | to grow bushy |
-| [å krympe](https://www.ordnett.no/search?language=no&phrase=å%20krympe) | to shrink/contract |
-| [å rekke](https://www.ordnett.no/search?language=no&phrase=å%20rekke) | to reach/catch/arrive at/be enough/suffice |
-| [å stille ut (noe)](https://www.ordnett.no/search?language=no&phrase=å%20stille%20ut%20(noe)) | to display (something) |
-| [å inngå](https://www.ordnett.no/search?language=no&phrase=å%20inngå) | to enter into/agree/make |
-| [å trekke](https://www.ordnett.no/search?language=no&phrase=å%20trekke) | to pull/haul/drag |
-| [å trives](https://www.ordnett.no/search?language=no&phrase=å%20trives) | to enjoy oneself |
-| [å føre](https://www.ordnett.no/search?language=no&phrase=å%20føre) | to lead/guide |
-| [å samle](https://www.ordnett.no/search?language=no&phrase=å%20samle) | to collect (e.g. together) |
-| [å strekke](https://www.ordnett.no/search?language=no&phrase=å%20strekke) | to stretch |
-| [å tippe](https://www.ordnett.no/search?language=no&phrase=å%20tippe) | to tip/tilt/guess/bet on the pools |
-| [å skye over](https://www.ordnett.no/search?language=no&phrase=å%20skye%20over) | cloud over (å skye over/til) |
-| [å plyndre](https://www.ordnett.no/search?language=no&phrase=å%20plyndre) | to rob/sack/plunder |
-| [å rynke](https://www.ordnett.no/search?language=no&phrase=å%20rynke) | to wrinkle |
-| [å regne](https://www.ordnett.no/search?language=no&phrase=å%20regne) | calculate/estimate/reckon/assume |
-| [å utvikle](https://www.ordnett.no/search?language=no&phrase=å%20utvikle) | to develop (including code) |
-| [å blomstre](https://www.ordnett.no/search?language=no&phrase=å%20blomstre) | to flower |
-| [å burde](https://www.ordnett.no/search?language=no&phrase=å%20burde) | should/to ought to |
-| [å unngå](https://www.ordnett.no/search?language=no&phrase=å%20unngå) | to escape |
-| [å ikke endre](https://www.ordnett.no/search?language=no&phrase=å%20ikke%20endre) | to not change |
-| [å fukte](https://www.ordnett.no/search?language=no&phrase=å%20fukte) | to moisten/dampen |
-| [å rå](https://www.ordnett.no/search?language=no&phrase=å%20rå) | to rule/reign |
-| [å betraket](https://www.ordnett.no/search?language=no&phrase=å%20betraket) | to look at/regard/view |
-| [å nippe](https://www.ordnett.no/search?language=no&phrase=å%20nippe) | to sip |
-| [å hvile](https://www.ordnett.no/search?language=no&phrase=å%20hvile) | to rest/relax |
-| [å unngå](https://www.ordnett.no/search?language=no&phrase=å%20unngå) | to escape/evade/dodge |
-| [å føre](https://www.ordnett.no/search?language=no&phrase=å%20føre) | to guide/lead |
-| [å dominere](https://www.ordnett.no/search?language=no&phrase=å%20dominere) | to dominate |
-| [å frastjale](https://www.ordnett.no/search?language=no&phrase=å%20frastjale) | to rob/steal (from) |
-| [å tilbyr](https://www.ordnett.no/search?language=no&phrase=å%20tilbyr) | to offer |
-| [å styrte](https://www.ordnett.no/search?language=no&phrase=å%20styrte) | to rush |
-| [å forstyrre (seg)](https://www.ordnett.no/search?language=no&phrase=å%20forstyrre%20(seg)) | to disturb |
-| [å arrangere](https://www.ordnett.no/search?language=no&phrase=å%20arrangere) | to arrange/organise |
-| [å overføre](https://www.ordnett.no/search?language=no&phrase=å%20overføre) | to transfer (e.g. to another department) |
-| [å drepe](https://www.ordnett.no/search?language=no&phrase=å%20drepe) | to kill |
-| [å snuble](https://www.ordnett.no/search?language=no&phrase=å%20snuble) | to stumble/trip |
-| [å bevare](https://www.ordnett.no/search?language=no&phrase=å%20bevare) | to protect |
-| [bestå](https://www.ordnett.no/search?language=no&phrase=bestå) | to consit of |
-| [å korse](https://www.ordnett.no/search?language=no&phrase=å%20korse) | to cross (make the sign of) |
-| [å skyve](https://www.ordnett.no/search?language=no&phrase=å%20skyve) | to push/shove |
 | [å ro](https://www.ordnett.no/search?language=no&phrase=å%20ro) | to row and alto to get out of |
-| [å innføre](https://www.ordnett.no/search?language=no&phrase=å%20innføre) | to introduce |
-| [å traske](https://www.ordnett.no/search?language=no&phrase=å%20traske) | to plod/trudge |
-| [å avgjøre](https://www.ordnett.no/search?language=no&phrase=å%20avgjøre) | to settle/decide |
-| [å strikke](https://www.ordnett.no/search?language=no&phrase=å%20strikke) | to knit |
-| [å oppfatte](https://www.ordnett.no/search?language=no&phrase=å%20oppfatte) | to perceive |
-| [å stige](https://www.ordnett.no/search?language=no&phrase=å%20stige) | to increase/go up |
-| [å pakke ut](https://www.ordnett.no/search?language=no&phrase=å%20pakke%20ut) | to unpack |
-| [å tromme](https://www.ordnett.no/search?language=no&phrase=å%20tromme) | to drum |
-| [å prege](https://www.ordnett.no/search?language=no&phrase=å%20prege) | to characterise |
-| [å påføre](https://www.ordnett.no/search?language=no&phrase=å%20påføre) | to enter/cause/inflict |
-| [å slå i hjel](https://www.ordnett.no/search?language=no&phrase=å%20slå%20i%20hjel) | to kill |
-| [å skalpere](https://www.ordnett.no/search?language=no&phrase=å%20skalpere) | to scalp |
-| [å begrense](https://www.ordnett.no/search?language=no&phrase=å%20begrense) | to limit/reduce/restrict/confine |
-| [å vedde](https://www.ordnett.no/search?language=no&phrase=å%20vedde) | to bet/wager |
-| [å introdusere](https://www.ordnett.no/search?language=no&phrase=å%20introdusere) | to introduce |
-| [å morjonere](https://www.ordnett.no/search?language=no&phrase=å%20morjonere) | to exercise |
-| [å rette](https://www.ordnett.no/search?language=no&phrase=å%20rette) | to correct/strighten (out) |
-| [å skape](https://www.ordnett.no/search?language=no&phrase=å%20skape) | to create |
-| [å innse](https://www.ordnett.no/search?language=no&phrase=å%20innse) | to realise/appreciate/see |
-| [å dyrke](https://www.ordnett.no/search?language=no&phrase=å%20dyrke) | to cultivate |
-| [å henvende seg (til noen)](https://www.ordnett.no/search?language=no&phrase=å%20henvende%20seg%20(til%20noen)) | to enquire/call/approach (somebody) |
-| [å granske](https://www.ordnett.no/search?language=no&phrase=å%20granske) | to investigate/studyscrutinise |
+| [å smøre](https://www.ordnett.no/search?language=no&phrase=å%20smøre) | to butter/spread/grease |
+| [å rekke](https://www.ordnett.no/search?language=no&phrase=å%20rekke) | to reach/catch/arrive at/be enough/suffice |
+| [å tippe](https://www.ordnett.no/search?language=no&phrase=å%20tippe) | to tip/tilt/guess/bet on the pools |
 | [å munne](https://www.ordnett.no/search?language=no&phrase=å%20munne) | to mouth (e.g. a baby mouths the nipple) |
-| [å vende](https://www.ordnett.no/search?language=no&phrase=å%20vende) | to turn away/back/over |
-| [å drukne](https://www.ordnett.no/search?language=no&phrase=å%20drukne) | to drown |
-| [å smekke](https://www.ordnett.no/search?language=no&phrase=å%20smekke) | to smack/snap/click/swat |
-| [å åke](https://www.ordnett.no/search?language=no&phrase=å%20åke) | to sledge |
-| [å teste](https://www.ordnett.no/search?language=no&phrase=å%20teste) | to test |
-| [å hende](https://www.ordnett.no/search?language=no&phrase=å%20hende) | to happen/take place |
-| [å krangle](https://www.ordnett.no/search?language=no&phrase=å%20krangle) | bicker/fight/quarrel |
+| [å slå i hjel](https://www.ordnett.no/search?language=no&phrase=å%20slå%20i%20hjel) | to kill |
+| [å løfte](https://www.ordnett.no/search?language=no&phrase=å%20løfte) | to lift/raise |
+| [å utforske](https://www.ordnett.no/search?language=no&phrase=å%20utforske) | to explore |
+| [å regne](https://www.ordnett.no/search?language=no&phrase=å%20regne) | calculate/estimate/reckon/assume |
+| [å burde](https://www.ordnett.no/search?language=no&phrase=å%20burde) | should/to ought to |
+| [å forstyrre (seg)](https://www.ordnett.no/search?language=no&phrase=å%20forstyrre%20(seg)) | to disturb |
+| [å trives](https://www.ordnett.no/search?language=no&phrase=å%20trives) | to enjoy oneself |
+| [å bekymre seg](https://www.ordnett.no/search?language=no&phrase=å%20bekymre%20seg) | to worry |
+| [å bevare](https://www.ordnett.no/search?language=no&phrase=å%20bevare) | to protect |
+| [å variere](https://www.ordnett.no/search?language=no&phrase=å%20variere) | to vary |
 | [å gå ned](https://www.ordnett.no/search?language=no&phrase=å%20gå%20ned) | to go down/fall |
+| [å unngå](https://www.ordnett.no/search?language=no&phrase=å%20unngå) | to escape |
+| [å påvirke hverandre](https://www.ordnett.no/search?language=no&phrase=å%20påvirke%20hverandre) | to interact |
+| [å skille](https://www.ordnett.no/search?language=no&phrase=å%20skille) | to separate |
+| [å briljere](https://www.ordnett.no/search?language=no&phrase=å%20briljere) | to excel/shine/show-off |
+| [å skreme bort](https://www.ordnett.no/search?language=no&phrase=å%20skreme%20bort) | to scare away |
+| [å plyndre](https://www.ordnett.no/search?language=no&phrase=å%20plyndre) | to rob/sack/plunder |
+| [å antaste](https://www.ordnett.no/search?language=no&phrase=å%20antaste) | to accost/harass/pester/mollest |
+| [å forsere](https://www.ordnett.no/search?language=no&phrase=å%20forsere) | to hasten/speed up |
+| [å rekke](https://www.ordnett.no/search?language=no&phrase=å%20rekke) | to reach |
+| [å henvende seg (til noen)](https://www.ordnett.no/search?language=no&phrase=å%20henvende%20seg%20(til%20noen)) | to enquire/call/approach (somebody) |
+| [å bosette seg](https://www.ordnett.no/search?language=no&phrase=å%20bosette%20seg) | to settle down |
+| [å arrangere](https://www.ordnett.no/search?language=no&phrase=å%20arrangere) | to arrange/organise |
+| [å nippe](https://www.ordnett.no/search?language=no&phrase=å%20nippe) | to sip |
+| [å skade](https://www.ordnett.no/search?language=no&phrase=å%20skade) | to damage/injur |
+| [å blomstre](https://www.ordnett.no/search?language=no&phrase=å%20blomstre) | to flower |
+| [å rå](https://www.ordnett.no/search?language=no&phrase=å%20rå) | to rule/reign |
+| [å innbille](https://www.ordnett.no/search?language=no&phrase=å%20innbille) | to convince/persuade |
+| [å trekke](https://www.ordnett.no/search?language=no&phrase=å%20trekke) | to pull/haul/drag |
+| [å overvintre](https://www.ordnett.no/search?language=no&phrase=å%20overvintre) | to hibernate |
+| [å etterfølge](https://www.ordnett.no/search?language=no&phrase=å%20etterfølge) | to follow/succeed |
+| [å gjelde](https://www.ordnett.no/search?language=no&phrase=å%20gjelde) | to be valid/in force/applicable |
+| [å påvirke](https://www.ordnett.no/search?language=no&phrase=å%20påvirke) | to influence |
+| [å fremskaffe](https://www.ordnett.no/search?language=no&phrase=å%20fremskaffe) | to obtain/acquire/get |
+| [å betraket](https://www.ordnett.no/search?language=no&phrase=å%20betraket) | to look at/regard/view |
+| [å dominere](https://www.ordnett.no/search?language=no&phrase=å%20dominere) | to dominate |
+| [å benekte](https://www.ordnett.no/search?language=no&phrase=å%20benekte) | to deny/negate |
+| [å nytte](https://www.ordnett.no/search?language=no&phrase=å%20nytte) | to use/to be of use |
+| [å stamme](https://www.ordnett.no/search?language=no&phrase=å%20stamme) | to stutter |
+| [å skyve](https://www.ordnett.no/search?language=no&phrase=å%20skyve) | to push/shove |
+| [å hende](https://www.ordnett.no/search?language=no&phrase=å%20hende) | to happen/take place |
+| [å inngå](https://www.ordnett.no/search?language=no&phrase=å%20inngå) | to enter into/agree/make |
+| [å stille seg frem](https://www.ordnett.no/search?language=no&phrase=å%20stille%20seg%20frem) | to tip-toe |
+| [å tromme](https://www.ordnett.no/search?language=no&phrase=å%20tromme) | to drum |
+| [å lyve](https://www.ordnett.no/search?language=no&phrase=å%20lyve) | to lie |
+| [å oppdage](https://www.ordnett.no/search?language=no&phrase=å%20oppdage) | to discover |
+| [å tilfredstille](https://www.ordnett.no/search?language=no&phrase=å%20tilfredstille) | to satisfy |
+| [å innhold](https://www.ordnett.no/search?language=no&phrase=å%20innhold) | to contain |
+| [å overraske](https://www.ordnett.no/search?language=no&phrase=å%20overraske) | to surprise |
+| [å skapt](https://www.ordnett.no/search?language=no&phrase=å%20skapt) | to create/make |
+| [å vende](https://www.ordnett.no/search?language=no&phrase=å%20vende) | to turn away/back/over |
+| [å morjonere](https://www.ordnett.no/search?language=no&phrase=å%20morjonere) | to exercise |
+| [å innse](https://www.ordnett.no/search?language=no&phrase=å%20innse) | to realise/appreciate/see |
+| [å strekke](https://www.ordnett.no/search?language=no&phrase=å%20strekke) | to stretch |
+| [å utvikle](https://www.ordnett.no/search?language=no&phrase=å%20utvikle) | to develop (including code) |
+| [å skye over](https://www.ordnett.no/search?language=no&phrase=å%20skye%20over) | cloud over (å skye over/til) |
+| [å smekke](https://www.ordnett.no/search?language=no&phrase=å%20smekke) | to smack/snap/click/swat |
+| [å skikke](https://www.ordnett.no/search?language=no&phrase=å%20skikke) | to send |
+| [å unngå](https://www.ordnett.no/search?language=no&phrase=å%20unngå) | to escape/evade/dodge |
+| [å strikke](https://www.ordnett.no/search?language=no&phrase=å%20strikke) | to knit |
+| [å plystre](https://www.ordnett.no/search?language=no&phrase=å%20plystre) | to whistle |
+| [å vurdere](https://www.ordnett.no/search?language=no&phrase=å%20vurdere) | to judge/assess/estimate/evaluate |
+| [å granske](https://www.ordnett.no/search?language=no&phrase=å%20granske) | to investigate/studyscrutinise |
+| [å greie](https://www.ordnett.no/search?language=no&phrase=å%20greie) | to manage/cope with/tackle |
+| [å samle](https://www.ordnett.no/search?language=no&phrase=å%20samle) | to collect (e.g. together) |
+| [å sørge](https://www.ordnett.no/search?language=no&phrase=å%20sørge) | to grieve/mourn |
+| [å bryte](https://www.ordnett.no/search?language=no&phrase=å%20bryte) | to break/open |
+| [å fukte](https://www.ordnett.no/search?language=no&phrase=å%20fukte) | to moisten/dampen |
+| [å foreslå](https://www.ordnett.no/search?language=no&phrase=å%20foreslå) | to suggest |
+| [å handle](https://www.ordnett.no/search?language=no&phrase=å%20handle) | handle/deal/do business |
+| [å overføre](https://www.ordnett.no/search?language=no&phrase=å%20overføre) | to transfer (e.g. to another department) |
+| [å prege](https://www.ordnett.no/search?language=no&phrase=å%20prege) | to characterise |
+| [å egne](https://www.ordnett.no/search?language=no&phrase=å%20egne) | to fish/bait |
+| [å åke](https://www.ordnett.no/search?language=no&phrase=å%20åke) | to sledge |
+| [å introdusere](https://www.ordnett.no/search?language=no&phrase=å%20introdusere) | to introduce |
+| [å avskilte](https://www.ordnett.no/search?language=no&phrase=å%20avskilte) | to separate |
+| [å stige](https://www.ordnett.no/search?language=no&phrase=å%20stige) | to increase/go up |
+| [å rette](https://www.ordnett.no/search?language=no&phrase=å%20rette) | to correct/strighten (out) |
+| [å stikke av](https://www.ordnett.no/search?language=no&phrase=å%20stikke%20av) | to run away |
+| [å gå glipp av noe](https://www.ordnett.no/search?language=no&phrase=å%20gå%20glipp%20av%20noe) | to miss out on something |
+| [å krympe](https://www.ordnett.no/search?language=no&phrase=å%20krympe) | to shrink/contract |
+| [å pakke ut](https://www.ordnett.no/search?language=no&phrase=å%20pakke%20ut) | to unpack |
+| [å tilbyr](https://www.ordnett.no/search?language=no&phrase=å%20tilbyr) | to offer |
+| [å klage over](https://www.ordnett.no/search?language=no&phrase=å%20klage%20over) | to complain |
+| [å matte](https://www.ordnett.no/search?language=no&phrase=å%20matte) | to weaken/tire |
+| [å holde seg stabilt](https://www.ordnett.no/search?language=no&phrase=å%20holde%20seg%20stabilt) | to remain stable |
+| [å finnes](https://www.ordnett.no/search?language=no&phrase=å%20finnes) | to exist |
+| [å innføre](https://www.ordnett.no/search?language=no&phrase=å%20innføre) | to introduce |
+| [å drepe](https://www.ordnett.no/search?language=no&phrase=å%20drepe) | to kill |
+| [å la igjen](https://www.ordnett.no/search?language=no&phrase=å%20la%20igjen) | to leave behind |
+| [å tilpasse seg](https://www.ordnett.no/search?language=no&phrase=å%20tilpasse%20seg) | to adapt oneself |
+| [å bry seg](https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg) | to meddle/interfere |
+| [å slippe](https://www.ordnett.no/search?language=no&phrase=å%20slippe) | to avoid/get out of |
+| [å hekke](https://www.ordnett.no/search?language=no&phrase=å%20hekke) | to nest/brood |
+| [å tomme](https://www.ordnett.no/search?language=no&phrase=å%20tomme) | to drum |
+| [å avfyre](https://www.ordnett.no/search?language=no&phrase=å%20avfyre) | to fire/discharge (e.g. a gun) |
+| [å minstenke](https://www.ordnett.no/search?language=no&phrase=å%20minstenke) | to suspect |
+| [å lange etter](https://www.ordnett.no/search?language=no&phrase=å%20lange%20etter) | to long for |
+| [å avslutte](https://www.ordnett.no/search?language=no&phrase=å%20avslutte) | to end |
+| [å traske](https://www.ordnett.no/search?language=no&phrase=å%20traske) | to plod/trudge |
+| [å hvile](https://www.ordnett.no/search?language=no&phrase=å%20hvile) | to rest/relax |
+| [å påføre](https://www.ordnett.no/search?language=no&phrase=å%20påføre) | to enter/cause/inflict |
+| [å skalpere](https://www.ordnett.no/search?language=no&phrase=å%20skalpere) | to scalp |
+| [å skuffe over](https://www.ordnett.no/search?language=no&phrase=å%20skuffe%20over) | to be disappointed with |
+| [å teste](https://www.ordnett.no/search?language=no&phrase=å%20teste) | to test |
+| [å begrense](https://www.ordnett.no/search?language=no&phrase=å%20begrense) | to limit/reduce/restrict/confine |
+| [å overbevise](https://www.ordnett.no/search?language=no&phrase=å%20overbevise) | to convince |
+| [å rynke](https://www.ordnett.no/search?language=no&phrase=å%20rynke) | to wrinkle |
+| [å snuble](https://www.ordnett.no/search?language=no&phrase=å%20snuble) | to stumble/trip |
+| [å hende seg](https://www.ordnett.no/search?language=no&phrase=å%20hende%20seg) | to happen |
+| [å skape](https://www.ordnett.no/search?language=no&phrase=å%20skape) | to create |
+| [å dreie seg om](https://www.ordnett.no/search?language=no&phrase=å%20dreie%20seg%20om) | to be about |
+| [å føre](https://www.ordnett.no/search?language=no&phrase=å%20føre) | to guide/lead |
+| [å bre seg](https://www.ordnett.no/search?language=no&phrase=å%20bre%20seg) | to spread/to extend |
+| [å styrte](https://www.ordnett.no/search?language=no&phrase=å%20styrte) | to rush |
+| [å oppfatte](https://www.ordnett.no/search?language=no&phrase=å%20oppfatte) | to perceive |
+| [å slippe](https://www.ordnett.no/search?language=no&phrase=å%20slippe) | to drop |
+| [å følge](https://www.ordnett.no/search?language=no&phrase=å%20følge) | to follow |
+| [å tape](https://www.ordnett.no/search?language=no&phrase=å%20tape) | to lose |
+| [å stille ut (noe)](https://www.ordnett.no/search?language=no&phrase=å%20stille%20ut%20(noe)) | to display (something) |
+| [å nekte](https://www.ordnett.no/search?language=no&phrase=å%20nekte) | to refuse/decline/deny |
+| [å drukne](https://www.ordnett.no/search?language=no&phrase=å%20drukne) | to drown |
+| [å gli](https://www.ordnett.no/search?language=no&phrase=å%20gli) | to slide/glide |
+| [å ikke endre](https://www.ordnett.no/search?language=no&phrase=å%20ikke%20endre) | to not change |
+| [å dyrke](https://www.ordnett.no/search?language=no&phrase=å%20dyrke) | to cultivate |
+| [å synke](https://www.ordnett.no/search?language=no&phrase=å%20synke) | to decrease |
+| [å fakke](https://www.ordnett.no/search?language=no&phrase=å%20fakke) | to catch/capture |
+| [å oppfordre](https://www.ordnett.no/search?language=no&phrase=å%20oppfordre) | to encourage/ask/persuade |
+| [å føre](https://www.ordnett.no/search?language=no&phrase=å%20føre) | to lead/guide |
+| [å late](https://www.ordnett.no/search?language=no&phrase=å%20late) | to pretend |
+| [å buske seg](https://www.ordnett.no/search?language=no&phrase=å%20buske%20seg) | to grow bushy |
+| [å krangle](https://www.ordnett.no/search?language=no&phrase=å%20krangle) | bicker/fight/quarrel |
+| [å knytte](https://www.ordnett.no/search?language=no&phrase=å%20knytte) | to tie/knot |
+| [å innvandre](https://www.ordnett.no/search?language=no&phrase=å%20innvandre) | to immigrate |
+| [bestå](https://www.ordnett.no/search?language=no&phrase=bestå) | to consit of |
+| [å tjene](https://www.ordnett.no/search?language=no&phrase=å%20tjene) | to serve |
+| [å skylte inn](https://www.ordnett.no/search?language=no&phrase=å%20skylte%20inn) | to pour in |
+| [å anta](https://www.ordnett.no/search?language=no&phrase=å%20anta) | to presume/suppose/assume |
+| [å undersøke](https://www.ordnett.no/search?language=no&phrase=å%20undersøke) | to examine |
+| [å sladre](https://www.ordnett.no/search?language=no&phrase=å%20sladre) | to tell tales on/inform/blab/grass |
+| [å forlate](https://www.ordnett.no/search?language=no&phrase=å%20forlate) | leave/abandon |
+| [å frastjale](https://www.ordnett.no/search?language=no&phrase=å%20frastjale) | to rob/steal (from) |
+| [å beherske](https://www.ordnett.no/search?language=no&phrase=å%20beherske) | to master |
+| [å fakke](https://www.ordnett.no/search?language=no&phrase=å%20fakke) | to catch/capture/sieze |
+| [å skyte](https://www.ordnett.no/search?language=no&phrase=å%20skyte) | to shoot |
+| [å tilghengeliggjøre](https://www.ordnett.no/search?language=no&phrase=å%20tilghengeliggjøre) | to make accessible |
+| [å korse](https://www.ordnett.no/search?language=no&phrase=å%20korse) | to cross (make the sign of) |
+| [å plage](https://www.ordnett.no/search?language=no&phrase=å%20plage) | to afflict/torment/bother |
+| [å skylde](https://www.ordnett.no/search?language=no&phrase=å%20skylde) | to owe |
+| [å avgjøre](https://www.ordnett.no/search?language=no&phrase=å%20avgjøre) | to settle/decide |
+| [å vedta](https://www.ordnett.no/search?language=no&phrase=å%20vedta) | to pass/carry (e.g. in a vote) |
+| [å falle](https://www.ordnett.no/search?language=no&phrase=å%20falle) | to fall (number or through gravity) |
+| [å vedde](https://www.ordnett.no/search?language=no&phrase=å%20vedde) | to bet/wager |
 
