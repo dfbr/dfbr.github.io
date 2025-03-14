@@ -4,22 +4,22 @@ A word or phrase that modifies or qualifies an adjective, verb, or other adverb 
 
 | Norwegian | English |
 | --- | --- |
-| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
 | [utviklings...](https://www.ordnett.no/search?language=no&phrase=utviklings...) | developing ... |
-| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/barely |
-| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
-| [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
-| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
+| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
 | [nokså](https://www.ordnett.no/search?language=no&phrase=nokså) | quite/rather/fairly/modestly |
+| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
 | [sikkert](https://www.ordnett.no/search?language=no&phrase=sikkert) | surely/certainly |
+| [nemlig](https://www.ordnett.no/search?language=no&phrase=nemlig) | in fact/right/exactly/of course |
 | [noensinne](https://www.ordnett.no/search?language=no&phrase=noensinne) | at any time |
+| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/barely |
+| [imens](https://www.ordnett.no/search?language=no&phrase=imens) | in the meantime |
+| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
+| [derimot](https://www.ordnett.no/search?language=no&phrase=derimot) | on the other hand/on the contrary |
+| [kun](https://www.ordnett.no/search?language=no&phrase=kun) | only/merely/just |
+| [etter hvert](https://www.ordnett.no/search?language=no&phrase=etter%20hvert) | gradually/little-by-little |
+| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
 | [omtrent](https://www.ordnett.no/search?language=no&phrase=omtrent) | circa/about/similar to |
+| [dessuten](https://www.ordnett.no/search?language=no&phrase=dessuten) | in addition/moreover/besides |
 | [knapt](https://www.ordnett.no/search?language=no&phrase=knapt) | scarcely |
 | [ellers](https://www.ordnett.no/search?language=no&phrase=ellers) | otherwise |
-| [neppe](https://www.ordnett.no/search?language=no&phrase=neppe) | hardly/unlikely |
-| [imens](https://www.ordnett.no/search?language=no&phrase=imens) | in the meantime |
-| [fremdeles](https://www.ordnett.no/search?language=no&phrase=fremdeles) | still |
-| [heldigvis](https://www.ordnett.no/search?language=no&phrase=heldigvis) | luckily |
-| [i hjel](https://www.ordnett.no/search?language=no&phrase=i%20hjel) | to death |
-| [derimot](https://www.ordnett.no/search?language=no&phrase=derimot) | on the other hand/on the contrary |
 
