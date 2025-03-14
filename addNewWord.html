@@ -15,10 +15,10 @@
             <option value="">Select type</option>
         </select><br><br>
 
-        <label for="word">Word:</label>
+        <label for="word">Norwegian:</label>
         <input type="text" id="word" name="word" required><br><br>
 
-        <label for="translation">Translation:</label>
+        <label for="translation">English:</label>
         <input type="text" id="translation" name="translation" required><br><br>
 
         <label for="gender">Gender:</label>
@@ -47,6 +47,11 @@
             option.textContent = type;
             typeSelect.appendChild(option);
         });
+
+        // Set the first type as selected
+        if (uniqueTypes.length > 0) {
+            typeSelect.value = uniqueTypes[0];
+        }
 
         // Handle gender field based on selected type
         document.getElementById('type').addEventListener('change', function (event)
@@ -88,16 +93,17 @@
                 .then(response =>
                 {
                     console.log('Response received:', response);
-                    return response.json();
+                    return response.json().then(data => ({ status: response.status, body: data }));
                 })
-                .then(data =>
+                .then(({ status, body }) =>
                 {
-                    console.log('Response data:', data);
+                    console.log('Response status:', status);
+                    console.log('Response body:', body);
                     const messageDiv = document.getElementById('message');
-                    if (data.statusCode === 200) {
-                        messageDiv.innerHTML = '<p style="color: green;">Word added successfully!</p>';
+                    if (status === 200) {
+                        messageDiv.innerHTML = `<p style="color: green;">Word "${word}" added successfully!</p>`;
                     } else {
-                        messageDiv.innerHTML = '<p style="color: red;">Error adding word: ' + data.body + '</p>';
+                        messageDiv.innerHTML = '<p style="color: red;">Error adding word: ' + (body.message || body) + '</p>';
                     }
                 })
                 .catch(error =>
