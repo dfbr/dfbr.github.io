@@ -1,26 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Add Word to Ordlist</title>
 </head>
+
 <body>
     <h1>Add Word to Ordlist</h1>
     <form id="wordForm">
         <label for="type">Type:</label>
-        <input type="text" id="type" name="type" required><br><br>
+        <select id="type" name="type" required>
+            <option value="">Select type</option>
+            <option value="verb">verb</option>
+            <option value="noun">noun</option>
+            <option value="adjective">adjective</option>
+            <option value="phrase">phrase</option>
+            <option value="link">link</option>
+            <option value="determiner">determiner</option>
+            <option value="conjunction">conjunction</option>
+            <option value="subjunction">subjunction</option>
+            <option value="preposition">preposition</option>
+            <option value="pronoun">pronoun</option>
+            <option value="adverb">adverb</option>
+        </select><br><br>
+
         <label for="word">Word:</label>
         <input type="text" id="word" name="word" required><br><br>
+
         <label for="translation">Translation:</label>
         <input type="text" id="translation" name="translation" required><br><br>
+
         <label for="gender">Gender:</label>
-        <input type="text" id="gender" name="gender"><br><br>
+        <select id="gender" name="gender">
+            <option value="">Select gender</option>
+            <option value="m">m</option>
+            <option value="i">i</option>
+        </select><br><br>
+
         <button type="submit">Add Word</button>
     </form>
 
+    <div id="message"></div>
+
     <script>
-        document.getElementById('wordForm').addEventListener('submit', function(event) {
+        document.getElementById('type').addEventListener('change', function (event)
+        {
+            const type = event.target.value;
+            const genderField = document.getElementById('gender');
+
+            if (type === 'noun') {
+                genderField.innerHTML = `
+                    <option value="">Select gender</option>
+                    <option value="m">m</option>
+                    <option value="i">i</option>
+                `;
+            } else {
+                genderField.innerHTML = `
+                    <option value="">Select gender</option>
+                `;
+            }
+        });
+
+        document.getElementById('wordForm').addEventListener('submit', function (event)
+        {
             event.preventDefault();
             const type = document.getElementById('type').value;
             const word = document.getElementById('word').value;
@@ -34,12 +78,24 @@
                 },
                 body: JSON.stringify({ type, word, translation, gender })
             })
-            .then(response => response.json())
-            .then(data => {
-                alert(data);
-            })
-            .catch(error => console.error('Error:', error));
+                .then(response => response.json())
+                .then(data =>
+                {
+                    const messageDiv = document.getElementById('message');
+                    if (data.statusCode === 200) {
+                        messageDiv.innerHTML = '<p style="color: green;">Word added successfully!</p>';
+                    } else {
+                        messageDiv.innerHTML = '<p style="color: red;">Error adding word: ' + data.body + '</p>';
+                    }
+                })
+                .catch(error =>
+                {
+                    const messageDiv = document.getElementById('message');
+                    messageDiv.innerHTML = '<p style="color: red;">Error: ' + error.message + '</p>';
+                    console.error('Error:', error);
+                });
         });
     </script>
 </body>
+
 </html>
