@@ -4,7 +4,7 @@ A word governing, and usually preceding, a noun or pronoun and expressing a rela
 
 | Norwegian | English |
 | --- | --- |
+| [unna](https://www.ordnett.no/search?language=no&phrase=unna) | away (e.g. to get away) |
 | [ifølge](https://www.ordnett.no/search?language=no&phrase=ifølge) | according to |
 | [nedfor](https://www.ordnett.no/search?language=no&phrase=nedfor) | below/down |
-| [unna](https://www.ordnett.no/search?language=no&phrase=unna) | away (e.g. to get away) |
 
