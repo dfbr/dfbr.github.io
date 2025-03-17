@@ -41,9 +41,10 @@ for i in categories:
 with open(wordListFile,newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for line in reader:
+        # if line['kategorie'] in categories:
         myWords[line['kategorie']].append({'engelsk': line['engelsk'],
-                                          'norsk': line['norsk'],
-                                          'gender': line['gender']})
+                                        'norsk': line['norsk'],
+                                        'gender': line['gender']})
 
 # shuffle each one so that you don't always get them in the same order...
 noOfWords = 0
