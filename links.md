@@ -2,14 +2,14 @@
 
 | Link | Description |
 | --- | --- |
-| [https://www.ordnett.no](ordnett.no) | The Norwegian Dictionary run by UiB |
-| [https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l](Duolingo Norwegian) | Duoloingo course in Norwegian |
-| [https://norwegianmentor.com/learn-about-conjunctions-in-norwegian-part-1/](Norwegian Mentor (conjunctions)) | Norwegian Mentor conjunctions page |
-| [https://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf](Short Grammar Course) | Short grammar course from NTNU |
-| [https://www.ntnu.edu/now](Norwegian On The Web) | Norwegian learning from NTNU |
-| [https://www.ntnu.edu/now/vocabulary/list](Norwegian On The Web vocabulary list) | Norwegian On The Web vocabulary list |
-| [https://www.norwegianclass101.com/blog/2020/08/24/norwegian-pronouns/](Norwegian class pronouns) | To be understood properly in Norwegian it’s important to use the right pronouns |
-| [https://www.ntnu.edu/now/10/grammar](Prepositions) | Some alternative explanations on prepositions that _may_ help further |
-| [https://nlsnorwegian.no/essential-norwegian-prepositions-top-25-list/](Prepositions from Norwegian Language School) | Essential Norwegian Prepositions: Top 25 List |
-| [https://www.ordnett.no/search?language=en&phrase=klare&selectedPubs=18&showSignLanguage=undefined](å klare at ordnet) | Secondary meanings |
+| [ordnett.no](https://www.ordnett.no) | The Norwegian Dictionary run by UiB |
+| [Duolingo Norwegian](https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l) | Duoloingo course in Norwegian |
+| [Norwegian Mentor (conjunctions)](https://norwegianmentor.com/learn-about-conjunctions-in-norwegian-part-1/) | Norwegian Mentor conjunctions page |
+| [Short Grammar Course](https://www.hf.ntnu.no/now/hardcopies/ShortGrammar.pdf) | Short grammar course from NTNU |
+| [Norwegian On The Web](https://www.ntnu.edu/now) | Norwegian learning from NTNU |
+| [Norwegian On The Web vocabulary list](https://www.ntnu.edu/now/vocabulary/list) | Norwegian On The Web vocabulary list |
+| [Norwegian class pronouns](https://www.norwegianclass101.com/blog/2020/08/24/norwegian-pronouns/) | To be understood properly in Norwegian it’s important to use the right pronouns |
+| [Prepositions](https://www.ntnu.edu/now/10/grammar) | Some alternative explanations on prepositions that _may_ help further |
+| [Prepositions from Norwegian Language School](https://nlsnorwegian.no/essential-norwegian-prepositions-top-25-list/) | Essential Norwegian Prepositions: Top 25 List |
+| [å klare at ordnet](https://www.ordnett.no/search?language=en&phrase=klare&selectedPubs=18&showSignLanguage=undefined) | Secondary meanings |
 
