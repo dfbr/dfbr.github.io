@@ -79,7 +79,7 @@ for i in genderedCategories:
 linkText = ""
 # first nouns...
 for i in myWords['link']:
-    linkText += "| [{}]({}) | {} |\n".format(i['norsk'],i['engelsk'],i['gender'])
+    linkText += "| [{}]({}) | {} |\n".format(i['engelsk'],i['norsk'],i['gender'])
 
 file = open ('headers/linksHeader.md',mode='r')
 content = file.read()
