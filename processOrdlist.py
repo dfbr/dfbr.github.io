@@ -239,7 +239,7 @@ innerHTML += """
                 }
             }
 
-            var myWordsJson = "https://dfbr.github.io/words.json";
+            var myWordsJson = "https://norwegianwords.dfbr.co.uk/words.json";
             var delayInMilliseconds = 1000; //2 seconds
             var myWords = [];
             $.getJSON(myWordsJson).done(function(data) { myWords = shuffle(data.words); });
